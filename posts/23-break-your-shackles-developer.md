@@ -5,7 +5,9 @@ Author: Priyanka Sharma
 AuthorUrl: https://twitter.com/pritianka
 AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
 ---
-![The Shackles](https://wakatime.com/static/img/blog/office.png "The Shackles")
+<div style="text-align:center;">
+    <img src="https://wakatime.com/static/img/blog/office.png" alt="The Shackles" title="The Shackles" width="100%" class="img-thumbnail"/>
+</div>
 
 We've done a lot of promotion around our [WakaTime-Slack integrations](https://wakatime.com/integrations).  Why, you'd wonder.  We are not even listed as an official Slack integration.  Yet. ;-)  It's because the integration completely changed our workflow at WakaTime.  And if there are teams out there we could help, we want to put all efforts into getting the word out there. 
 
@@ -16,17 +18,25 @@ So we built the WakaTime integrations for [GitHub + Slack](https://wakatime.com/
 If you would like similar freedom and still work as part of a team, here's how you set up our magic integration :-)
 
 1.  Sign up for [WakaTime](https://wakatime.com) and install the plugin for your text editor/IDE.  Duh!
-![Sign up for WakaTime](https://wakatime.com/static/img/blog/lp.png "The Shackles")
+<div style="text-align:center;">
+    <img src="https://wakatime.com/static/img/blog/lp.png" alt="Sign up for WakaTime" title="Sign up for WakaTime" width="100%" class="img-thumbnail"/>
+</div>
 
 2.  Go to the [WakaTime dashboard](https://wakatime.com/dashboard) and integrate with GitHub for the projects you want to broadcast commits from. 
-![Integrate with GitHub](https://wakatime.com/static/img/blog/gh-integrate.png "Integrate with GitHub")
+<div style="text-align:center;">
+    <img src="https://wakatime.com/static/img/blog/gh-integrate.png" alt="Connect GitHub" title="Connect GitHub" width="100%" class="img-thumbnail"/>
+</div>
 
 3.  Now the final step.  Set up the [Slack integration](https://wakatime.com/integrations/slack).
-![Integrate with Slack](https://wakatime.com/static/img/blog/slack-integration.png "Integrate with Slack")
+<div style="text-align:center;">
+    <img src="https://wakatime.com/static/img/blog/slack-integration.png" alt="Connect Slack" title="Connect Slack" width="100%" class="img-thumbnail"/>
+</div>
 
 You're all set!  You will receive your first broadcast as soon as you make a commit.  Once your team-mates follow the same instructions, you all will be ready to enjoy a free life!
 
-![Beach life!](https://wakatime.com/static/img/blog/beach-working.jpg "Beach life!")
+<div style="text-align:center;">
+    <img src="https://wakatime.com/static/img/blog/beach-working.jpg" alt="Beach Life" title="Beach life!" width="100%" class="img-thumbnail"/>
+</div>
 
 
 You're welcome. ;-)
