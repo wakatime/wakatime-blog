@@ -18,7 +18,7 @@ AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
 Last week I gave a talk at Developer Week on productivity for developers.  Here's our presentation.
 
 <div style="text-align:center;">
-    <iframe src="//www.slideshare.net/slideshow/embed_code/44574615" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+    <a href="http://www.slideshare.net/priyankasharma260/developer-productivity-awards"><img src="https://wakatime.com/static/img/blog/priyanka-dev-week-2015-slideshare.png" width="425" height="355" class="img-thumbnail"/></a>
     <div style="margin-bottom:5px"><strong><a href="//www.slideshare.net/priyankasharma260/developer-productivity-awards" title="Developer Productivity Awards" target="_blank">Developer Productivity Awards</a> </strong> from <strong><a href="//www.slideshare.net/priyankasharma260" target="_blank">Priyanka Sharma</a></strong></div>
 </div>
 
