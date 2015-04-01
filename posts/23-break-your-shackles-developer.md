@@ -24,7 +24,7 @@ If you would like similar freedom and still work as part of a team, here's how y
 3.  Now the final step.  Set up the [Slack integration](https://wakatime.com/integrations/slack).
 ![Integrate with Slack](https://wakatime.com/static/img/blog/slack-integration.png "Integrate with Slack")
 
-You're all set!  You will receive your first broadcast as soon as you make a commit.  Once your team-mates follow the same instructions, you all will be ready to enjoy a free life.  Enjoy!
+You're all set!  You will receive your first broadcast as soon as you make a commit.  Once your team-mates follow the same instructions, you all will be ready to enjoy a free life!
 
 ![Beach life!](https://wakatime.com/static/img/blog/beach-working.jpg "Beach life!")
 
