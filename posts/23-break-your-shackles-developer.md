@@ -16,19 +16,13 @@ So we built the WakaTime integrations for GitHub + Slack to make our lives easie
 If you would like similar freedom and still work as part of a team, here's how you set up our magic integration :-)
 
 1.  Sign up for [WakaTime](https://wakatime.com) and install the plugin for your text editor/IDE.  Duh!
-
 ![Sign up for WakaTime](https://wakatime.com/static/img/blog/lp.png "The Shackles")
 
-
 2.  Go to the [WakaTime dashboard](https://wakatime.com/dashboard) and integrate with GitHub for the projects you want to broadcast commits from. 
-
 ![Integrate with GitHub](https://wakatime.com/static/img/blog/gh-integrate.png "Integrate with GitHub")
 
-
 3.  Now the final step.  Set up the [Slack integration](https://wakatime.com/integrations/slack).
-
 ![Integrate with Slack](https://wakatime.com/static/img/blog/slack-integration.png "Integrate with Slack")
-
 
 You're all set!  You will receive your first broadcast as soon as you make a commit.  Once your team-mates follow the same instructions, you all will be ready to enjoy a free life.  Enjoy!
 
