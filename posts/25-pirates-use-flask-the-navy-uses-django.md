@@ -12,10 +12,7 @@ Trying to decide between Django and Flask for your next project?
 
 This interactive worksheet shows which framework is best suited to your specific use case:
 
-###[Django vs Flask Worksheet][worksheet]
-<div style="text-align:left;">
-  <a href="/django-vs-flask-worksheet"><img src="/static/img/blog/django-vs-flask-worksheet.png" alt="Django vs Flask Worksheet" title="Django vs Flask Worksheet" width="80%" class="img-thumbnail"/></a>
-</div>
+<a href="/django-vs-flask-worksheet" style="color: #ffffff; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25); background-color: #5bb75b; background-image: -moz-linear-gradient(top, #62c462, #51a351); background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#62c462), to(#51a351)); background-image: -webkit-linear-gradient(top, #62c462, #51a351); background-image: -o-linear-gradient(top, #62c462, #51a351); background-image: linear-gradient(to bottom, #62c462, #51a351); background-repeat: repeat-x; border-color: #51a351 #51a351 #387038; border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25); display: inline-block; padding: 4px 12px; margin-bottom: 0; font-size: 14px; line-height: 20px; text-align: center; vertical-align: middle; cursor: pointer; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">Django vs Flask worksheet</a>
 
 ## Differences between Django and Flask
 
