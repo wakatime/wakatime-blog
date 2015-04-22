@@ -12,6 +12,7 @@ If you're testing out a new idea or getting a product going, you have to choose 
 For Python devs, [Flask][flask] and [Django][django] are the two most popular web framework options.
 I have experience with both and have chosen one or the other for my myriad of projects and companies.
 My current product, [WakaTime][wakatime] is built with Flask and this choice has helped us achieve our goals of building an API heavy product which enables 27,000+ developers to use and extend.
+
 Having experienced the benefits of choosing the right framework, I created a worksheet to help other devs decide.
 You can go through it and get a "result" of the best framework to use.
 
@@ -102,7 +103,7 @@ In conclusion, the reason to use Django or Flask is to save dev time and build f
 You should use your best judgment and [this worksheet][worksheet] when deciding which framework is best suited for your use case.
 
 I would also be happy to chat and help you decide between Django or Flask.
-Just send me an email at [alan@wakatime.com](mailto:alan@wakatime.com) with your question or jump on the #wakatime channel on irc.freenode.net.
+Just leave a comment here with your question or jump on the #wakatime channel on irc.freenode.net.
 
 P.S. Pirates use Flask, the Navy uses Django. [WakaTime][wakatime] is a pirate ;)
 
