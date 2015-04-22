@@ -98,7 +98,11 @@ However, they are both insignificant when compared to frameworks in other langua
 </div>
 <br />
 
-In conclusion, the reason to use Django or Flask is to save dev time and build faster. You should use your best judgment and [this worksheet][worksheet] when deciding which framework is best suited for your use case.
+In conclusion, the reason to use Django or Flask is to save dev time and build faster.
+You should use your best judgment and [this worksheet][worksheet] when deciding which framework is best suited for your use case.
+
+I would also be happy to chat and help you decide between Django or Flask.
+Just send me an email at [alan@wakatime.com](mailto:alan@wakatime.com) with your question or jump on the #wakatime channel on irc.freenode.net.
 
 P.S. Pirates use Flask, the Navy uses Django. [WakaTime][wakatime] is a pirate ;)
 
