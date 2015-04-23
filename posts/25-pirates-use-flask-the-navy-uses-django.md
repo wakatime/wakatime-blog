@@ -72,7 +72,6 @@ Many companies use Django and Flask because they save time building the product 
 
         <ul style="padding-left:16px;">
             <li><a href="https://wakatime.com/" target="_blank">WakaTime</a></li>
-            <li><a href="http://www.reddit.com/" target="_blank">Reddit</a></li>
             <li><a href="https://www.twilio.com/" target="_blank">Twilio</a></li>
             <li><a href="http://arstechnica.com/information-technology/2012/11/how-team-obamas-tech-efficiency-left-romney-it-in-dust/" target="_blank">President Obama</a></li>
             <li><a href="http://close.io/" target="_blank">Close.io</a></li>
