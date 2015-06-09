@@ -1,5 +1,5 @@
 ---
-Title: Custom Visualizations using KeenIO
+Title: 4 New Ways to Visualize Your WakaTime data
 Date: 2015-06-10
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
