@@ -26,15 +26,23 @@ Want more visualizations from your WakaTime data? Now you can export your WakaTi
 
 4. Create custom queries using KeenIO's [Data Explorer][keenio data explorer]
 
-Some examples of visualizations:
+Some examples visualizations:
 
-* which files have i spent the most time in over the last year
-* which editors have i used the most over the last year
-* which weekday do i spend the most time programming
+## Most productive day of the week
 
-My first visualization was to discover which languge I used the most over the last 2 years.
+<img src="https://wakatime.com/static/img/blog/keenio-weekdays.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
 
-<img src="https://wakatime.com/static/img/blog/keenio-visualization-3.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+## Top files worked in over the last 2 years
+
+<img src="https://wakatime.com/static/img/blog/keenio-files.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+
+## Editor usage over the last 2 years
+
+<img src="https://wakatime.com/static/img/blog/keenio-editors.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+
+## Programming languages used over the last 2 years
+
+<img src="https://wakatime.com/static/img/blog/keenio-languages.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
 
 
 [wakadump]: https://github.com/wakatime/wakadump
