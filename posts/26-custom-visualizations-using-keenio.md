@@ -19,8 +19,8 @@ Want more visualizations from your WakaTime data? Now you can export your WakaTi
 
     ```wakadump --input wakatime-user.json --format keen.io
     keen.io Project ID: 5570da806f31a24af926025e
-    keen.io project Write Key:
-    Preparing keen.io events  [####################################]  100%
+    keen.io project Write Key: XXXX
+    Preparing keen.io events...
     Uploading events to keen.io...
     Complete.```
 
