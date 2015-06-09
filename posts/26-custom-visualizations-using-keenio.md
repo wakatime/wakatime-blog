@@ -1,6 +1,6 @@
 ---
 Title: 4 New Ways to Visualize Your WakaTime data
-Date: 2015-06-10
+Date: 2015-06-09
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
