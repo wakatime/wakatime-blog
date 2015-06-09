@@ -40,7 +40,7 @@ To create your own custom queries using the [KeenIO data explorer][keenio data e
 
     `sudo pip install wakadump`
 
-2. Export your logged time from WakaTime's [settings page][settings page].
+2. Export your logged time from your [settings page][settings page].
 
 3. Upload your WakaTime data to KeenIO by running this command:
 
