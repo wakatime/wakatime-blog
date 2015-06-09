@@ -42,16 +42,18 @@ To create your own custom queries using the [KeenIO data explorer][keenio data e
 
 2. Export your logged time from your [settings page][settings page].
 
-3. Upload your WakaTime data to KeenIO by running this command:
+3. Sign up for a [KeenIO][keenio] account and grab your `Project ID` and `Write Key` from your project page.
+
+4. Upload your WakaTime data to KeenIO by running this command:
 
     ```wakadump --input wakatime-user.json --output keen.io
-    keen.io Project ID: 5570da806f31a24af926025e
+    keen.io Project ID: XXXX
     keen.io project Write Key: XXXX
     Preparing keen.io events...
     Uploading events to keen.io...
     Complete.```
 
-4. Create custom queries using KeenIO's [Data Explorer][keenio data explorer]
+5. Create custom queries using KeenIO's [Data Explorer][keenio data explorer]
 
 If you find something interesting from your WakaTime data, please do share your insight in the comments or send me an email!
 
