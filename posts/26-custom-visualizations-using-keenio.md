@@ -14,7 +14,7 @@ You could use our [api][api], but we have an easier way...
 ### Introducing wakadump!
 
 Using [wakadump][wakadump], you can easily export your WakaTime data to [KeenIO][keenio] and take advantage of their powerful data explorer features.
-For example, I queryied all my WakaTime data from the last 2 years and was quickly able to create these custom visualizations:
+For example, I queried all my WakaTime data from the last 2 years and was quickly able to create these custom visualizations:
 
 ### Most productive day of the week
 
