@@ -18,19 +18,19 @@ For example, I queryied all my WakaTime data from the last 2 years and was quick
 
 ### Most productive day of the week
 
-<img src="https://wakatime.com/static/img/blog/keenio-weekdays.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+<img src="https://wakatime.com/static/img/blog/keenio-weekdays.png" alt="most productive weekday" width="100%" class="img-thumbnail"/>
 
 ### Top files worked in over the last 2 years
 
-<img src="https://wakatime.com/static/img/blog/keenio-files.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+<img src="https://wakatime.com/static/img/blog/keenio-files.png" alt="top files" width="100%" class="img-thumbnail"/>
 
 ### Editor usage over the last 2 years
 
-<img src="https://wakatime.com/static/img/blog/keenio-editors.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+<img src="https://wakatime.com/static/img/blog/keenio-editors.png" alt="editor usage" width="100%" class="img-thumbnail"/>
 
 ### Programming languages used over the last 2 years
 
-<img src="https://wakatime.com/static/img/blog/keenio-languages.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+<img src="https://wakatime.com/static/img/blog/keenio-languages.png" alt="programming languages used over last 2 years" width="100%" class="img-thumbnail"/>
 
 ### Create your own visualizations
 
