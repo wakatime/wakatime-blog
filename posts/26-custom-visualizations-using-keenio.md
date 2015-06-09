@@ -34,7 +34,7 @@ Some examples of visualizations:
 
 My first visualization was to discover which languge I used the most over the last 3 years.
 
-<img src="/static/img/blog/keenio-visualization-3.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
+<img src="https://wakatime.com/static/img/blog/keenio-visualization-3.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
 
 
 [wakadump]: https://github.com/wakatime/wakadump
