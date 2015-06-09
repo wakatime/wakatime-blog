@@ -44,7 +44,7 @@ To create your own custom queries using the [KeenIO data explorer][keenio data e
 
 3. Upload your WakaTime data to KeenIO by running this command:
 
-    ```wakadump --input wakatime-user.json --format keen.io
+    ```wakadump --input wakatime-user.json --output keen.io
     keen.io Project ID: 5570da806f31a24af926025e
     keen.io project Write Key: XXXX
     Preparing keen.io events...
