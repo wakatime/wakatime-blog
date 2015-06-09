@@ -32,7 +32,7 @@ Some examples of visualizations:
 * which editors have i used the most over the last year
 * which weekday do i spend the most time programming
 
-My first visualization was to discover which languge I used the most over the last 3 years.
+My first visualization was to discover which languge I used the most over the last 2 years.
 
 <img src="https://wakatime.com/static/img/blog/keenio-visualization-3.png" alt="KeenIO Visualization" title="KeenIO Visualization" width="100%" class="img-thumbnail"/>
 
