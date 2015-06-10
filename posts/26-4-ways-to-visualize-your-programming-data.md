@@ -14,23 +14,23 @@ You could use our [api][api], but we have an easier way...
 ### Introducing wakadump!
 
 Using [wakadump][wakadump], you can easily export your WakaTime data to [Keen IO][keen io] and take advantage of their powerful data explorer features.
-For example, I queried all my WakaTime data from the last 2 years and was quickly able to create these custom visualizations:
+For example, I queried all my WakaTime data from the last year and was quickly able to create these custom visualizations:
 
 ### Most productive day of the week
 
 <img src="https://wakatime.com/static/img/blog/keenio-weekdays.png" alt="most productive weekday" width="100%" class="img-thumbnail"/>
 
-### Top files worked in over the last 2 years
+### Top files worked in over the last year
 
 <img src="https://wakatime.com/static/img/blog/keenio-files.png" alt="top files" width="100%" class="img-thumbnail"/>
 
-### Editor usage over the last 2 years
+### Editor usage over the last year
 
 <img src="https://wakatime.com/static/img/blog/keenio-editors.png" alt="editor usage" width="100%" class="img-thumbnail"/>
 
-### Programming languages used over the last 2 years
+### Programming languages used over the last year
 
-<img src="https://wakatime.com/static/img/blog/keenio-languages.png" alt="programming languages used over last 2 years" width="100%" class="img-thumbnail"/>
+<img src="https://wakatime.com/static/img/blog/keenio-languages.png" alt="programming languages used over last year" width="100%" class="img-thumbnail"/>
 
 ### Create your own visualizations
 
