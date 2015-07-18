@@ -106,6 +106,8 @@ Just leave a comment here with your question or jump on the #wakatime channel on
 
 P.S. Pirates use Flask, the Navy uses Django. [WakaTime][wakatime] is a pirate ;)
 
+*Update:* Emilien Klein found an [interesting open-source comparison](https://www.openhub.net/p/compare?project_0=Flask&project_1=Django) of Flask and Django.
+
 
 [worksheet]: https://wakatime.com/django-vs-flask-worksheet
 [flask]: http://flask.pocoo.org/
