@@ -18,9 +18,7 @@ Else, you will either fall behind, or you will spend 2-3x the time you should le
 When it comes to individuals, it's not about completing features but rather about accomplishing personal goals.
 These goals can be finishing a feature set, or they can be bug fixing, learning a new framework, etc.  
 
-### Individual programmers are not good at measuring their productivity.
-
-Independent contractors, the type of people who tend to use WakaTime's analytics the most, are the best in class when it comes to studying their performance and creating workflows that make them ninjas of software development.
+Individual programmers are not good at measuring their productivity.  Independent contractors, the type of people who tend to use WakaTime's analytics the most, are the best in class when it comes to studying their performance and creating workflows that make them ninjas of software development.
 Taking their example, I formulated a simple productivity score for my development work.  
 
 <p style="text-align:center;">
