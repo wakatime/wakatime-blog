@@ -1,6 +1,7 @@
 ---
 Title: Don't go to events as a startup founder
 Date: 2015-01-12
+Image: https://wakatime.com/static/img/blog/box-girl-geek-dinner-2015-01-08.png
 Author: Priyanka Sharma
 AuthorUrl: https://twitter.com/pritianka
 AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
