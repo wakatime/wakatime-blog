@@ -1,6 +1,7 @@
 ---
 Title: Visual Studio Code Extensions
 Date: 2015-11-18
+Image: https://wakatime.com/static/img/vscode-wakatime-release.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
