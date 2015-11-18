@@ -1,6 +1,7 @@
 ---
 Title: Analytics About Your Komodo Usage
 Date: 2014-06-23
+Image:
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
