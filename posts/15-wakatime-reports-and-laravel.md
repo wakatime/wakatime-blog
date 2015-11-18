@@ -1,6 +1,7 @@
 ---
 Title: WakaTime Reports and Laravel
 Date: 2015-02-02
+Image: https://wakatime.com/static/img/blog/laravel-site.png
 Author: Mario Basic
 AuthorUrl: https://wakatime.com/@mabasic
 AuthorGravatar: https://secure.gravatar.com/avatar/c21c351355a4e7d63bddbd25ab53b757?s=150&d=identicon
