@@ -1,6 +1,7 @@
 ---
 Title: Female founders conference wasn't really about women in tech ...
 Date: 2015-02-25
+Image: https://wakatime.com/static/img/blog/priyanka-yc-ffc.png
 Author: Priyanka Sharma
 AuthorUrl: https://twitter.com/pritianka
 AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
