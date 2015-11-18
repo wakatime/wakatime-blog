@@ -1,6 +1,7 @@
 ---
 Title: 3 Hacks to Increase Your Productivity
 Date: 2014-12-16
+Image: 
 Author: Priyanka Sharma
 AuthorUrl: https://twitter.com/pritianka
 AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
