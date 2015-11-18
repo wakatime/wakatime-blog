@@ -38,6 +38,6 @@ To create your own extension, use the Yeoman generator and generate an example p
 
 The [WakaTime for VSCode](https://marketplace.visualstudio.com/items/WakaTime.vscode-wakatime) extension is a great example to start with.
 Check out the extension source code from the [GitHub repository](https://github.com/wakatime/vscode-wakatime).
-You can also use the [WakaTime extension](https://marketplace.visualstudio.com/items/WakaTime.vscode-wakatime) to measure how long your extension takes you to build!
+You can also use the [WakaTime extension](https://marketplace.visualstudio.com/items/WakaTime.vscode-wakatime) to measure how long it takes you to build your extension!
 
 Here's the [Official Extension Reference](https://code.visualstudio.com/docs/extensionAPI/overview). Have fun creating new Vscode extensions!
