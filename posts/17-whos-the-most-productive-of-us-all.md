@@ -1,6 +1,7 @@
 ---
 Title: Who's the most productive of us all?
 Date: 2015-02-17
+Image: https://wakatime.com/static/img/blog/priyanka-dev-week-2015.png
 Author: Priyanka Sharma
 AuthorUrl: https://twitter.com/pritianka
 AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
