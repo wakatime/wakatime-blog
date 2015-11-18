@@ -1,6 +1,7 @@
 ---
 Title: Pirates use Flask, the Navy uses Django
 Date: 2015-04-21
+Image: https://wakatime.com/static/img/blog/django-vs-flask-performance-insignificant.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
@@ -86,7 +87,7 @@ Many companies use Django and Flask because they save time building the product 
 Flask serves JSON responses slightly faster than Django.
 
 <div style="text-align:left;">
-  <a href="https://www.techempower.com/benchmarks/" target="_blank"><img src="/static/img/blog/django-vs-flask-performance.png" alt="Django vs Flask Performance" title="Django vs Flask Performance" width="80%" class="img-thumbnail"/></a>
+  <a href="https://www.techempower.com/benchmarks/" target="_blank"><img src="https://wakatime.com/static/img/blog/django-vs-flask-performance.png" alt="Django vs Flask Performance" title="Django vs Flask Performance" width="80%" class="img-thumbnail"/></a>
 </div>
 <br />
 
@@ -94,7 +95,7 @@ However, they are both insignificant when compared to frameworks in other langua
 *The reason to use Django or Flask is to increase dev performance, build faster, and have a "fast enough" framework.*
 
 <div style="text-align:left;">
-  <a href="https://www.techempower.com/benchmarks/" target="_blank"><img src="/static/img/blog/django-vs-flask-performance-insignificant.png" alt="Django vs Flask Performance Insignificant" title="Django vs Flask Performance Insignificant" width="70%" class="img-thumbnail"/></a>
+  <a href="https://www.techempower.com/benchmarks/" target="_blank"><img src="https://wakatime.com/static/img/blog/django-vs-flask-performance-insignificant.png" alt="Django vs Flask Performance Insignificant" title="Django vs Flask Performance Insignificant" width="70%" class="img-thumbnail"/></a>
 </div>
 <br />
 
