@@ -26,13 +26,15 @@ To create your own extension, use the Yeoman generator and generate an example p
 
 1. Navigate to `~/.vscode/extensions` in a Terminal.
 
-2. Run `sudo npm install -g yo generator-code && yo code`. Choose `New Extension (TypeScript)`.
+2. Run `sudo npm install -g yo generator-code && yo code`.
 
-3. Restart Visual Studio Code and open the Developer Console. You should see a log message `Congratulations, your extension "Test" is now active!`.
+3. Choose `New Extension (TypeScript)` and name your extension.
 
-4. To edit your extension, open the `src/extension.js` file inside your generated extension directory.
+4. Restart Visual Studio Code and open the Developer Console. You should see a log message `Congratulations, your extension "Test" is now active!`.
 
-5. If you add node dependencies to your `package.json`, remember to run `npm install` inside your extension folder.
+5. To edit your extension, open the `src/extension.js` file inside your generated extension directory.
+
+6. If you add node dependencies to your `package.json`, remember to run `npm install` inside your extension folder.
 
 The [WakaTime for VSCode](https://marketplace.visualstudio.com/items/WakaTime.vscode-wakatime) extension is a great example to start with.
 Check out the extension source code from the [GitHub repository](https://github.com/wakatime/vscode-wakatime).
