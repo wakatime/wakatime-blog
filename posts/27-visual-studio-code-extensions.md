@@ -23,7 +23,7 @@ Inside Visual Studio Code, press `CMD + Shift + P` (`F1` on Windows) then type `
 
 ### Creating Extensions
 
-Extensions are written in [TypeScript](https://en.wikipedia.org/wiki/TypeScript), basically JavaScript with classes.
+Extensions are written in [TypeScript](https://en.wikipedia.org/wiki/TypeScript), basically JavaScript with types.
 To create your own extension, use the Yeoman generator and generate an example plugin:
 
 1. Navigate to `~/.vscode/extensions` in a Terminal.
