@@ -8,7 +8,7 @@ AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
 ---
 ![Launch!](https://wakatime.com/static/img/blog/launch.png "Us at Launch")
 
-I have mused before about events being a [waste of time](https://wakatime.com/blog/12-dont-go-to-events-as-a-startup-founder?page=2).  But then I went against my own advice and hosted booths, gave talks at quite a few startup and developer events.  Rather hypocritical, no?  No.  I recently realized that events hold a very different meaning for a startup versus a founder.  Launch 2015 in particular was something that completely belied my image of a well-planned, successful, worth-attending event, but was 100% useful for WakaTime.
+I have mused before about events being a [waste of time](https://wakatime.com/blog/12-dont-go-to-events-as-a-startup-founder).  But then I went against my own advice and hosted booths, gave talks at quite a few startup and developer events.  Rather hypocritical, no?  No.  I recently realized that events hold a very different meaning for a startup versus a founder.  Launch 2015 in particular was something that completely belied my image of a well-planned, successful, worth-attending event, but was 100% useful for WakaTime.
 
 Launch was one of the lesser organized events I have attended.  However, it did a kick ass job of putting us front and center of people who cared about our product.  We met current users who came and thanked us for our work.  Developers who hadn’t heard of us got excited when they saw our booth.  Investors stopped by to chit-chat and hang.  It was all kinds of cool.
 
