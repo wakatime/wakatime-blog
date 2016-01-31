@@ -6,7 +6,7 @@ Description: If you haven't heard, Visual Studio Code is now open source on GitH
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
-Categories: Product
+Category: New Features
 Tags: plugins, vscode
 ---
 
