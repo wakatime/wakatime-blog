@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/keenio-weekdays.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
-Categories: Engineering
+Category: Engineering
 ---
 
 [WakaTime][wakatime] is like fitbit for programmers, and we are always looking for new ways to visualize our data.

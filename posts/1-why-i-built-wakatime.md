@@ -4,8 +4,8 @@ Date: 2014-03-03
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
-Categories: Product, Startups
-Tags:
+Category: Engineering
+Tags: startups
 ---
 
 Every week, residents of the <a href="https://twitter.com/pahackerhouse">Hacker House</a> gather around a backyard fire while chatting about startups.

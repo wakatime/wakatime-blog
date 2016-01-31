@@ -5,7 +5,7 @@ Image:
 Author: Priyanka Sharma
 AuthorUrl: https://twitter.com/pritianka
 AuthorGravatar: https://1.gravatar.com/avatar/8a40c795faff113fd90dbda994d43156
-Categories: Tips
+Category:
 Tags: productivity, education
 ---
 

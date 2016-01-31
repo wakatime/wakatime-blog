@@ -5,8 +5,8 @@ Image: https://wakatime.com/static/img/ScreenShots/Screen Shot 2014-04-07 at 07.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
-Categories: Product
-Tags: new features
+Category: New Features
+Tags:
 ---
 
 How do you increase your productivity each day?
