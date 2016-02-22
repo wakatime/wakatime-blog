@@ -1,7 +1,7 @@
 ---
 Title: Coda WakaTime Plugin Released
 Date: 2016-02-22
-Image: https://wakatime.com/static/img/editor-icons/coda-128.png
+Image: https://wakatime.com/static/img/coda-wakatime.png
 Description: Get metrics about your programming automatically generated from your Coda usage!
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
