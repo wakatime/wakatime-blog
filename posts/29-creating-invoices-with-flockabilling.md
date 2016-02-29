@@ -29,7 +29,7 @@ We plan to keep adding more features to FlockaBilling, and would love your feedb
 - Team groups (group wakatime accounts)
 - Notify contact that an invoice has been created
 
-We would love to hear you're feedback on how we can make FlockaBilling work to fit your needs for invoicing.
+We would love to hear your feedback on how we can make FlockaBilling work to fit your needs for invoicing.
 Just drop us a line in the comments and we will reply.
 
 [flockabilling]: http://invoate.com/platforms/flockabilling
