@@ -7,7 +7,6 @@ Author: Amy Bridges
 AuthorUrl: https://wakatime.com/@ubergeekzone
 AuthorGravatar: https://secure.gravatar.com/avatar/9aea887fe8e646b7ac516bf157b4e558
 Tags: invoicing, flockabilling, freelancing, contracting
-Draft: true
 ---
 
 *This is a guest post by [Amy Bridges](https://wakatime.com/@ubergeekzone), Founder at [FlockaBilling][flockabilling].*
