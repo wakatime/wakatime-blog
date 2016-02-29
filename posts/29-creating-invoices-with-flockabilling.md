@@ -1,7 +1,7 @@
 ---
 Title: Creating Invoices with FlockaBilling
 Date: 2016-02-29
-Image: https://wakatime.com/static/img/coda-wakatime.png
+Image: https://wakatime.com/static/img/blog/flockabilling.png
 Description: FlockaBilling connects your WakaTime profile to invoicing apps like Freshbooks and Harvest
 Author: Amy Bridges
 AuthorUrl: https://wakatime.com/@ubergeekzone
