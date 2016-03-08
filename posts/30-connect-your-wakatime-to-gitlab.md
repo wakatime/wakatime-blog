@@ -12,7 +12,7 @@ Tags: integrations, gitlab
 
 We've added support for [GitLab][gitlab] to our [integrations page][integrations] today!
 
-<a href="https://wakatime.com/integrations"><img src="https://wakatime.com/static/img/blog/gitlab-wakatime.png" /></a>
+<a href="https://wakatime.com/integrations"><img src="https://wakatime.com/static/img/blog/gitlab-wakatime.png" class="img-responsive" /></a>
 
 After connecting a WakaTime project with a GitLab project, you can see the time you were coding on each commit directly from your WakaTime coding activity.
 
