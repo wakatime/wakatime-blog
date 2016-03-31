@@ -10,7 +10,7 @@ Category: New Features
 Tags: integrations, microsoft, office
 ---
 
-In the past week, we extended our integrations support to Microsoft Office 365 with Office 365 Connectors!
+In the past week, we extended our integrations support to Microsoft Office 365 with [Office 365 Connectors][build 2016 release]!
 Office 365 is a modern cloud-based productivity suite for businesses of all sizes.
 
 <a href="https://wakatime.com/integrations" style="margin-bottom:30px;margin-top:30px;display:inline-block;"><img src="https://wakatime.com/static/img/blog/office365-wakatime-cropped.png" class="img-responsive" /></a>
@@ -51,3 +51,4 @@ Many thanks to our friends at Microsoft for working with us on this new integrat
 [projects]: https://wakatime.com/projects
 [integrations]: https://wakatime.com/integrations
 [office integration]: https://wakatime.com/integrations/office365
+[build 2016 release]: http://dev.office.com/blogs/build2016release
