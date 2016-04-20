@@ -1,5 +1,5 @@
 ---
-Title: Automate GotDone using your WakaTime data
+Title: Automate timetracking with GotDone using your WakaTime data
 Date: 2016-04-20
 Image: https://www.gotdone.me/public/img/favicons/apple-touch-icon-152x152-precomposed.png
 Description: Link your workday to your timesheet with WakaTime + GotDone.
