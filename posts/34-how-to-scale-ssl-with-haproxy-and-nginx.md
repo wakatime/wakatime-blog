@@ -1,8 +1,8 @@
 ---
-Title: Load Balancing SSL Using Proxy Protocol with HAProxy and Nginx
+Title: How To Scale SSL with HAProxy and Nginx
 Date: 2016-06-13
 Image: https://wakatime.com/static/img/blog/load-balancing-haproxy-nginx.png
-Description: Scale SSL to multiple machines with Proxy Protocol.
+Description: Scale SSL to multiple machines using Proxy Protocol.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
