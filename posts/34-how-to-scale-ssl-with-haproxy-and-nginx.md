@@ -23,7 +23,7 @@ The Flask app servers handled the requests just fine, but the load balancer was 
 The solution is to proxy TCP instead of HTTP.
 This way the load balancer no longer terminates SSL, but passes the TCP connection on to your app servers unmodified.
 
-Let's say you have two nginx app servers (`10.0.0.11` and `10.0.0.12`) and one haproxy load balancer (`10.0.0.10`).
+Let's say you have two nginx app servers `10.0.0.11` and `10.0.0.12` and one haproxy load balancer `10.0.0.10`.
 First, [install haproxy][install haproxy].
 Then, edit `/etc/haproxy/haproxy.cfg` adding these lines:
 
@@ -103,7 +103,7 @@ SSL is distributed among your two nginx app servers, and your nginx log files sh
 
 Now you can scale to infinity!\*
 
-\* Your haproxy process is still limited to a certain number of connections (`ulimit`).
+\* Your haproxy process is still limited to a certain number of connections (See `ulimit`).
 
 [nginx ssl optimization]: http://nginx.org/en/docs/http/configuring_https_servers.html#optimization
 [ssl caching howto]: https://bjornjohansen.no/optimizing-https-nginx
