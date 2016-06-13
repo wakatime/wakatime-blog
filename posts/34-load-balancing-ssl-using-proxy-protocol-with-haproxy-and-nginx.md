@@ -49,14 +49,6 @@ With an nginx config like:
         ssl_certificate /etc/ssl/example/ssl.crt;
         ssl_certificate_key /etc/ssl/example/ssl.key;
 
-        # config to enable HSTS(HTTP Strict Transport Security) https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
-        # to avoid ssl stripping https://en.wikipedia.org/wiki/SSL_stripping#SSL_stripping
-        add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
-
-        # prevent clickjacking on modern browsers
-        # https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
-        add_header X-Frame-Options SAMEORIGIN;
-
         location / {
             include uwsgi_params;
             uwsgi_pass unix:/tmp/app.sock;
@@ -99,14 +91,6 @@ And tell nginx to receive the client's real IP using proxy protocol and add it t
 
         ssl_certificate /etc/ssl/example/ssl.crt;
         ssl_certificate_key /etc/ssl/example/ssl.key;
-
-        # config to enable HSTS(HTTP Strict Transport Security) https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
-        # to avoid ssl stripping https://en.wikipedia.org/wiki/SSL_stripping#SSL_stripping
-        add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
-
-        # prevent clickjacking on modern browsers
-        # https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
-        add_header X-Frame-Options SAMEORIGIN;
 
         location / {
             include uwsgi_params;
