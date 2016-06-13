@@ -34,8 +34,8 @@ Then, edit `/etc/haproxy/haproxy.cfg` adding these lines:
     backend https-servers
             mode tcp
             balance roundrobin
-            server srv1 10.0.0.11:443 check
-            server srv2 10.0.0.12:443 check
+            server srv1 10.0.0.11:443
+            server srv2 10.0.0.12:443
 
 
 With an nginx config like:
@@ -75,8 +75,8 @@ To enable Proxy Protocol in haproxy, add the `send-proxy` keyword to your `/etc/
     backend https-servers
             mode tcp
             balance roundrobin
-            server srv1 10.0.0.11:443 check send-proxy
-            server srv2 10.0.0.12:443 check send-proxy
+            server srv1 10.0.0.11:443 send-proxy
+            server srv2 10.0.0.12:443 send-proxy
 
 And tell nginx to receive the client's real IP using proxy protocol and add it to the HTTP request:
 
