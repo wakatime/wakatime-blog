@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
 Category: Engineering
-Tags: haproxy, nginx, ssl
+Tags: devops, haproxy, nginx, ssl
 ---
 
 ### SSL is CPU Intensive
@@ -58,7 +58,7 @@ With an nginx config like:
 This tells haproxy to setup a Layer 4 proxy to forward all TCP connections unmodified to the two nginx servers using roundrobin to balance the connections.
 The nginx app servers will share the load of negotiating SSL and parsing the HTTP requests.
 
-<div class="center-xs"><img src="https://wakatime.com/static/img/blog/load-balancing-haproxy-nginx-2.png" class="img-responsive img-thumbnail m-bottom-xs-20" style="width:50%" /></div>
+<div class="center-xs"><img src="https://wakatime.com/static/img/blog/load-balancing-haproxy-nginx-small.png" class="img-responsive img-thumbnail m-bottom-xs-20" style="width:50%" /></div>
 
 **One catch though**, your nginx app servers will see the requests coming from the IP address of your haproxy load balancer instead of the originating client.
 To fix this, enable Proxy Protocol to send the originating client's IP address to your nginx app servers.
