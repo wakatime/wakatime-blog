@@ -12,7 +12,7 @@ Tags: devops, haproxy, nginx, ssl
 
 ### SSL is CPU Intensive
 
-If you haven't already enabled [SSL session caching](ngix ssl optimization), do [that NOW](ssl caching howto).
+If you haven't already enabled [SSL session caching][ngix ssl optimization], do [that NOW][ssl caching howto].
 But what if you have many unique requests and your load balancer is maxing out it's CPU? 
 That was the case with WakaTime's load balancer, because as you use the [WakaTime plugins][editors] you are constantly making requests to our api saying you're still working on a project.
 We had one load balancer terminating SSL in front of multiple app servers running our [Flask app][flask].
