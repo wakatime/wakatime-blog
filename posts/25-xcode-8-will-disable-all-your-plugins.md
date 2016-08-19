@@ -15,6 +15,8 @@ Tags: xcode
 them know we need a fully functioning replacement before disabling the
 existing extensions.*
 
+*Update:* [This tool][patch] will re-enable extensions in your Xcode8 app.
+
 Xcode 8 comes with some new [features][features], like the ability to write
 custom extensions officially called Source Editor extensions. With Source
 Editor extensions, you can run code to interact, to a very limited extent,
@@ -50,3 +52,4 @@ and a discussion from plugin developers.
 [alcatraz]: http://alcatraz.io/
 [radars]: https://bugreport.apple.com/
 [issue]: https://github.com/alcatraz/Alcatraz/issues/475
+[patch]: https://s3-us-west-1.amazonaws.com/wakatime/MakeXcodeGr8Again.app.zip
