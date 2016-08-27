@@ -5,6 +5,8 @@ Image:
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://s.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe?s=80
+Category: New Features
+Tags: privacy
 ---
 
 The latest version of WakaTime allows more control over what gets logged. You can now whitelist directories so only certain directories get logged with WakaTime.
