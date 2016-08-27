@@ -6,6 +6,7 @@ Description: FlockaBilling connects your WakaTime profile to invoicing apps like
 Author: Amy Bridges
 AuthorUrl: https://wakatime.com/@ubergeekzone
 AuthorGravatar: https://secure.gravatar.com/avatar/9aea887fe8e646b7ac516bf157b4e558
+Category: New Features
 Tags: invoicing, flockabilling, freelancing, contracting
 ---
 
