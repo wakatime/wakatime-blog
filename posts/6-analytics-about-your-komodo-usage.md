@@ -13,4 +13,4 @@ Do you use <a href="http://komodoide.com/komodo-edit/" target="_blank">Komodo Ed
 
 WakaTime runs in the background automatically logging the time you spend in Komodo each day. After programming for a while, the website shows how long you spent in each project and which programming languages you were using.
 
-To install the <a href="https://wakatime.com/help/plugins/komodo">Komodo WakaTime plugin</a>, navigate to <code>Tools</code> -> <code>Add-ons</code> inside your Komodo editor then search for <code>WakaTime</code>.
+To install the <a href="https://wakatime.com/help/plugins/komodo">Komodo WakaTime plugin</a>, navigate to <code>Tools</code> → <code>Add-ons</code> inside your Komodo editor then search for <code>WakaTime</code>.
