@@ -13,4 +13,4 @@ The WakaTime plugin for <a href="https://atom.io/">Atom</a>, GitHub's open-sourc
 
 <a href="https://atom.io/packages/wakatime"><img title="Atom" alt="Atom" src="https://wakatime.com/static/img/editor-icons/atom-128.png"></a>
 
-To install the <a href="https://atom.io/packages/wakatime">plugin</a> in Atom, navigate to <code>Preferences...</code> -> <code>Packages</code> and search for <code>WakaTime</code>.
+To install the <a href="https://atom.io/packages/wakatime">plugin</a> in Atom, navigate to <code>Preferences...</code> → <code>Packages</code> and search for <code>WakaTime</code>.

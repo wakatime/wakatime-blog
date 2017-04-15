@@ -16,7 +16,7 @@ This code is based on the [WakaTime plugin for NetBeans](https://github.com/waka
 
 ## Create a new Plugin Project
 
-Choose `File` -> `New Project` then `NetBeans Modules` -> `Module` as the project type.
+Choose `File` → `New Project` then `NetBeans Modules` → `Module` as the project type.
 
 ![Create Plugin Project](https://wakatime.com/static/img/blog/create-plugin-project.png)
 
