@@ -9,6 +9,8 @@ Category: Engineering
 Tags: flask, django, python
 ---
 
+*Update:* [Tony Narlock](https://github.com/tony) created an amazingly comprehensive comparison of [Django vs Flask](https://www.git-pull.com/code_explorer/django-vs-flask.html).
+
 If you're testing out a new idea or getting a product going, you have to choose a web stack to build it on.
 For Python devs, [Flask][flask] and [Django][django] are the two most popular web framework options.
 I have experience with both and have chosen one or the other for my myriad of projects and companies.
@@ -36,7 +38,7 @@ Additionally, if you are interested, here are some comparison points for both Dj
             <li>607 watchers</li>
         </ul>
     </div>
-    
+
     <div style="width:49%;display:inline-block;padding-left:20px;">
         <p><b>Flask</b></p>
 
@@ -110,6 +112,8 @@ P.S. Pirates use Flask, the Navy uses Django. [WakaTime][wakatime] is a pirate ;
 *Update:* Emilien Klein found an [interesting open-source comparison](https://www.openhub.net/p/_compare?project_0=Flask&project_1=Django) of Flask and Django.
 
 *Update 2:* There is a new tool to visually compare open-source projects: [Flask](http://codeology.braintreepayments.com/mitsuhiko/flask/) vs [Django](http://codeology.braintreepayments.com/django/django/)
+
+*Update 3:* [Tony Narlock](https://github.com/tony) created an amazingly comprehensive comparison of [Django vs Flask](https://www.git-pull.com/code_explorer/django-vs-flask.html).
 
 
 [worksheet]: https://wakatime.com/django-vs-flask-worksheet
