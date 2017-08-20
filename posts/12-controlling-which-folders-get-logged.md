@@ -1,12 +1,12 @@
 ---
-Title: Controlling Which Folders Get Logged 
+Title: Controlling Which Folders Get Logged
 Date: 2015-03-06
-Image: 
+Image:
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://s.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe?s=80
 Category: New Features
-Tags: privacy
+Tags: dashboard, privacy
 ---
 
 The latest version of WakaTime allows more control over what gets logged. You can now whitelist directories so only certain directories get logged with WakaTime.

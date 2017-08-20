@@ -7,7 +7,6 @@ AuthorUrl: https://wakatime.com/@mabasic
 AuthorGravatar: https://secure.gravatar.com/avatar/c21c351355a4e7d63bddbd25ab53b757?s=150&d=identicon
 Category: Engineering
 Tags: laravel, php, api
-Released: true
 ---
 In this post I will show you how to use the PHP package that I wrote for WakaTime [wakatime-php-api](https://github.com/mabasic/wakatime-php-api) with Laravel.
 
@@ -36,7 +35,7 @@ The package has a lot of convinient methods like:
 - getHoursLoggedForThisMonth
 - getHoursLoggedForLastMonth
 
-and the two official methods from WakaTime 
+and the two official methods from WakaTime
 from which it gets the numbers for the above methods:
 
 - currentUser
@@ -44,7 +43,7 @@ from which it gets the numbers for the above methods:
 
 As I mentioned earlier in this post I will show you how to consume this package in Laravel, so let's start and dive in.
 
-## Installation 
+## Installation
 
 Add to your composer.json:
 
@@ -141,8 +140,8 @@ class BlankController extends \BaseController {
 
         /**
          * Or you can return some view and pass the variable.
-         * 
-         * Be sure to create a view `example.blade.php` 
+         *
+         * Be sure to create a view `example.blade.php`
          * in views folder if you are going to do this.
          */
         //return View::make('example')->with('hours', $workHoursThisMonth);

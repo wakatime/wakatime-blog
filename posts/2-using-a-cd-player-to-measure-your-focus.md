@@ -6,7 +6,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
 Category: Engineering
-Tags:
+Tags: time tracking
 ---
 
 The other day I was reading [this blog post](http://bookofhook.blogspot.de/2013/03/smart-guy-productivity-pitfalls.html) about productivity for programmers written by a former [id software](https://en.wikipedia.org/wiki/Id_Software) employee named Hook.

@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
 Category: Engineering
-Tags: xcode
+Tags: plugins, xcode
 ---
 
 *TLDR: Apple will disable all your Alcatraz plugins in Xcode 8. Read this
