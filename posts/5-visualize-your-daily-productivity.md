@@ -6,7 +6,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
 Category: New Features
-Tags:
+Tags: dashboard
 ---
 
 How do you increase your productivity each day?

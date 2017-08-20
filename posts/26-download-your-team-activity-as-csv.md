@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
 Category: New Features
-Tags: teams
+Tags: teams, exporting
 ---
 
 Today, we added a new feature to your team dashboard: Downloading your team activity as CSV!
