@@ -1,5 +1,5 @@
 ---
-Title: WakaTime’s Interactive Chart to Visualise Your Daily Programming
+Title: Detailed Stats About Your Daily Programming Activity
 Date: 2017-08-20
 Image: https://wakatime.com/static/img/blog/durations-with-files.png
 Description: Easily visualize your programming activity with this interactive chart.
