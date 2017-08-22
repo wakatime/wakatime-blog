@@ -12,7 +12,7 @@ Tags: dashboard
 
 The latest addition to the [WakaTime Dashboard][dashboard] shows the time you were coding with detailed accuracy.
 Since WakaTime measures your coding activity by combining the frequency of [heartbeats][heartbeats] into durations, this new chart lets you interactively visualize your day’s coding activity with different heartbeat timeout preferences.
-<img src="https://wakatime.com/static/img/blog/durations-2017-08-20.gif" class="img-thumbnail" alt="interactive chart" />
+<img src="https://wakatime.com/static/img/blog/durations-demo.gif" class="img-thumbnail" alt="interactive chart" />
 
 Moving the slider to the left uses a shorter timeout, for a more accurate and granular representation of your programming.
 
