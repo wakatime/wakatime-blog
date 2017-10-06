@@ -1,6 +1,6 @@
 ---
 Title: Vim Plugin Performance
-Date: 2017-08-20
+Date: 2017-10-05
 Image: https://wakatime.com/static/img/ScreenShots/wakatime-laptop-1200x628.png
 Description: The WakaTime plugin for Vim just got a whole lot faster.
 Author: Alan Hamlett
