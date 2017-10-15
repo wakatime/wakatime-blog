@@ -10,11 +10,11 @@ Category: New Features
 Tags: plugins, vim
 ---
 
-*TLDR: [WakaTime for Vim][plugin] now supports async jobs with Vim 8, for a noticable performance improvement.*
+*TLDR: [WakaTime for Vim][plugin] now supports async jobs with Vim 8, for a noticeable performance improvement.*
 
 Vim recently added support for async jobs in Vim 8.
 This is great news for all Vim plugins!
-Previously, plugins had to jump through hoops to run commands in the background, and usually with a noticable lag.
+Previously, plugins had to jump through hoops to run commands in the background, and usually with a noticeable lag.
 Now that Vim supports async jobs, we can run plugins in the background making Vim much snappier and responsive.
 
 WakaTime does most of it's work in a background Python process, however forking that process would sometimes cause Vim to lag or freeze for a second or two.
