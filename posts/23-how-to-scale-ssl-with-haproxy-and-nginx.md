@@ -13,12 +13,12 @@ Tags: devops, haproxy, nginx, ssl
 ### SSL is CPU Intensive
 
 If you haven't already enabled [SSL session caching][nginx ssl optimization], do [that NOW][ssl caching howto].
-But what if you have many unique requests and your load balancer is maxing out it's CPU? 
+But what if you have many unique requests and your load balancer is maxing out it's CPU?
 That was the case with WakaTime's load balancer, because as you use the [WakaTime plugins][editors] you are constantly making requests to our api saying you're still working on a project.
 We had one load balancer terminating SSL in front of multiple app servers running our [Flask app][flask].
 The Flask app servers handled the requests just fine, but the load balancer was maxing out all 16 cores negotiating SSL handshakes.
 
-### Proxying TCP insead of HTTP
+### Proxying TCP instead of HTTP
 
 The solution is to proxy TCP instead of HTTP.
 This way the load balancer no longer terminates SSL, but passes the TCP connection on to your app servers unmodified.
@@ -30,7 +30,7 @@ Then, edit `/etc/haproxy/haproxy.cfg` adding these lines:
     frontend https-in
         bind *:443
         default_backend https-servers
-    
+
     backend https-servers
             mode tcp
             balance roundrobin
@@ -71,7 +71,7 @@ To enable Proxy Protocol in haproxy, add the `send-proxy` keyword to your `/etc/
     frontend https-in
         bind *:443
         default_backend https-servers
-    
+
     backend https-servers
             mode tcp
             balance roundrobin
