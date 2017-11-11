@@ -10,7 +10,7 @@ Category: New Features
 Tags: plugins, vim
 ---
 
-**Upgrade your Vim WakaTime plugin for a huge performance improvement!**
+**TL;DR Upgrade your Vim WakaTime plugin for a huge performance improvement!**
 
 Vim 8 recently added support for async jobs.
 This is great news for all Vim plugins!
