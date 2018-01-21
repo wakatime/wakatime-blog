@@ -4,7 +4,7 @@ Date: 2014-03-09
 Image: https://s3-us-west-1.amazonaws.com/wakatime/blog/2.1.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
+AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: time tracking
 ---

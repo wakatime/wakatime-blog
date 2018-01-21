@@ -4,7 +4,7 @@ Date: 2014-03-13
 Image: https://wakatime.com/static/img/editor-icons/xcode-128.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
+AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: plugins, xcode
 ---

@@ -5,7 +5,7 @@ Image: https://raw.githubusercontent.com/alanhamlett/pip-update-requirements/mas
 Description: Easily update your Python requirements.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
+AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: python
 ---

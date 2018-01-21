@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/gitlab-wakatime.png
 Description: Connect your GitLab repositories to a WakaTime project to see the time each commit took to code in your IDE.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
+AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: integrations, gitlab
 ---
