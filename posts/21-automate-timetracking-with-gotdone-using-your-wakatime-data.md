@@ -5,7 +5,7 @@ Image: https://www.gotdone.me/public/img/favicons/apple-touch-icon-152x152-preco
 Description: Link your workday to your timesheet with WakaTime + GotDone.
 Author: Timm Stokke
 AuthorUrl: https://wakatime.com/@t1mmen
-AuthorGravatar: https://secure.gravatar.com/avatar/d64fd627a838c7e9fe36ce13a5f18d22
+AuthorGravatar: https://wakatime.com/gravatar/d64fd627a838c7e9fe36ce13a5f18d22
 Category: New Features
 Tags: integrations, gotdone
 ---
@@ -25,16 +25,16 @@ Are we all stuck running timers and keeping meticulous notes?
 [There is a better way!][integration]
 
 [GotDone][gotdone] works much like WakaTime, only for your entire workday.
-Basically, GotDone connects your existing tools and services to automatically keep track of the code you write, emails you send, meetings you attend, tasks you complete, and so on. 
+Basically, GotDone connects your existing tools and services to automatically keep track of the code you write, emails you send, meetings you attend, tasks you complete, and so on.
 
-At the end of the day (or week, or month), everything you’ve accomplished is laid out in a timeline – including activity tracked by WakaTime, Basecamp, Trello, Google Apps, Sprint.ly, Evernote and many, many others. 
+At the end of the day (or week, or month), everything you’ve accomplished is laid out in a timeline – including activity tracked by WakaTime, Basecamp, Trello, Google Apps, Sprint.ly, Evernote and many, many others.
 
 <a href="https://www.gotdone.me/?ref=wakatime"><img src="https://www.gotdone.me/assets/screenshots/april2016/safari-basic.png" class="img-responsive" /></a>
 
 First-class integrations with leading time trackers such as Harvest, Toggl, Freckle, and others makes it super easy to record time based on what you actually worked on.
 No more guesstimates!
 
-In the end, that means you waste less time on tedious chores, more time in the zone and it earns your company more money. 
+In the end, that means you waste less time on tedious chores, more time in the zone and it earns your company more money.
 
 Try GotDone free for 30 days [https://www.gotdone.me][gotdone].
 

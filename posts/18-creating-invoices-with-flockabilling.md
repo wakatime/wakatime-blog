@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/flockabilling.png
 Description: FlockaBilling connects your WakaTime profile to invoicing apps like Freshbooks and Harvest
 Author: Amy Bridges
 AuthorUrl: https://wakatime.com/@ubergeekzone
-AuthorGravatar: https://secure.gravatar.com/avatar/9aea887fe8e646b7ac516bf157b4e558
+AuthorGravatar: https://wakatime.com/gravatar/9aea887fe8e646b7ac516bf157b4e558
 Category: New Features
 Tags: invoicing, flockabilling, freelancing, contracting
 ---

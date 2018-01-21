@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/load-balancing-haproxy-nginx.png
 Description: Scale SSL to multiple machines using Proxy Protocol.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
+AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: devops, haproxy, nginx, ssl
 ---

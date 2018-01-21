@@ -4,7 +4,7 @@ Date: 2015-03-06
 Image:
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://s.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe?s=80
+AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: dashboard, privacy
 ---

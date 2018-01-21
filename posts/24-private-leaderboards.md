@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/leaderboard-2016-08.png
 Description: Compete with Friends using new Private Leaderboards
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://1.gravatar.com/avatar/5bbde3a573d9012842f5fd261caa0bfe
+AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: leaderboards
 ---
