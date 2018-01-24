@@ -11,7 +11,7 @@ Tags: startups
 Every week, residents of the <a href="https://twitter.com/pahackerhouse">Hacker House</a> gather around a backyard fire while chatting about startups.
 It was a mind meld of professional programmers, designers, and entrepreneurs.
 
-Two residents, <a href="http://www.kirubakaran.com/about.html">Kirubakaran</a> and <a href="https://www.linkedin.com/in/rfadams">Robert</a>, were experienced consultants and accustomed to tracking their hours.
+Two residents, <a href="https://kirubakaran.com/">Kirubakaran</a> and <a href="https://www.linkedin.com/in/rfadams">Robert</a>, were experienced consultants and accustomed to tracking their hours.
 I was a salary-man new to contract programming.
 Sometimes, I would forget to start my timer or log time to the wrong project.
 The possibility for human error left a feeling of uncertainty lingering, not to mention it was a pain in the butt to start & stop a timer all the time.
