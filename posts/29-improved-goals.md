@@ -18,9 +18,9 @@ Our goal at WakaTime is improve your productivity using automated programming me
 
 Today, we’re shipping major improvements to your goals making them even more useful:
 
-* Ignore days when you don’t want them included in your goal. Take breaks on weekends and still meet you goal!
+* Ability to exclude certain days. Take breaks on weekends and still meet you goal!
 
-* Charts included in goal email notifications. See your goal without leaving your email client!
+* Richer email notifications with goal visualizations. Stay on top of your goal with email!
 
 To get started, setup a [WakaTime programming goal][goals] for free today.
 
