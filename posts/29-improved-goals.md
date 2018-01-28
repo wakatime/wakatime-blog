@@ -12,7 +12,7 @@ Tags: goals
 
 Our goal at WakaTime is improve your productivity using automated programming metrics.
 
-[WakaTime Goals][goals] track your programming and remind you to code more, or congratulate you when you’ve meet your productivity goals.
+[WakaTime Goals][goals] track your programming and remind you to code more, or congratulate you when you’ve met your productivity goals.
 
 <a href="https://wakatime.com/goals"><img src="https://wakatime.com/static/img/blog/goals-improved-rect.png" class="img-thumbnail" alt="goals preview" /></a>
 
