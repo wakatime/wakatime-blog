@@ -1,6 +1,6 @@
 ---
 Title: Tracking Build Times in Xcode
-Date: 2018-04-09
+Date: 2018-04-10
 Image: https://wakatime.com/static/img/blog/xcode-build-dark.png
 Description: Track the time you spend compiling builds in Xcode.
 Author: Alan Hamlett
