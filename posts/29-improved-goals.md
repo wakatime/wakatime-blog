@@ -10,7 +10,7 @@ Category: New Features
 Tags: goals
 ---
 
-Our goal at WakaTime is improve your productivity using automated programming metrics.
+Our goal at WakaTime is to improve your productivity using automated programming metrics.
 
 [WakaTime Goals][goals] track your programming and remind you to code more, or congratulate you when you’ve met your productivity goals.
 
