@@ -8,8 +8,9 @@ Category: Engineering
 Tags: startups
 ---
 
-Every week, residents of the <a href="https://twitter.com/pahackerhouse">Hacker House</a> gather around a backyard fire while chatting about startups.
+Every week, residents of the <a href="https://twitter.com/pahackerhouse">Hacker House</a> gather around a backyard fire-pit while chatting about startups.
 It was a mind meld of professional programmers, designers, and entrepreneurs.
+On May 3rd 2013 at one of these backyard fire-pit events I came up with the idea for WakaTime.
 
 Two residents, <a href="https://kirubakaran.com/">Kirubakaran</a> and <a href="https://www.linkedin.com/in/rfadams">Robert</a>, were experienced consultants and accustomed to tracking their hours.
 I was a salary-man new to contract programming.
