@@ -28,9 +28,9 @@ WakaTime can’t prevent you from reading reddit, but we can track how long you 
 With this information, you can identify slow compiling in your projects and take action to optimize building.
 Starting with [Xcode][xcode], we’re adding the time you spend compiling code to your [WakaTime Dashboard][wakatime].
 
-<a href="https://wakatime.com/static/img/blog/build-time-tracking.gif" target="_blank"><img src="https://wakatime.com/static/img/blog/build-time-tracking.gif" class="img-thumbnail" alt="coding vs. building pie chart" style="width:80%" /></a>
+<a href="https://wakatime.com/static/img/build-compile-ltr-square.gif" target="_blank"><img src="https://wakatime.com/static/img/build-compile-ltr-square.gif" class="img-thumbnail" alt="coding vs. building pie chart" style="width:80%" /></a>
 
-To track the time you spend waiting for builds vs. coding, install the [WakaTime plugin for Xcode][xcode].
+To track the time you spend compiling builds vs. writing code, install the [WakaTime plugin for Xcode][xcode].
 
 
 [xcode]: https://wakatime.com/xcode
