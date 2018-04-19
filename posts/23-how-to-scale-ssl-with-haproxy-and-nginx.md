@@ -21,7 +21,7 @@ The Flask app servers handled the requests just fine, but the load balancer was 
 ### Proxying TCP instead of HTTP
 
 The solution is to proxy TCP instead of HTTP.
-This way the load balancer no longer terminates SSL, but passes the TCP connection on to your app servers unmodified.
+The load balancer no longer terminates SSL, it just passes the TCP connection on to your app servers unmodified.
 
 Let's say you have two nginx app servers `10.0.0.11` and `10.0.0.12` and one haproxy load balancer `10.0.0.10`.
 First, [install haproxy][install haproxy].
@@ -61,7 +61,7 @@ The nginx app servers will share the load of negotiating SSL and parsing the HTT
 <div class="center-xs"><img src="https://wakatime.com/static/img/blog/load-balancing-haproxy-nginx-small.png" class="img-responsive img-thumbnail m-bottom-xs-20" style="width:50%" /></div>
 
 **One catch though**, your nginx app servers will see the requests coming from the IP address of your haproxy load balancer instead of the originating client.
-To fix this, enable Proxy Protocol to send the originating client's IP address to your nginx app servers.
+To fix this, enable Proxy Protocol to forward the originating client's IP address to your nginx app servers.
 
 ### Forwarding the User's Real IP using Proxy Protocol
 
@@ -78,7 +78,7 @@ To enable Proxy Protocol in haproxy, add the `send-proxy` keyword to your `/etc/
             server srv1 10.0.0.11:443 send-proxy
             server srv2 10.0.0.12:443 send-proxy
 
-And tell nginx to receive the client's real IP using proxy protocol and add it to the HTTP request:
+And configure nginx to receive the client's real IP forwarded with Proxy Protocol:
 
     server {
         server_name  example.com;
@@ -103,7 +103,7 @@ SSL is distributed among your two nginx app servers, and your nginx log files sh
 
 Now you can scale to infinity!\*
 
-\* Your haproxy process is still limited to a certain number of connections (See `ulimit`).
+\* [Increase your file descriptors limit][file descriptors limit] so haproxy and nginx can handle more simultaneous connections.
 
 [nginx ssl optimization]: http://nginx.org/en/docs/http/configuring_https_servers.html#optimization
 [ssl caching howto]: https://bjornjohansen.no/optimizing-https-nginx
@@ -111,3 +111,4 @@ Now you can scale to infinity!\*
 [flask]: http://flask.pocoo.org/
 [install haproxy]: https://haproxy.debian.net
 [proxy protocol]: http://www.haproxy.org/download/1.7/doc/proxy-protocol.txt
+[file descriptors limit]: https://www.cockroachlabs.com/docs/stable/recommended-production-settings.html#increase-the-file-descriptors-limit
