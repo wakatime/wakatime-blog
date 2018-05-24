@@ -1,7 +1,7 @@
 ---
 Title: Using a CD Player to Measure Your Focus
 Date: 2014-03-09
-Image: https://s3-us-west-1.amazonaws.com/wakatime/blog/2.1.png
+Image: https://wakatime.com/static/img/blog/hours-logged-today.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
@@ -18,7 +18,7 @@ Hook gives some good actionable info on how to keep focus towards the end, but f
 
 Instantly, I saw a parallel between the CD player and [WakaTime](https://wakatime.com/).
 Checking WakaTime at the end of the day gives you a measurable number of hours that you spent inside your text editor.
-<a href="https://wakatime.com"><img src="https://s3-us-west-1.amazonaws.com/wakatime/blog/2.1.png" class="img-thumbnail" title="Today's logged time" alt="screen shot" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/static/img/blog/hours-logged-today.png" class="img-thumbnail" title="Today's logged time" alt="screen shot" /></a>
 
 The next step is to graph each day's hours over the last week or month.
 You will quickly see how today's productivity compares to your recent productivity.
