@@ -1,7 +1,7 @@
 ---
 Title: Keeping Your Pip Requirements Fresh
 Date: 2016-05-22
-Image: https://raw.githubusercontent.com/alanhamlett/pip-update-requirements/master/pur.gif
+Image: https://wakatime.com/static/img/blog/pur.gif
 Description: Easily update your Python requirements.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
@@ -34,7 +34,7 @@ I don't like `pip-compile` because the generated `requirements.txt` file include
 
 This is why we now have [pur][pur].
 
-<a href="https://github.com/alanhamlett/pip-update-requirements"><img src="https://raw.githubusercontent.com/alanhamlett/pip-update-requirements/master/pur.gif" class="img-responsive" /></a>
+<a href="https://github.com/alanhamlett/pip-update-requirements"><img src="https://wakatime.com/static/img/blog/pur.gif" class="img-responsive" /></a>
 
 Give pur your `requirements.txt` file and it updates your high-level packages to the latest versions, keeping your original formatting and comments in-place.
 
