@@ -1,6 +1,6 @@
 ---
 Title: Part 1: SQLAlchemy Models to JSON
-Date: 2018-07-11
+Date: 2018-07-12
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: How to serialize SQLAlchemy models into json.
 Author: Alan Hamlett
@@ -8,9 +8,10 @@ AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: flask, python, sqlalchemy
+Draft: true
 ---
 
-*This is the first half of a two-part post about building a JSON API with Flask. For part two, [click here][part2].*
+*This is the first of three posts about building a JSON API with Flask. See [post 2][part2] and [post 3][part3].*
 
 I've [seen][so1] [a][so2] [lot][so3] [of][so4] [questions][so5] on StackOverflow about how to turn SQLAlchemy models into JSON.
 When building a JSON API with Flask and [SQLAlchemy][sqlalchemy], you end up writing a lot of boilerplate api code just to serialize your models into JSON.
@@ -419,7 +420,7 @@ Which prints:
 
 It even allows customizing columns of relationships, for ex: `goals.accomplished`.
 
-To see how this all fits into a RESTful API continue with [Part 2: Flask RESTful API][part2].
+To see how this all fits into a RESTful API continue with [Part 2: Building a Flask RESTful API][part2].
 
 [so1]: https://stackoverflow.com/questions/5022066/how-to-serialize-sqlalchemy-result-to-json
 [so2]: https://stackoverflow.com/questions/7102754/jsonify-a-sqlalchemy-result-set-in-flask
@@ -430,4 +431,6 @@ To see how this all fits into a RESTful API continue with [Part 2: Flask RESTful
 [flask-restful]: https://flask-restful.readthedocs.io/en/latest/
 [flask-restless]: https://flask-restless.readthedocs.io/en/stable/
 [flask-restutils]: https://github.com/closeio/flask-restutils
-[part2]: https://wakatime.com/blog/
+
+[part2]: https://wakatime.com/blog/33-part-2-building-a-flask-restful-api
+[part3]: https://wakatime.com/blog/34-part-3-api-decorators-and-model-helpers
