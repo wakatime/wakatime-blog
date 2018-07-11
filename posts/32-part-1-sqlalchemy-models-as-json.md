@@ -238,6 +238,8 @@ class BaseModel(db.Model):
         ...
 
     def from_dict(self, **kwargs):
+        """Update this model with a dictionary."""
+
         _force = kwargs.pop("_force", False)
 
         readonly = self._readonly_fields if hasattr(self, "_readonly_fields") else []
