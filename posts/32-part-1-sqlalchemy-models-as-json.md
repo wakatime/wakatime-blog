@@ -14,6 +14,7 @@ Draft: true
 *This is the first half of a two-part post about building a JSON API with Flask. For part two, [click here][part2].*
 
 I've [seen][so1] [a][so2] [lot][so3] [of][so4] [questions][so5] on StackOverflow about how to turn SQLAlchemy models into JSON.
+Since I encountered this problem early on at WakaTime, I decided to share my solution to this common problem here.
 You have some libraries available to help such as [Flask-RESTful][flask-restful], [Flask-Restless][flask-restless], or [flask-restutils][flask-restutils].
 However, back in 2013 when I started WakaTime these either weren't available or weren't stable.
 Thankfully it was trivial to loop through the columns of an SQLAlchemy model and produce a `dict`.
