@@ -1,6 +1,6 @@
 ---
 Title: Part 1: SQLAlchemy Models to JSON
-Date: 2018-07-12
+Date: 2018-07-11
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: How to serialize SQLAlchemy models into json.
 Author: Alan Hamlett

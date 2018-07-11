@@ -1,6 +1,6 @@
 ---
 Title: Part 3: Flask API Decorators and Helpers
-Date: 2018-07-12
+Date: 2018-07-11
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: Decorator functions and base model methods for Flask APIs.
 Author: Alan Hamlett
