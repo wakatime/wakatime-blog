@@ -8,13 +8,13 @@ AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: flask, python, sqlalchemy
-Draft: true
 ---
 
 *This is the first half of a two-part post about building a JSON API with Flask. For part two, [click here][part2].*
 
 I've [seen][so1] [a][so2] [lot][so3] [of][so4] [questions][so5] on StackOverflow about how to turn SQLAlchemy models into JSON.
-Since I encountered this problem early on at WakaTime, I decided to share my solution to this common problem here.
+When building a JSON API with Flask and [SQLAlchemy][sqlalchemy], you end up writing a lot of boilerplate api code just to serialize your models into JSON.
+Since I encountered this problem early on at WakaTime, I decided to share my solution here.
 You have some libraries available to help such as [Flask-RESTful][flask-restful], [Flask-Restless][flask-restless], or [flask-restutils][flask-restutils].
 However, back in 2013 when I started WakaTime these either weren't available or weren't stable.
 Thankfully it was trivial to loop through the columns of an SQLAlchemy model and produce a `dict`.
@@ -417,6 +417,7 @@ To see how this all fits into a RESTful API continue with [Part 2: Flask RESTful
 [so3]: https://stackoverflow.com/questions/13539082/restful-interface-in-flask-and-issues-serializing
 [so4]: https://stackoverflow.com/questions/25737050/jsonify-flask-sqlalchemy-many-to-one-relationship-in-flask
 [so5]: https://stackoverflow.com/questions/37783919/flask-restful-vs-flask-restless-which-should-be-used-and-when
+[sqlalchemy]: https://www.sqlalchemy.org/
 [flask-restful]: https://flask-restful.readthedocs.io/en/latest/
 [flask-restless]: https://flask-restless.readthedocs.io/en/stable/
 [flask-restutils]: https://github.com/closeio/flask-restutils
