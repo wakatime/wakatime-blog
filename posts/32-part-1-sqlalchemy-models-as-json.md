@@ -205,6 +205,11 @@ For example, if you want to include `email_confirmed` in your serialized user yo
 
 ```python
 print(user.to_dict(show=['email_confirmed', 'password']))
+```
+
+Which prints:
+
+```python
 {
     'id': UUID('488345de-88a1-4c87-9304-46a1a31c9414'),
     'username': 'zzzeek',
@@ -348,6 +353,11 @@ user.from_dict(**updates)
 db.session.commit()
 
 print(user.to_dict(show=['email_confirmed']))
+```
+
+Which prints:
+
+```python
 {
     'id': UUID('488345de-88a1-4c87-9304-46a1a31c9414'),
     'username': 'zoe',
@@ -385,6 +395,11 @@ user.goals.append(goal)
 db.session.commit()
 
 print(user.to_dict(show=['goals', 'goals.accomplished']))
+```
+
+Which prints:
+
+```python
 {
     'id': UUID('488345de-88a1-4c87-9304-46a1a31c9414'),
     'username': 'zoe',
