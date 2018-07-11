@@ -1,6 +1,6 @@
 ---
 Title: Part 2: Building a Flask RESTful API
-Date: 2018-07-12
+Date: 2018-07-11
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: How to build an API with Flask and SQLAlchemy.
 Author: Alan Hamlett
