@@ -8,6 +8,7 @@ AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: flask, python, sqlalchemy
+Draft: true
 ---
 
 *This is the first half of a two-part post about building a JSON API with Flask. For part two, [click here][part2].*
