@@ -31,9 +31,7 @@ from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm.attributes import QueryableAttribute
 from wakatime_website import app
 
-
 db = SQLAlchemy(app)
-
 
 class BaseModel(db.Model):
     __abstract__ = True
@@ -174,7 +172,6 @@ class User(BaseModel):
     def joined_recently(self):
         return self.created_at > datetime.utcnow() - timedelta(days=3)
 
-
 user = User(username="zzzeek")
 db.session.add(user)
 db.session.commit()
@@ -227,7 +224,6 @@ Let’s add the `from_dict` method like this:
 
 ```python
 from sqlalchemy.sql.expression import not_
-
 
 class BaseModel(db.Model):
     __abstract__ = True
@@ -374,7 +370,6 @@ class User(BaseModel):
     ...
     goals = db.relationship('Goal', backref='user', lazy='dynamic')
 
-
 class Goal(BaseModel):
     id = db.Column(UUID(), primary_key=True, default=uuid.uuid4)
     title = db.Column(db.String(), nullabe=False)
@@ -384,7 +379,6 @@ class Goal(BaseModel):
     _default_fields = [
         "title",
     ]
-
 
 goal = Goal(title="Mountain", accomplished=True)
 user.goals.append(goal)
