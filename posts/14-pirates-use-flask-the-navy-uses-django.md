@@ -117,7 +117,7 @@ P.S. Pirates use Flask, the Navy uses Django. [WakaTime][wakatime] is a pirate ;
 
 
 [worksheet]: https://wakatime.com/django-vs-flask-worksheet
-[flask]: http://flask.pocoo.org/
+[flask]: https://www.palletsprojects.com/p/flask/
 [django]: https://www.djangoproject.com/
 [wakatime]: https://wakatime.com/
 [django github]: https://github.com/django/django

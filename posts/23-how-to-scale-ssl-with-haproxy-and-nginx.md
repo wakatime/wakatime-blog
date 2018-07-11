@@ -105,10 +105,10 @@ Now you can scale to infinity!\*
 
 \* [Increase your file descriptors limit][file descriptors limit] so haproxy and nginx can handle more simultaneous connections.
 
-[nginx ssl optimization]: http://nginx.org/en/docs/http/configuring_https_servers.html#optimization
+[nginx ssl optimization]: https://nginx.org/en/docs/http/configuring_https_servers.html#optimization
 [ssl caching howto]: https://bjornjohansen.no/optimizing-https-nginx
 [editors]: https://wakatime.com/editors
-[flask]: http://flask.pocoo.org/
+[flask]: https://www.palletsprojects.com/p/flask/
 [install haproxy]: https://haproxy.debian.net
-[proxy protocol]: http://www.haproxy.org/download/1.7/doc/proxy-protocol.txt
+[proxy protocol]: https://www.haproxy.org/download/1.7/doc/proxy-protocol.txt
 [file descriptors limit]: https://www.cockroachlabs.com/docs/stable/recommended-production-settings.html#increase-the-file-descriptors-limit
