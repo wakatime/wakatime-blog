@@ -433,4 +433,4 @@ To see how this all fits into a RESTful API continue with [Part 2: Building a Fl
 [flask-restutils]: https://github.com/closeio/flask-restutils
 
 [part2]: https://wakatime.com/blog/33-part-2-building-a-flask-restful-api
-[part3]: https://wakatime.com/blog/34-part-3-api-decorators-and-helpers
+[part3]: https://wakatime.com/blog/34-part-3-flask-api-decorators-and-helpers

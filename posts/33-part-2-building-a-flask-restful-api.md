@@ -108,4 +108,4 @@ Continue reading [Part 3: Flask API Decorators and Helpers][part3].
 [wtforms-json]: https://wtforms-json.readthedocs.io/en/latest/
 
 [part1]: https://wakatime.com/blog/32-part-1-sqlalchemy-models-to-json
-[part3]: https://wakatime.com/blog/34-part-3-api-decorators-and-helpers
+[part3]: https://wakatime.com/blog/34-part-3-flask-api-decorators-and-helpers
