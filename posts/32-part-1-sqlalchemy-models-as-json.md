@@ -191,7 +191,7 @@ Which prints:
 }
 ```
 
-And easily jsonified with:
+And is easily jsonified with:
 
 ```python
 json.dumps(user.to_dict())
