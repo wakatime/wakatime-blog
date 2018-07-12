@@ -345,6 +345,21 @@ user.from_dict(**updates)
 db.session.commit()
 ```
 
+### Authentication, Permissions, and Access Control
+
+Authentication is handled by [Flask-Login][flask-login].
+If your API needs access control, use OAuth with Flask-Login's custom request loader.
+Then [decorate your API views][oauth gist] with the OAuth scopes required by the currently authenticated user:
+
+```python
+@app.route("/api/users")
+def oauth(required_scopes=['user:read']):
+def users():
+    return json.dumps([user.to_dict() for user in User.query.all()])
+```
+
+This has worked well for access control and making resources available at [WakaTime][wakatime].
+
 ### Conclusion
 
 Hopefully these patterns and base methods will make creating APIs with Flask a breeze!
@@ -352,6 +367,8 @@ Hopefully these patterns and base methods will make creating APIs with Flask a b
 By the way, [WakaTime][wakatime] is built with Flask along with these patterns ;)
 
 [wakatime]: https://wakatime.com
+[flask-login]: http://flask-login.readthedocs.io/en/latest/
+[oauth gist]: https://gist.github.com/alanhamlett/f9c8d6414cdd81502442fb5631b41fd9
 
 [part1]: https://wakatime.com/blog/32-part-1-sqlalchemy-models-to-json
 [part2]: https://wakatime.com/blog/33-part-2-building-a-flask-restful-api
