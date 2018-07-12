@@ -358,7 +358,7 @@ def users():
     return json.dumps([user.to_dict() for user in User.query.all()])
 ```
 
-This has worked well for access control and making resources available at [WakaTime][wakatime].
+This provides resource-level access control, not column/table level, but it has worked well for [WakaTime’s public api][wakatime api].
 
 ### Conclusion
 
@@ -367,6 +367,7 @@ Hopefully these patterns and base methods will make creating APIs with Flask a b
 By the way, [WakaTime][wakatime] is built with Flask along with these patterns ;)
 
 [wakatime]: https://wakatime.com
+[wakatime api]: https://wakatime.com/api
 [flask-login]: http://flask-login.readthedocs.io/en/latest/
 [oauth gist]: https://gist.github.com/alanhamlett/f9c8d6414cdd81502442fb5631b41fd9
 
