@@ -358,7 +358,7 @@ def users():
     return json.dumps([user.to_dict() for user in User.query.all()])
 ```
 
-This provides resource-level access control, not column/table level, but it has worked well for [WakaTime’s public api][wakatime api].
+This provides resource-level access control not column/table level, but it has worked well for [WakaTime’s public api][wakatime api].
 
 ### Conclusion
 
