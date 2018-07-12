@@ -10,7 +10,8 @@ Category: Engineering
 Tags: flask, python, sqlalchemy
 ---
 
-*This is the third of three posts about building a JSON API with Flask. See [post 1][part1] and [post 2][part2].*
+*This is the third of three posts about building a JSON API with Flask.*
+<br />*Make sure you start with [post 1][part1] and [post 2][part2].*
 
 In the [first][part1] post, we used a custom base SQLAlchemy class to serialize and deserialize database models to and from JSON.
 The [second][part2] post created a RESTful API listing and updating users.
