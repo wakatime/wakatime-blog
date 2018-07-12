@@ -1,6 +1,6 @@
 ---
 Title: Part 3: Flask API Decorators and Helpers
-Date: 2018-07-11
+Date: 2018-07-13
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: Decorator functions and base model methods for Flask APIs.
 Author: Alan Hamlett
@@ -8,7 +8,6 @@ AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: flask, python, sqlalchemy
-Draft: true
 ---
 
 *This is the third of three posts about building a JSON API with Flask. See [post 1][part1] and [post 2][part2].*
