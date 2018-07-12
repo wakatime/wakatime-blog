@@ -11,7 +11,7 @@ Tags: flask, python, sqlalchemy
 ---
 
 *This is the first of three posts about building a JSON API with Flask.*
-<br />*[Post 2][part2] and [post 3][part3] arrive tomorrow and the day after.*
+<br />*[Part 2][part2] and [part 3][part3] arrive tomorrow and the day after.*
 
 I've [seen][so1] [a][so2] [lot][so3] [of][so4] [questions][so5] on StackOverflow about how to turn SQLAlchemy models into JSON.
 When building a JSON API with Flask and [SQLAlchemy][sqlalchemy], you end up writing a lot of boilerplate api code just to serialize your models into JSON.
