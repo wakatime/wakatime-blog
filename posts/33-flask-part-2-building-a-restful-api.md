@@ -1,5 +1,5 @@
 ---
-Title: Part 2: Building a Flask RESTful API
+Title: Flask Part 2: Building a RESTful API
 Date: 2018-07-12
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: How to build an API with Flask and SQLAlchemy.
@@ -107,5 +107,5 @@ Continue reading [Part 3: Flask API Decorators and Helpers][part3].
 [wtforms]: https://wtforms.readthedocs.io/en/stable/
 [wtforms-json]: https://wtforms-json.readthedocs.io/en/latest/
 
-[part1]: https://wakatime.com/blog/32-part-1-sqlalchemy-models-to-json
-[part3]: https://wakatime.com/blog/34-part-3-flask-api-decorators-and-helpers
+[part1]: https://wakatime.com/blog/32-flask-part-1-sqlalchemy-models-to-json
+[part3]: https://wakatime.com/blog/34-flask-part-3-api-decorators-and-helpers

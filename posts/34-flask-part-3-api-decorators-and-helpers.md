@@ -1,5 +1,5 @@
 ---
-Title: Part 3: Flask API Decorators and Helpers
+Title: Flask Part 3: API Decorators and Helpers
 Date: 2018-07-13
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: Decorator functions and base model methods for Flask APIs.
@@ -371,5 +371,5 @@ By the way, [WakaTime][wakatime] is built with Flask along with these patterns ;
 [flask-login]: http://flask-login.readthedocs.io/en/latest/
 [oauth gist]: https://gist.github.com/alanhamlett/f9c8d6414cdd81502442fb5631b41fd9
 
-[part1]: https://wakatime.com/blog/32-part-1-sqlalchemy-models-to-json
-[part2]: https://wakatime.com/blog/33-part-2-building-a-flask-restful-api
+[part1]: https://wakatime.com/blog/32-flask-part-1-sqlalchemy-models-to-json
+[part2]: https://wakatime.com/blog/33-flask-part-2-building-a-restful-api
