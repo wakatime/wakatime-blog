@@ -1,5 +1,5 @@
 ---
-Title: Part 1: SQLAlchemy Models to JSON
+Title: Flask Part 1: SQLAlchemy Models to JSON
 Date: 2018-07-11
 Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: How to serialize SQLAlchemy models into json.
@@ -10,7 +10,7 @@ Category: Engineering
 Tags: flask, python, sqlalchemy
 ---
 
-*This is the first of three posts about building a JSON API with Flask.*
+*This is the first of three posts about building JSON APIs with Flask.*
 <br />*[Part 2][part2] and [part 3][part3] arrive tomorrow and the day after.*
 
 I've [seen][so1] [a][so2] [lot][so3] [of][so4] [questions][so5] on StackOverflow about how to turn SQLAlchemy models into JSON.
@@ -432,5 +432,5 @@ To see how this all fits into a RESTful API continue with [Part 2: Building a Fl
 [flask-restless]: https://flask-restless.readthedocs.io/en/stable/
 [flask-restutils]: https://github.com/closeio/flask-restutils
 
-[part2]: https://wakatime.com/blog/33-part-2-building-a-flask-restful-api
-[part3]: https://wakatime.com/blog/34-part-3-flask-api-decorators-and-helpers
+[part2]: https://wakatime.com/blog/33-flask-part-2-building-a-restful-api
+[part3]: https://wakatime.com/blog/34-flask-part-3-api-decorators-and-helpers
