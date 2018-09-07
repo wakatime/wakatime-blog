@@ -111,6 +111,7 @@ def cached(fn=None, unique_per_user=True, minutes=30):
 
 ```python
 import redis
+import traceback
 from flask import abort, request
 from functools import wraps
 from wakatime_website import app
@@ -130,13 +131,12 @@ def rate_limited(fn=None, limit=20, methods=[], ip=True, user=True, minutes=1):
         def inner(*args, **kwargs):
             if not methods or request.method in methods:
 
-                try:
-                    if ip:
-                        increment_counter(type='ip', for_methods=methods,
-                                          minutes=minutes)
-                        count = get_count(type='ip', for_methods=methods)
-                        if count > limit:
-                            abort(429)
+                if ip:
+                    increment_counter(type='ip', for_methods=methods,
+                                      minutes=minutes)
+                    count = get_count(type='ip', for_methods=methods)
+                    if count > limit:
+                        abort(429)
 
                     if user and app.current_user.is_authenticated:
                         increment_counter(type='user', for_methods=methods,
@@ -144,8 +144,6 @@ def rate_limited(fn=None, limit=20, methods=[], ip=True, user=True, minutes=1):
                         count = get_count(type='user', for_methods=methods)
                         if count > limit:
                             abort(429)
-                except:
-                    pass
 
             return func(*args, **kwargs)
 
@@ -179,19 +177,28 @@ def increment_counter(type=None, for_only_this_route=True, for_methods=None,
 
     key = get_counter_key(type=type, for_only_this_route=for_only_this_route,
                           for_methods=for_methods)
-    r.incr(key)
-    r.expire(key, time=60 * minutes)
+    try:
+        r.incr(key)
+        r.expire(key, time=60 * minutes)
+    except:
+        app.logger.error(traceback.format_exc())
+        pass
 
 def get_count(type=None, for_only_this_route=True, for_methods=None):
     key = get_counter_key(type=type, for_only_this_route=for_only_this_route,
                           for_methods=for_methods)
-    return int(r.get(key) or 0)
+    try:
+        return int(r.get(key) or 0)
+    except:
+        app.logger.error(traceback.format_exc())
+        return 0
 ```
 
 #### Prevent brute forcing secrets or tokens
 
 ```python
 import redis
+import traceback
 from flask import abort, request
 from functools import wraps
 from wakatime_website import app
