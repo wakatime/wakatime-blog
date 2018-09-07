@@ -199,7 +199,7 @@ def get_count(type=None, for_only_this_route=True, for_methods=None):
 ```python
 import redis
 import traceback
-from flask import abort, request
+from flask import request
 from functools import wraps
 from wakatime_website import app
 from werkzeug.exceptions import NotFound
@@ -230,7 +230,7 @@ def protected(fn=None, limit=10, minutes=60):
                     seconds = 60 * minutes
                     r.expire(key, time=seconds)
                     app.logger.info('Request blocked by protected decorator.')
-                    abort(403)
+                    return '404', 404
             except:
                 app.logger.error(traceback.format_exc())
 
