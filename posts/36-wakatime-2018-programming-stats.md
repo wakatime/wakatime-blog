@@ -50,34 +50,41 @@ Available now for Xcode and coming to other IDEs in the future.
 
 ## Programming metrics for 2018
 
-In 2018, WakaTime users programmed for a combined **6,725,862 hrs 54 mins**!
+In 2018, WakaTime users programmed for a combined **20,341,186 hrs 56 mins**!
 
 The top languages were
-**JavaScript (1,459,386 hrs)**,
-**PHP (703,917 hrs)**,
-**Java (524,831 hrs)**,
-**TypeScript (413,478 hrs)**,
-**HTML (400,629 hrs)**,
-and **Python (322,724 hrs)**.
-We could probably count TypeScript together with JavaScript for a combined **1,872,864 hrs**, over twice as much as the runner up language PHP.
+**JavaScript (4,046,216 hrs)**,
+**PHP (2,438,564 hrs)**,
+**Java (1,647,111 hrs)**,
+**TypeScript (1,112,509 hrs)**,
+**Python (1,020,992 hrs)**,
+and **HTML (998,286 hrs)**.
+We could probably count TypeScript together with JavaScript for a combined **5,158,725 hrs**, over twice as much as the runner up language PHP.
 JavaScript really is eating the world!
 
 The top text editors were
-**VS Code (2,828,930 hrs)**,
-**PhpStorm (513,626 hrs)**,
-**IntelliJ (387,862 hrs)**,
-**Android Studio (418,848 hrs)**,
-**Sublime Text (396,852 hrs)**,
-**Atom (282,278 hrs)**,
-**WebStorm (252,855 hrs)**,
-**Visual Studio (271,318 hrs)**,
-**PyCharm (136,139 hrs)**,
-and my personal favorite **Vim (122,813 hrs)**.
+**VS Code (6,647,675 hrs)**,
+**PhpStorm (2,050,310 hrs)**,
+**Sublime Text (1,817,712 hrs)**,
+**IntelliJ (1,429,152 hrs)**,
+**Android Studio (1,336,110 hrs)**,
+**Atom (1,002,728 hrs)**,
+**WebStorm (877,979 hrs)**,
+**Visual Studio (828,761 hrs)**,
+**Vim (679,099 hrs)**,
+**PyCharm (587,370 hrs)**,
+**Emacs (179,732 hrs)**,
+**Eclipse (164,607 hrs)**,
+**RubyMine (156,989 hrs)**,
+**NetBeans (102,818 hrs)**,
+**Xcode (98,167 hrs)**,
+**Zsh (93,609 hrs)**,
+and GoLand **(80,159 hrs)**.
 
 The top operating systems used were
-**Mac (2,917,873 hrs)**,
-**Windows (2,433,891 hrs)**,
-and **Linux (1,170,258 hrs)**.
+**Mac (10,142,753 hrs)**,
+**Windows (6,218,433 hrs)**,
+and **Linux (3,517,653 hrs)**.
 
 See your personalized report for 2018 here:
 
