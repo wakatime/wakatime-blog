@@ -66,7 +66,7 @@ The top text editors were
 **VS Code (2,828,930 hrs)**,
 **PhpStorm (513,626 hrs)**,
 **IntelliJ (387,862 hrs)**,
-**AndroidStudio (418,848 hrs)**,
+**Android Studio (418,848 hrs)**,
 **Sublime Text (396,852 hrs)**,
 **Atom (282,278 hrs)**,
 **WebStorm (252,855 hrs)**,
