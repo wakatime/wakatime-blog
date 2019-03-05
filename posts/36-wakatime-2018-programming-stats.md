@@ -1,6 +1,6 @@
 ---
 Title: WakaTime 2018 Programming Stats
-Date: 2019-03-05
+Date: 2019-03-04
 Image: https://wakatime.com/static/img/covers/mountain-top.jpg
 Description: All WakaTime user programming metrics over 2018, and some new features.
 Author: Alan Hamlett
