@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: New Features
-Tags: integrations, gitlab
+Tags: integrations
 ---
 
 We've added support for [GitLab][gitlab] to our [integrations page][integrations] today!

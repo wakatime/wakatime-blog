@@ -7,7 +7,7 @@ Author: Timm Stokke
 AuthorUrl: https://wakatime.com/@t1mmen
 AuthorGravatar: https://wakatime.com/gravatar/d64fd627a838c7e9fe36ce13a5f18d22
 Category: New Features
-Tags: integrations, gotdone
+Tags: integrations
 ---
 
 *This is a guest post by [Timm Stokke](https://wakatime.com/@t1mmen) from [GotDone][gotdone].*

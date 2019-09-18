@@ -6,7 +6,7 @@ Author: Mario Basic
 AuthorUrl: https://wakatime.com/@mabasic
 AuthorGravatar: https://wakatime.com/gravatar/c21c351355a4e7d63bddbd25ab53b757
 Category: Engineering
-Tags: laravel, php, api
+Tags: laravel, php
 ---
 In this post I will show you how to use the PHP package that I wrote for WakaTime [wakatime-php-api](https://github.com/mabasic/wakatime-php-api) with Laravel.
 
