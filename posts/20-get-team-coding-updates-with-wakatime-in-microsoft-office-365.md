@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
 Category: New Features
-Tags: integrations, microsoft, office
+Tags: integrations
 ---
 
 In the past week, we extended our integrations support to Microsoft Office 365 with [Office 365 Connectors][build 2016 release]!
