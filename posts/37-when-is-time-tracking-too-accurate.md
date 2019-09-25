@@ -13,12 +13,10 @@ Tags: time tracking
 When is time tracking too accurate?
 The short answer: When you’re billing.
 
-[WakaTime][wakatime] is very accurate and by default very granular.
-It only tracks the time you’re actively typing code in your editor.
-Reading documentation, debugging products, or collaborating in meetings isn’t captured with the default WakaTime settings.
+[WakaTime][wakatime] is a very accurate log of the time you were typing, but that’s only part of the time you should invoice.
+For contractors and freelancers using WakaTime, here’s how to capture time spent in meetings, reading docs, or debugging.
 
-For independent contractors and consultants, there’s a WakaTime setting you should know about.
-It’s called your *timeout* and it controls the granularity of your WakaTime dashboards.
+The *timeout* setting controls the granularity of your WakaTime dashboards.
 I’ve written about this feature before in [this blog post][fill in the gaps post], but the general idea is:
 
 Increasing your timeout (moving the slider towards the right side) decreases the granularity of your time tracking, and increases the total time reported.
