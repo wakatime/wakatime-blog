@@ -11,7 +11,8 @@ Tags: time tracking
 ---
 
 When is time tracking too accurate?
-The short answer: When you’re billing.
+The short answer: When you’re billing...
+remember to decrease granularity by increasing your timeout preference before billing clients.
 
 [WakaTime][wakatime] is a very accurate log of the time you were typing, but that’s only part of the time you should invoice.
 For contractors and freelancers using WakaTime, here’s how to capture time spent in meetings, reading docs, or debugging.
