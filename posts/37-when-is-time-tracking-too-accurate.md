@@ -1,5 +1,5 @@
 ---
-Title: When is Time Tracking Too Accurate?
+Title: When is time tracking too accurate?
 Date: 2019-09-25
 Image: https://wakatime.com/static/img/covers/falling-watch.jpg
 Description: Short Answer: When you're billing clients.
