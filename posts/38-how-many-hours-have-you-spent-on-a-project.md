@@ -11,14 +11,14 @@ Tags:
 ---
 
 WakaTime dashboards show how long you were programming over set date ranges.
-To find the total hours for a project, previously you set the date to when you started that project.
-That’s ok for short projets, but doesn’t work so well for longer projects.
+To find the total hours for a project previously, you set the date on the project dashboard to when you started that project.
+That’s ok for short projects, but doesn’t work so well for longer projects.
 
 That’s why we just released a new feature on your project dashboards.
 
 ### Total coding activity for a project over all time
 
-Now at the top of your project dashboard you can find the total time you were coding in the project, from the very first day you started using WakaTime until now.
+Now, at the top of your project dashboard, you can find the total time you were coding in the project, from the very first day you started using WakaTime until now.
 
 <img src="https://wakatime.com/static/img/blog/project-total-all-time.gif" class="img-thumbnail" alt="timeout feature" />
 
