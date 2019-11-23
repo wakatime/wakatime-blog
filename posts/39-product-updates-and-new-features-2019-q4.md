@@ -22,8 +22,7 @@ Enable anonymous team dashboards from your [dashboard settings][dashboards] page
 
 <br>
 
-📫 **Share weekly summary report emails** - basically the Unix [tee][tee] command for your report emails.
-Share report emails from your [notification settings][notifications] page.
+📫 **Share weekly summary report emails** - BCC for your email reports, available from your [notification settings][notifications].
 
 <img src="https://wakatime.com/static/img/blog/39-share-report-emails.png" class="img-thumbnail" alt="share report emails feature" style="width:80%" />
 
@@ -35,7 +34,6 @@ Share report emails from your [notification settings][notifications] page.
 
 Look forward to more features in future blog posts!
 
-[tee]: https://en.wikipedia.org/wiki/Tee_(command)
 [dashboards]: https://wakatime.com/settings/orgs
 [notifications]: https://wakatime.com/settings/notifications
 [projects]: https://wakatime.com/projects
