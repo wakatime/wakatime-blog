@@ -20,7 +20,7 @@ That’s why we just released a new feature on your project dashboards.
 
 Now, at the top of your project dashboard, you can find the total time you were coding in the project, from the very first day you started using WakaTime until now.
 
-<img src="https://wakatime.com/static/img/blog/project-total-all-time.gif" class="img-thumbnail" alt="timeout feature" />
+<img src="https://wakatime.com/static/img/blog/project-total-all-time.gif" class="img-thumbnail" alt="total time in project screenshot" />
 
 To see this for your own projects, visit your [project dashboard][projects].
 Along with [durations][durations post], [goals][sharing goals post], and [private leaderboards][leaderboards post] this is how we’re bringing insight to your programming activity.
