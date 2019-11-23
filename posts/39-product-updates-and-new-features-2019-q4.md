@@ -1,7 +1,6 @@
 ---
-Draft: true
 Title: Product updates and new features 2019 Q4
-Date: 2019-11-25
+Date: 2019-11-23
 Image: https://wakatime.com/static/img/blog/project-total-all-time.png
 Description: Anonymous team dashboards, share weekly report emails, and total time logged in projects.
 Author: Alan Hamlett
