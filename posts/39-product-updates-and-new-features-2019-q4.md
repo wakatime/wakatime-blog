@@ -15,7 +15,7 @@ We’re excited to announce three new features released in 2019 Q4.
 
 <br>
 
-📊 **Anonymous team dashboards** - turn this on and only project totals are displayed, without attributing time to any individual developer.
+📊 **Anonymous team dashboards** - turn this on and only project totals are displayed, individual developer times are hidden.
 Enable anonymous team dashboards from your [dashboard settings][dashboards] page.
 
 <img src="https://wakatime.com/static/img/blog/39-anonymous-team-dashboards.png" class="img-thumbnail" alt="anonymous team dashboards feature" style="width:80%" />
