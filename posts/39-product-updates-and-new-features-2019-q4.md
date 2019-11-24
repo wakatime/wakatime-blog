@@ -33,7 +33,7 @@ Enable anonymous team dashboards from your [dashboard settings][dashboards] page
 
 <br>
 
-⌛ **Total time logged in a project** - on a [project’s dashboard][projects] dashboard, see the total time you’ve logged to a project since the day you started using WakaTime.
+⌛ **Total time logged in a project** - on a [project’s dashboard][projects], see the total time you’ve logged to a project since the day you started using WakaTime.
 
 <img src="https://wakatime.com/static/img/blog/project-total-all-time.gif" class="img-thumbnail" alt="project total feature" style="width:80%" />
 
