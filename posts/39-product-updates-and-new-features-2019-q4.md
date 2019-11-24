@@ -10,7 +10,7 @@ Category: New Features
 Tags:
 ---
 
-We’re excited to announce three new features released in 2019 Q4.
+We’re excited to announce new features available 2019 Q4.
 
 <br>
 
