@@ -1,5 +1,7 @@
 # The WakaTime Blog
 
+[![Coding time tracker](https://wakatime.com/badge/github/wakatime/wakatime-blog.svg)](https://wakatime.com/badge/github/wakatime/wakatime-blog)
+
 Markdown blog posts for the WakaTime blog at https://wakatime.com/blog
 
 ## Formatting
