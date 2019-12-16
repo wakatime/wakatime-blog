@@ -6,7 +6,7 @@ Description: All WakaTime users programming metrics over 2018, and some new feat
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorGravatar: https://wakatime.com/gravatar/@alan
-Category: New Features
+Category: Engineering
 Tags: year-end-report
 ---
 
