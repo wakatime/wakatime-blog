@@ -1,7 +1,7 @@
 ---
 Title: WakaTime 2019 Programming Stats
 Date: 2020-01-02
-Image: https://wakatime.com/static/img/covers/2019-languages.jpg
+Image: https://wakatime.com/static/img/covers/2019-languages.png
 Description: Aggregate programming stats of all WakaTime users over 2019.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
