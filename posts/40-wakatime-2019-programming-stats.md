@@ -36,7 +36,7 @@ and **Go (418,271 hrs)**.
 
 In 2019, TypeScript overtook Java for 3rd place.
 JavaScript + TypeScript still hold the lead when combined as they’re used three times more than any other language.
-I’m personally happy to see Python holds 5th place again this year, since WakaTime heavily utilizes Python and Flask.
+We’re personally happy to see Python holds 5th place again this year, since WakaTime heavily utilizes Python and Flask.
 
 The top text editors were
 **VS Code (12,059,899 hrs)**,
