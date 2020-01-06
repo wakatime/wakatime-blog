@@ -10,9 +10,8 @@ Category: Engineering
 Tags: year-end-report
 ---
 
-It’s 2020, Happy New Year!
-
-Here’s the aggregate 2019 programming stats for all WakaTime users, followed by your personalized 2019 stats.
+Happy New Year!
+In 2019, over 200k developers spent a combined 25 million hours programming, tracked with WakaTime text editor plugins!
 
 ## Programming stats for 2019
 
