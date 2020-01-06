@@ -34,7 +34,7 @@ The top languages were
 **JSX (451,577 hrs)**,
 and **Go (418,271 hrs)**.
 
-<img src="https://wakatime.com/share/all-users-stats/2019-languages.png" class="img-thumbnail" alt="top languages" style="width:80%" />
+<img src="https://wakatime.com/share/all-users-stats/2019-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
 In 2019, TypeScript overtook Java for 3rd place.
 JavaScript + TypeScript still hold the lead when combined as they’re used three times more than any other language.
@@ -63,7 +63,7 @@ The top text editors were
 **Coda (53,563 hrs)**.
 and **Sketch (48,775 hrs)**.
 
-<img src="https://wakatime.com/share/all-users-stats/2019-editors.png" class="img-thumbnail" alt="top editors" style="width:80%" />
+<img src="https://wakatime.com/share/all-users-stats/2019-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
 VS Code still holds 1st place this year, and the gap increased from 1st to 2nd since 2018.
 Combine all Jetbrains IDEs and they’re only half the usage of VS Code.
@@ -75,7 +75,7 @@ The top operating systems used were
 **Windows (8,429,597 hrs)**,
 and **Linux (4,690,349 hrs)**.
 
-<img src="https://wakatime.com/share/all-users-stats/2019-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:80%" />
+<img src="https://wakatime.com/share/all-users-stats/2019-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
 These aggregate 2019 stats are also <a href="https://wakatime.com/api/v1/stats/2019">available as JSON</a>.
 
