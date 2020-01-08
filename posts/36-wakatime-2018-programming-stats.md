@@ -50,41 +50,48 @@ Available now for Xcode and coming to other IDEs in the future.
 
 ## Programming metrics for 2018
 
-In 2018, WakaTime users programmed for a combined **20,341,186 hrs 56 mins**!
+In 2018, WakaTime users programmed for a combined **18,564,753 hrs**!
 
 The top languages were
-**JavaScript (4,046,216 hrs)**,
-**PHP (2,438,564 hrs)**,
-**Java (1,647,111 hrs)**,
-**TypeScript (1,112,509 hrs)**,
-**Python (1,020,992 hrs)**,
-and **HTML (998,286 hrs)**.
-We could probably count TypeScript together with JavaScript for a combined **5,158,725 hrs**, over twice as much as the runner up language PHP.
+**JavaScript (3,654,553 hrs)**,
+**PHP (2,211,437 hrs)**,
+**Java (1,506,187 hrs)**,
+**TypeScript (989,927 hrs)**,
+**Python (926,099 hrs)**,
+and **HTML (898,510 hrs)**.
+
+<img src="https://wakatime.com/share/all-users-stats/2018-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
+
+We could probably count TypeScript together with JavaScript for a combined **4,644,480 hrs**, over twice as much as the runner up language PHP.
 JavaScript really is eating the world!
 
 The top text editors were
-**VS Code (6,647,675 hrs)**,
-**PhpStorm (2,050,310 hrs)**,
-**Sublime Text (1,817,712 hrs)**,
-**IntelliJ (1,429,152 hrs)**,
-**Android Studio (1,336,110 hrs)**,
-**Atom (1,002,728 hrs)**,
-**WebStorm (877,979 hrs)**,
-**Visual Studio (828,761 hrs)**,
-**Vim (679,099 hrs)**,
-**PyCharm (587,370 hrs)**,
-**Emacs (179,732 hrs)**,
-**Eclipse (164,607 hrs)**,
-**RubyMine (156,989 hrs)**,
-**NetBeans (102,818 hrs)**,
-**Xcode (98,167 hrs)**,
-**Zsh (93,609 hrs)**,
-and GoLand **(80,159 hrs)**.
+**VS Code (6,141,677 hrs)**,
+**PhpStorm (1,898,150 hrs)**,
+**Sublime Text (1,713,266 hrs)**,
+**IntelliJ (1,321,035 hrs)**,
+**Android Studio (1,256,938 hrs)**,
+**Chrome (1,243,128 hrs)**,
+**Atom (947,082 hrs)**,
+**WebStorm (816,939 hrs)**,
+**Visual Studio (763,325 hrs)**,
+**Vim (629,058 hrs)**,
+**PyCharm (456,032 hrs)**,
+**Emacs (164,700 hrs)**,
+**Eclipse (153,433 hrs)**,
+**RubyMine (144,961 hrs)**,
+**NetBeans (96,540 hrs)**,
+**Xcode (91,843 hrs)**,
+and GoLand **(73,325 hrs)**.
+
+<img src="https://wakatime.com/share/all-users-stats/2018-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
 The top operating systems used were
-**Mac (10,142,753 hrs)**,
-**Windows (6,218,433 hrs)**,
-and **Linux (3,517,653 hrs)**.
+**Mac (9,456,372 hrs)**,
+**Windows (5,825,272 hrs)**,
+and **Linux (3,276,562 hrs)**.
+
+<img src="https://wakatime.com/share/all-users-stats/2018-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
 See your personalized report for 2018 here:
 
