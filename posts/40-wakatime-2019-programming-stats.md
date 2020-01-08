@@ -76,7 +76,8 @@ and **Linux (4,690,349 hrs)**.
 
 <img src="https://wakatime.com/share/all-users-stats/2019-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
-These aggregate 2019 stats are also <a href="https://wakatime.com/api/v1/stats/2019">available as JSON</a>.
+These aggregate 2019 stats are [available as JSON][json].
+Also, check out the [2018 Programming Stats][2018 stats blog].
 
 See your personalized report for 2019 here:
 
@@ -120,3 +121,5 @@ See your personalized report for 2019 here:
 [notifications]: https://wakatime.com/settings/notifications
 [repo badge]: https://wakatime.com/share/badges
 [projects]: https://wakatime.com/projects
+[json]: https://wakatime.com/api/v1/stats/2019
+[2018 stats blog]: https://wakatime.com/blog/36-wakatime-2018-programming-stats
