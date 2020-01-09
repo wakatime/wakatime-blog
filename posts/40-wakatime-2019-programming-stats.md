@@ -15,23 +15,21 @@ In 2019, over 200k developers spent a combined 25 million hours programming, tra
 
 ## Programming stats for 2019
 
-In 2019, WakaTime users programmed a combined **25,796,684 hrs**!
-
 The top languages were
-**JavaScript (5,036,909 hrs)**,
-**PHP (2,695,295 hrs)**,
-**TypeScript (2,114,010 hrs)**,
-**Java (1,709,433 hrs)**,
-**Python (1,407,783 hrs)**,
-**Vue.js (1,142,832 hrs)**,
-**HTML (1,090,992 hrs)**,
-**C# (771,636 hrs)**,
-**SCSS (543,318 hrs)**,
-**JSON (541,879 hrs)**,
-**Ruby (533,978 hrs)**,
-**Kotlin (457,646 hrs)**,
-**JSX (451,577 hrs)**,
-and **Go (418,271 hrs)**.
+**JavaScript (5,033,788 hrs)**,
+**PHP (2,693,964 hrs)**,
+**TypeScript (2,112,340 hrs)**,
+**Java (1,709,198 hrs)**,
+**Python (1,407,221 hrs)**,
+**Vue.js (1,142,362 hrs)**,
+**HTML (1,090,448 hrs)**,
+**C# (771,054 hrs)**,
+**SCSS (542,876 hrs)**,
+**JSON (541,430 hrs)**,
+**Ruby (533,571 hrs)**,
+**Kotlin (457,508 hrs)**,
+**JSX (451,354 hrs)**,
+and **Go (418,021 hrs)**.
 
 <img src="https://wakatime.com/share/all-users-stats/2019-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
@@ -40,27 +38,27 @@ JavaScript + TypeScript still hold the lead when combined as they’re used thre
 We’re personally happy to see Python holds 5th place again this year, since WakaTime heavily utilizes Python and Flask.
 
 The top text editors were
-**VS Code (12,059,899 hrs)**,
-**PhpStorm (2,249,455 hrs)**,
-**IntelliJ (1,863,507 hrs)**,
-**Chrome (1,543,578 hrs)**,
-**Android Studio (1,374,707 hrs)**,
-**Sublime Text (1,265,485 hrs)**,
-**WebStorm (1,093,567 hrs)**,
-**Visual Studio (860,975 hrs)**,
-**Vim (673,527 hrs)**,
-**PyCharm (640,924 hrs)**,
-**Atom (586,239 hrs)**,
-**GoLand (173,913 hrs)**,
-**Emacs (171,210 hrs)**,
-**RubyMine (154,075 hrs)**,
-**Eclipse (151,967 hrs)**,
-**Rider (122,118 hrs)**,
+**VS Code (12,052,975 hrs)**,
+**PhpStorm (2,248,752 hrs)**,
+**IntelliJ (1,862,740 hrs)**,
+**Chrome (1,542,063 hrs)**,
+**Android Studio (1,374,508 hrs)**,
+**Sublime Text (1,265,235 hrs)**,
+**WebStorm (1,091,786 hrs)**,
+**Visual Studio (860,582 hrs)**,
+**Vim (672,586 hrs)**,
+**PyCharm (640,552 hrs)**,
+**Atom (585,443 hrs)**,
+**GoLand (173,790 hrs)**,
+**Emacs (170,790 hrs)**,
+**RubyMine (153,851 hrs)**,
+**Eclipse (151,885 hrs)**,
+**Rider (122,114 hrs)**,
 **Xcode (121,435 hrs)**,
 **NetBeans (87,572 hrs)**,
 **CLion (60,860 hrs)**,
 **Coda (53,563 hrs)**.
-and **Sketch (48,775 hrs)**.
+and **Sketch (48,708 hrs)**.
 
 <img src="https://wakatime.com/share/all-users-stats/2019-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
@@ -70,9 +68,9 @@ Sublime Text usage decreased in 2019, dropping from 3rd to 6th place.
 Atom really is dead... it’s usage was cut in half in 2019, most likely as developers switched to VS Code.
 
 The top operating systems used were
-**Mac (12,641,894 hrs)**,
-**Windows (8,429,597 hrs)**,
-and **Linux (4,690,349 hrs)**.
+**Mac (12,633,319 hrs)**,
+**Windows (8,424,908 hrs)**,
+and **Linux (4,687,708 hrs)**.
 
 <img src="https://wakatime.com/share/all-users-stats/2019-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
