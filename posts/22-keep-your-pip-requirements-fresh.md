@@ -10,6 +10,14 @@ Category: Engineering
 Tags: python
 ---
 
+<hr />
+
+**Update 2020:** The new way to manage your Python dependencies is [Pipenv][pipenv].
+It’s like Yarn for Python with updating, locking, and combined with [pyenv][pyenv] even manages your project’s Python version.
+For an example Pipenv setup check out the [wakatime-cli GitHub repository][wakatime-cli].
+
+<hr />
+
 You've probably seen that `requirements.txt` file in the root of your favorite Python repo listing high-level dependencies.
 
     flask==0.9
@@ -55,3 +63,6 @@ Use [pur][pur] today and keep your dependencies fresh!
 [kenneth-reitz-workflow]: http://www.kennethreitz.org/essays/a-better-pip-workflow
 [pip-tools]: https://pypi.python.org/pypi/pip-tools
 [pur]: https://pypi.python.org/pypi/pur
+[pipenv]: https://pipenv-fork.readthedocs.io/en/latest/
+[pyenv]: https://github.com/pyenv/pyenv
+[wakatime-cli]: https://github.com/wakatime/wakatime/tree/standalone#contributing
