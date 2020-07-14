@@ -14,7 +14,7 @@ Hello everyone, with COVID-19 we’re switching from quarterly to bi-yearly upda
 
 <br>
 
-🐦 **Auto-Tweet your daily coding goals** - For your [#100DaysOfCode][100daysofcode] challenge.
+🐦 **Auto-Tweet your daily coding goals** - To stay accountable, for example: when doing the [#100DaysOfCode][100daysofcode] challenge.
 
 <div style="position: relative; padding-bottom: 62.17616580310881%; height: 0;"><iframe src="https://www.loom.com/embed/521a448ad59c4ac381a546b8f892a889" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -30,11 +30,11 @@ Hello everyone, with COVID-19 we’re switching from quarterly to bi-yearly upda
 
 <br>
 
-📊 **Language stats for team dashboards** - similar to individual dashboards, [team dashboards][orgs] now show language stats for your members.
+📊 **Language stats for [team dashboards][orgs]** - see the languages your team members are using.
 
 <br>
 
-🧾 **Branch support for commit stats** - see time spent coding per commit on branches other than master.
+🧾 **Branch support for commit stats** - see time spent coding per commit on branches other than the default branch.
 
 <br>
 
