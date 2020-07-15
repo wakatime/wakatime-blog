@@ -14,7 +14,7 @@ Hello everyone, with COVID-19 we’re switching from quarterly to semiannual upd
 
 <br>
 
-🐦 **Auto-Tweet your daily coding goals** - To stay accountable, for example: when doing the [#100DaysOfCode][100daysofcode] challenge.
+🐦 **Auto-Tweet your daily coding goals** - To stay accountable, for example: when doing the [#100DaysOfCode][100daysofcode] challenge. Set your coding goal [here][goals].
 
 <div style="position: relative; padding-bottom: 62.17616580310881%; height: 0;"><iframe src="https://www.loom.com/embed/521a448ad59c4ac381a546b8f892a889" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -44,3 +44,4 @@ Look forward to more features in future blog posts. Stay safe, virus-free, and h
 [100daysofcode]: https://twitter.com/hashtag/100DaysOfCode
 [notifications]: https://wakatime.com/settings/notifications
 [orgs]: https://wakatime.com/orgs
+[goals]: https://wakatime.com/goals
