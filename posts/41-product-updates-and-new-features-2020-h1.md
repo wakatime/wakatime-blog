@@ -10,7 +10,7 @@ Category: New Features
 Tags:
 ---
 
-Hello everyone, with COVID-19 we’re switching from quarterly to bi-yearly updates. Here are the new features we’ve been working hard to release.
+Hello everyone, with COVID-19 we’re switching from quarterly to biannual updates. Here are the new features we’ve been working hard to release.
 
 <br>
 
