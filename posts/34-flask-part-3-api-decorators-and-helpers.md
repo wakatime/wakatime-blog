@@ -80,7 +80,7 @@ def cached(fn=None, unique_per_user=True, minutes=30):
             prefix = 'flask-request'
             path = request.full_path
             user_id = app.current_user.id if app.current_user.is_authenticated else None
-            key = u('{user}-{method}-{path}').format(
+            key = '{user}-{method}-{path}'.format(
                 user=user_id,
                 method=request.method,
                 path=path,
@@ -163,7 +163,7 @@ def get_counter_key(type=None, for_only_this_route=True, for_methods=None): if n
         route = '{endpoint}'.format(
             endpoint=request.endpoint,
         )
-    return u('{type}-{methods}-{key}{route}').format(
+    return '{type}-{methods}-{key}{route}'.format(
         type=type,
         key=key,
         methods=','.join(for_methods),
@@ -222,7 +222,7 @@ def protected(fn=None, limit=10, minutes=60):
     def wrapper(func):
         @wraps(func)
         def inner(*args, **kwargs):
-            key = u('bruteforce-{}-{}').format(request.endpoint, request.remote_addr)
+            key = 'bruteforce-{}-{}'.format(request.endpoint, request.remote_addr)
             try:
                 count = int(r.get(key) or 0)
                 if count > limit:
