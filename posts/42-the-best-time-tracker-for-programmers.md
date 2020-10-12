@@ -31,7 +31,7 @@ Use this if you have a lot of clients where sending invoices and collecting paym
 
 ## Automated time trackers
 
-### [Upwork][upwork] - A freelancer platform with a creepy screenshot desktop app
+### [Upwork][upwork] - A freelancer platform with a screenshot desktop app
 
 If you’re just starting out and need to find work, Upwork can be a good place to find new clients.
 You get what you put into this one, and be prepared for some bad experiences along the way.
