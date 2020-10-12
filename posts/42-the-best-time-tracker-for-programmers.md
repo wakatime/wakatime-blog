@@ -48,7 +48,7 @@ Each one is a leader in their space so they’re naturally best for the specific
 If you’re a programmer, keep [WakaTime][wakatime] running in the background so you never forget to start your manual timer.
 If you’re looking for new clients use Upwork, but be prepared to weed through the bad apples.
 If you just need simple time tracking, use Freshbooks or Toggl.
-It’s best to use all four of them together at the same time.
+It’s best to use all four of them together in conjunction at the same time.
 
 
 [toggl]: https://www.toggl.com/?utm_source=wakatime
