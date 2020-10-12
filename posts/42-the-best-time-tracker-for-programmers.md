@@ -47,7 +47,7 @@ Just make sure to increase the default [Timeout preference][timeout] so you’re
 
 Each one is a leader in their space so they’re naturally best for the specific use that they were targeting.
 If you’re a programmer, keep [WakaTime][wakatime] running in the background so you never forget to start your manual timer.
-If you’re looking for new clients use Upwork, but be prepared to weed through the bad apples.
+If you’re looking for new clients and don’t have concerns about your privacy, try Upwork’s marketplace.
 If you just need simple time tracking, use Freshbooks or Toggl.
 It’s best to use all four of them together in conjunction at the same time.
 
