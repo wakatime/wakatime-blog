@@ -35,7 +35,7 @@ Use this if you have a lot of clients where sending invoices and collecting paym
 
 If you’re just starting out and need to find work, Upwork can be a good place to find new clients.
 However, their time tracking app takes screenshots of your desktop every 10 minutes.
-Not everyone’s going to be comfortable with that level of monitoring.
+Not everyone is comfortable with that level of monitoring.
 
 ### [WakaTime][wakatime] - A time tracker for software engineers, with open source IDE plugins
 
