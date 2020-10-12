@@ -42,14 +42,15 @@ Not everyone is comfortable with that level of monitoring.
 WakaTime is a dashboard for developers, using IDE plugins to automate time tracking.
 Since it’s built for programmers, it automatically detects your projects and works seamlessly with the tools you’re already using.
 Just make sure to increase the default [Timeout preference][timeout] so you’re not under-reporting your actual work time.
+You can also time track as a team.
 
 ## The Winner?
 
 Each one is a leader in their space so they’re naturally best for the specific use that they were targeting.
-If you’re a programmer, keep [WakaTime][wakatime] running in the background so you never forget to start your manual timer.
-If you’re looking for new clients and don’t have concerns about your privacy, try Upwork’s marketplace.
-If you just need simple time tracking, use Freshbooks or Toggl.
-It’s best to use all four of them together in conjunction at the same time.
+If you don’t have concerns about your privacy and don't mind having to be more involved in the time tracking process, try Upwork.
+If you just need simple manual time tracking with no automatic features, use Freshbooks or Toggl.
+If you’re a programmer, [WakaTime][wakatime] is the best time tracker.
+It's fully automatic and gives you all the insights a developer needs, for ex: time tracking per commit, file, or project.
 
 
 [toggl]: https://www.toggl.com/?utm_source=wakatime
