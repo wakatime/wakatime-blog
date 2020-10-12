@@ -23,7 +23,7 @@ Time trackers can be grouped into manual and automated categories:
 ### [Toggl][toggl] - A simple time tracker with stopwatch app for many platforms
 
 Use this if you’re not a software engineer.
-It’s simplicity and support for multiple platforms has made it the leader in general time tracking.
+Its simplicity and support for multiple platforms has made it the leader in general time tracking.
 
 ### [FreshBooks][freshbooks] - An invoicing platform, with a time tracking feature
 
