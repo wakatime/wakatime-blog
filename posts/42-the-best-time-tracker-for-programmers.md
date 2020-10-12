@@ -34,7 +34,8 @@ Use this if you have a lot of clients where sending invoices and collecting paym
 ### [Upwork][upwork] - A freelancer platform with a screenshot desktop app
 
 If you’re just starting out and need to find work, Upwork can be a good place to find new clients.
-You get what you put into this one, and be prepared for some bad experiences along the way.
+However, their time tracking app takes screenshots of your desktop every 10 minutes.
+Not everyone’s going to be comfortable with that level of monitoring.
 
 ### [WakaTime][wakatime] - A time tracker for software engineers, with open source IDE plugins
 
