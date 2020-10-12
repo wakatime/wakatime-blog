@@ -40,7 +40,7 @@ Not everyone is comfortable with that level of monitoring.
 ### [WakaTime][wakatime] - A time tracker for software engineers, with open source IDE plugins
 
 WakaTime is a dashboard for developers, using IDE plugins to automate time tracking.
-Use this if time tracking is an inconvenience and distracts from your projects.
+Since it’s built for programmers, it automatically detects your projects and works seamlessly with the tools you’re already using.
 Just make sure to increase the default [Timeout preference][timeout] so you’re not under-reporting your actual work time.
 
 ## The Winner?
