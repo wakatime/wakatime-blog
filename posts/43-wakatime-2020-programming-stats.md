@@ -10,11 +10,10 @@ Category: Engineering
 Tags: year-end-report
 ---
 
-Happy New Year… finally!
-
 <img src="https://wakatime.com/static/img/covers/dumpster-fire-2020.png" class="img-thumbnail" alt="A real dumpster fire" style="width:90%" />
 
-In 2020, over 250k developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
+Happy New Year… 2020 is finally over!
+In 2020, 250k+ developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
 This post is an analysis of all those hours spent programming during 2020, and a quick list of improvements and new [WakaTime][about] features.
 Most notably, the new [Google Calendar integration][integrations] shows meeting times on your dashboard.
 
@@ -114,7 +113,7 @@ See your personalized report for 2020 here:
 
 📊 **Performance improvements for teams** - We increased p99 TTI performance by 90% for [team dashboards][teams]. This greatly improves the experience for teams with more than 50 devs on a dashboard.
 
-📺 **55k IDEs supported** - We’ve been busy adding support for all the [text editors][plugins] developers use.
+📺 **55 IDEs supported** - We’ve been busy adding support for all the [text editors][plugins] developers use.
 
 🚀 **250k+ users** - Over [250k programmers][about] are now using WakaTime.
 
