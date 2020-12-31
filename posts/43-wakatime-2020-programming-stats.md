@@ -10,9 +10,10 @@ Category: Engineering
 Tags: year-end-report
 ---
 
+Happy New Year… 2020 is finally over!
+
 <img src="https://wakatime.com/static/img/covers/dumpster-fire-2020.png" class="img-thumbnail" alt="A real dumpster fire" style="width:90%" />
 
-Happy New Year… 2020 is finally over!
 In 2020, 250k+ developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
 This post is an analysis of all those hours spent programming during 2020, and a quick list of improvements and new [WakaTime][about] features.
 Most notably, the new [Google Calendar integration][integrations] shows meeting times on your dashboard.
