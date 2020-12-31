@@ -14,7 +14,7 @@ Happy New Year… 2020 is finally over!
 
 <img src="https://wakatime.com/static/img/covers/dumpster-fire-2020.png" class="img-thumbnail" alt="A real dumpster fire" style="width:90%" />
 
-In 2020, 250K developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
+In 2020, 250k developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
 This post is an analysis of all those hours spent programming during 2020, and a quick list of improvements and new [WakaTime][about] features.
 Most notably, the new [Google Calendar integration][integrations] shows meeting times on your dashboard.
 
@@ -33,7 +33,7 @@ We increased p99 TTI performance by 90% for [team dashboards][teams]. This great
 We’ve been busy adding support for all the [text editors][plugins] developers use.
 
 ### 🚀 Reached 250,000 users
-Over [250K programmers][about] are now using WakaTime for metrics about their programming.
+Over [250k programmers][about] are now using WakaTime for metrics about their programming.
 
 ## Programming stats for 2020
 
