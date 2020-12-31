@@ -16,7 +16,7 @@ Happy New Year… finally!
 
 In 2020, over 250k developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
 This post is an analysis of all those hours spent programming during 2020, and a quick list of improvements and new [WakaTime][about] features.
-Most notably, the new [Google Calendar integration][integrations] shows meeting time on your dashboards.
+Most notably, the new [Google Calendar integration][integrations] shows meeting times on your dashboard.
 
 ## Programming stats for 2020
 
@@ -108,7 +108,7 @@ See your personalized report for 2020 here:
 
 ## New Features & Milestones
 
-📅 **Google Calendar integration** - We redesigned the [integrations][integrations] page, and added a Google Calendar integration so you can see how long you spend in meetings.
+📅 **Google Calendar integration** - We redesigned the [integrations][integrations] page, and added a [Google Calendar integration][calendar] so you can see how long you spend in meetings.
 
 ⚙️  **Improved custom rules** - Smarter matching of category, domain, or app with [custom rules][rules].
 
@@ -122,6 +122,7 @@ See your personalized report for 2020 here:
 
 [plugins]: https://wakatime.com/plugins
 [integrations]: https://wakatime.com/integrations
+[calendar]: https://wakatime.com/google-calendar
 [rules]: https://wakatime.com/settings/rules
 [teams]: https://wakatime.com/teams
 [about]: https://wakatime.com/about#timeline
