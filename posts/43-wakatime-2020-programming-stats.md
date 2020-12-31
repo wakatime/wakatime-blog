@@ -56,7 +56,6 @@ and **Go ([placeholder] hrs)**.
 <img src="https://wakatime.com/share/all-users-stats/2019-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
 In 2020, [placeholder].
-JavaScript + TypeScript still hold the lead when combined as they’re used three times more than any other language.
 
 The top text editors were
 **VS Code ([placeholder] hrs)**,
@@ -83,10 +82,7 @@ and **Sketch ([placeholder] hrs)**.
 
 <img src="https://wakatime.com/share/all-users-stats/2019-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
-VS Code still holds 1st place this year, and the gap increased from 1st to 2nd since 2019.
-Combine all Jetbrains IDEs and they’re only half the usage of VS Code.
-Sublime Text usage decreased this year, dropping from 3rd to 6th place.
-Atom really is dead... it’s usage was cut in half in 2020, most likely as developers switched to VS Code.
+This year [placeholder].
 
 The top operating systems used were
 **Mac ([placeholder] hrs)**,
