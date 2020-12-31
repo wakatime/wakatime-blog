@@ -27,7 +27,7 @@ We redesigned the [integrations][integrations] page, and added a [Google Calenda
 Smarter matching of category, domain, or app with [custom rules][rules].
 
 ### 📊 Performance improvements for teams
-We increased p99 TTI performance by 90% for [team dashboards][teams]. This greatly improves the experience for teams with more than 50 devs on a dashboard.
+We improved p99 TTI performance by 90% for [team dashboards][teams]. This greatly improves the experience for teams with more than 50 devs on a dashboard.
 
 ### 📺 55 IDEs supported
 We’ve been busy adding support for all the [text editors][plugins] developers use.
