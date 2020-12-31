@@ -14,9 +14,26 @@ Happy New Year… 2020 is finally over!
 
 <img src="https://wakatime.com/static/img/covers/dumpster-fire-2020.png" class="img-thumbnail" alt="A real dumpster fire" style="width:90%" />
 
-In 2020, 250k+ developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
+In 2020, 250K developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
 This post is an analysis of all those hours spent programming during 2020, and a quick list of improvements and new [WakaTime][about] features.
 Most notably, the new [Google Calendar integration][integrations] shows meeting times on your dashboard.
+
+## New Features & Milestones
+
+### 📅 Google Calendar integration
+We redesigned the [integrations][integrations] page, and added a [Google Calendar integration][calendar] so you can see how long you spend in meetings.
+
+### ⚙️  Improved custom rules
+Smarter matching of category, domain, or app with [custom rules][rules].
+
+### 📊 Performance improvements for teams
+We increased p99 TTI performance by 90% for [team dashboards][teams]. This greatly improves the experience for teams with more than 50 devs on a dashboard.
+
+### 📺 55 IDEs supported
+We’ve been busy adding support for all the [text editors][plugins] developers use.
+
+### 🚀 Reached 250,000 users
+Over [250K programmers][about] are now using WakaTime for metrics about their programming.
 
 ## Programming stats for 2020
 
@@ -105,19 +122,6 @@ See your personalized report for 2020 here:
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;">View your personalized 2020 stats</a>
-
-## New Features & Milestones
-
-📅 **Google Calendar integration** - We redesigned the [integrations][integrations] page, and added a [Google Calendar integration][calendar] so you can see how long you spend in meetings.
-
-⚙️  **Improved custom rules** - Smarter matching of category, domain, or app with [custom rules][rules].
-
-📊 **Performance improvements for teams** - We increased p99 TTI performance by 90% for [team dashboards][teams]. This greatly improves the experience for teams with more than 50 devs on a dashboard.
-
-📺 **55 IDEs supported** - We’ve been busy adding support for all the [text editors][plugins] developers use.
-
-🚀 **250k+ users** - Over [250k programmers][about] are now using WakaTime.
-
 
 
 [plugins]: https://wakatime.com/plugins
