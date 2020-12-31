@@ -61,7 +61,7 @@ The top text editors were
 **Xcode ([placeholder] hrs)**,
 **NetBeans ([placeholder] hrs)**,
 **CLion ([placeholder] hrs)**,
-**Coda ([placeholder] hrs)**.
+**Coda ([placeholder] hrs)**,
 and **Sketch ([placeholder] hrs)**.
 
 <img src="https://wakatime.com/share/all-users-stats/2019-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />

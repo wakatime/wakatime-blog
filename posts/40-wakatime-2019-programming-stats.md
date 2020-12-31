@@ -57,7 +57,7 @@ The top text editors were
 **Xcode (121,435 hrs)**,
 **NetBeans (87,572 hrs)**,
 **CLion (60,860 hrs)**,
-**Coda (53,563 hrs)**.
+**Coda (53,563 hrs)**,
 and **Sketch (48,708 hrs)**.
 
 <img src="https://wakatime.com/share/all-users-stats/2019-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
