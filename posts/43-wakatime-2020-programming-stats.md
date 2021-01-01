@@ -14,7 +14,7 @@ Happy New Year… 2020 is finally over!
 
 <img src="https://wakatime.com/static/img/covers/dumpster-fire-2020.png" class="img-thumbnail" alt="A real dumpster fire" style="width:90%" />
 
-In 2020, 250k developers spent a combined 36 million hours programming, tracked with WakaTime text editor plugins.
+In 2020, more than 250k developers spent a combined 36 million hours programming, tracked with WakaTime text editor plugins.
 The average person spent 51 minutes per day programming.
 This post is an analysis of all those hours spent programming during 2020, and a quick list of improvements and new [WakaTime][about] features.
 Most notably, the new [Google Calendar integration][integrations] shows meeting times on your dashboard.
