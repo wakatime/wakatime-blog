@@ -38,16 +38,16 @@ Over [250k programmers][about] are now using WakaTime for metrics about their pr
 
 ## Programming stats for 2020
 
-Top languages for 2020, and their changes from last year:
+#### Top languages for 2020, and their changes from last year:
 <img src="https://wakatime.com/share/all-users-stats/2020-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
-Top editors for 2020:
+#### Top editors for 2020:
 <img src="https://wakatime.com/share/all-users-stats/2020-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
-The top operating systems used:
+#### The top operating systems used:
 <img src="https://wakatime.com/share/all-users-stats/2020-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
-These aggregate 2020 stats are [available as JSON][json].
+These aggregated 2020 stats are [available as JSON][json].
 Also, check out the [2019 Programming Stats][2019 stats blog].
 
 See your personalized report for 2020 here:
