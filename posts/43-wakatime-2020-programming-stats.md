@@ -14,7 +14,8 @@ Happy New Year… 2020 is finally over!
 
 <img src="https://wakatime.com/static/img/covers/dumpster-fire-2020.png" class="img-thumbnail" alt="A real dumpster fire" style="width:90%" />
 
-In 2020, 250k developers spent a combined [placeholder] hours programming, tracked with WakaTime text editor plugins.
+In 2020, 250k developers spent a combined 36 million hours programming, tracked with WakaTime text editor plugins.
+The average person spent 51 minutes per day programming.
 This post is an analysis of all those hours spent programming during 2020, and a quick list of improvements and new [WakaTime][about] features.
 Most notably, the new [Google Calendar integration][integrations] shows meeting times on your dashboard.
 
@@ -37,59 +38,14 @@ Over [250k programmers][about] are now using WakaTime for metrics about their pr
 
 ## Programming stats for 2020
 
-The top languages were
-**JavaScript ([placeholder] hrs)**,
-**PHP ([placeholder] hrs)**,
-**TypeScript ([placeholder] hrs)**,
-**Java ([placeholder] hrs)**,
-**Python ([placeholder] hrs)**,
-**Vue.js ([placeholder] hrs)**,
-**HTML ([placeholder] hrs)**,
-**C# ([placeholder] hrs)**,
-**SCSS ([placeholder] hrs)**,
-**JSON ([placeholder] hrs)**,
-**Ruby ([placeholder] hrs)**,
-**Kotlin ([placeholder] hrs)**,
-**JSX ([placeholder] hrs)**,
-and **Go ([placeholder] hrs)**.
+Top languages for 2020, and the percent they changed from last year:
+<img src="https://wakatime.com/share/all-users-stats/2020-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
-<img src="https://wakatime.com/share/all-users-stats/2019-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
+Top editors for 2020:
+<img src="https://wakatime.com/share/all-users-stats/2020-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
-In 2020, [placeholder].
-
-The top text editors were
-**VS Code ([placeholder] hrs)**,
-**PhpStorm ([placeholder] hrs)**,
-**IntelliJ ([placeholder] hrs)**,
-**Chrome ([placeholder] hrs)**,
-**Android Studio ([placeholder] hrs)**,
-**Sublime Text ([placeholder] hrs)**,
-**WebStorm ([placeholder] hrs)**,
-**Visual Studio ([placeholder] hrs)**,
-**Vim ([placeholder] hrs)**,
-**PyCharm ([placeholder] hrs)**,
-**Atom ([placeholder] hrs)**,
-**GoLand ([placeholder] hrs)**,
-**Emacs ([placeholder] hrs)**,
-**RubyMine ([placeholder] hrs)**,
-**Eclipse ([placeholder] hrs)**,
-**Rider ([placeholder] hrs)**,
-**Xcode ([placeholder] hrs)**,
-**NetBeans ([placeholder] hrs)**,
-**CLion ([placeholder] hrs)**,
-**Coda ([placeholder] hrs)**,
-and **Sketch ([placeholder] hrs)**.
-
-<img src="https://wakatime.com/share/all-users-stats/2019-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
-
-This year [placeholder].
-
-The top operating systems used were
-**Mac ([placeholder] hrs)**,
-**Windows ([placeholder] hrs)**,
-and **Linux ([placeholder] hrs)**.
-
-<img src="https://wakatime.com/share/all-users-stats/2019-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
+The top operating systems used:
+<img src="https://wakatime.com/share/all-users-stats/2020-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
 These aggregate 2020 stats are [available as JSON][json].
 Also, check out the [2019 Programming Stats][2019 stats blog].
