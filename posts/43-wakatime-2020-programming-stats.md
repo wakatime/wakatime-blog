@@ -47,9 +47,6 @@ Over [250k programmers][about] are now using WakaTime for metrics about their pr
 #### Top operating systems used
 <img src="https://wakatime.com/share/all-users-stats/2020-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
-These aggregated 2020 stats are [available as JSON][json].
-Also, check out the [2019 Programming Stats][2019 stats blog].
-
 See your personalized report for 2020 here:
 
 <a href="https://wakatime.com/a-look-back-at-2020" style="
@@ -74,6 +71,8 @@ See your personalized report for 2020 here:
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;">View your personalized 2020 stats</a>
+
+These aggregated 2020 stats are [available as JSON][json], and also available for [previous years][2019 stats blog].
 
 
 [plugins]: https://wakatime.com/plugins
