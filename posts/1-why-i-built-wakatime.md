@@ -24,6 +24,14 @@ I could still manually track my time, but I would always have a source of truth 
 I always liked how the Swahili language sounds, and Google Translate said the Swahili word “[wakati][wakati]” means “time”.
 Thanks to my friend [Jumana][jumana], for confirming the Swahili translation, I decided to call my new project WakaTime.
 That same night I registered the domain [wakati.me][domain] and started building the automatic time tracker WakaTime.
+It took about a month to build the initial Vim plugin, then another month for the website and Sublime Text plugin.
+I was the first WakaTime user, and [Robert][robert] was the second user.
+With two stable plugins and a Flask website, I launched WakaTime as a [Show HN post][hacker news] on July 15, 2013 getting about 700 initial signups.
+Over the next year I enjoyed building, growing, and marketing WakaTime to developers until my housemates [Robert][robert] and [Kirubakaran][kirubakaran] convinced me to spend a weekend adding the paid plans.
+So, it wasn't until a year after launching that you could pay for WakaTime, but to my delight over 100 people upgraded to a paid plan right away.
+Of those, 20 were people who signed up from the initial launch back in July 2013.
+
+In conclusion, do what you love with dedication!
 
 
 [hacker house]: https://twitter.com/pahackerhouse
@@ -32,3 +40,4 @@ That same night I registered the domain [wakati.me][domain] and started building
 [wakati]: http://translate.google.com/#sw/en/wakati
 [jumana]: https://www.linkedin.com/in/jumana-adamjee-2b032823
 [domain]: http://wakati.me
+[hacker news]: https://news.ycombinator.com/item?id=6046227
