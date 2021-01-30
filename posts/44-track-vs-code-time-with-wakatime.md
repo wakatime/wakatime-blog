@@ -29,7 +29,7 @@ See your daily code time without having to leave your editor.
 ### Seamless VS Code integration
 
 Available on the [VS Code Extension Markteplace][marketplace], the WakaTime plugin is very easy to install without leaving your editor.
-Click the “Extensions” (⇧⌘X) tab in your sidebar, then search for `wakatime`.
+To install the plugin, click the “Extensions” (⇧⌘X) tab in your sidebar, then search for `wakatime`.
 
 <img src="https://wakatime.com/static/img/covers/vscode-extensions-tab.png" class="img-thumbnail" alt="VS Code extensions tab" style="width:90%" />
 
