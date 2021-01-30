@@ -28,7 +28,7 @@ See your daily code time without having to leave your editor.
 
 ### Seamless VS Code integration
 
-The WakaTime plugin for VS Code is very easy to install, without leaving your editor.
+Available on the [VS Code Extension Markteplace][marketplace], WakaTime plugin is very easy to install, without leaving your editor.
 Click the “Extensions” (⇧⌘X) tab in your sidebar, then search for `wakatime`.
 
 <img src="https://wakatime.com/static/img/covers/vscode-extensions-tab.png" class="img-thumbnail" alt="VS Code extensions tab" style="width:90%" />
@@ -50,6 +50,7 @@ Get started with your free code time insights today by [installing the WakaTime 
 
 [vscode]: https://code.visualstudio.com/
 [vscode plugin]: https://wakatime.com/vs-code
+[marketplace]: https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime
 [2020 code stats]: https://wakatime.com/blog/43-wakatime-2020-programming-stats
 [api key]: https://wakatime.com/api-key
 [dashboard]: https://wakatime.com/dashboard
