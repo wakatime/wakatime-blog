@@ -10,7 +10,7 @@ Category: New Features
 Tags: vscode
 ---
 
-[Visual Studio Code (VS Code)][vscode] is a new open source text editor popular with programmers favoring modern languages.
+[Visual Studio Code (VS Code)][vscode] is an open source text editor popular with programmers favoring modern languages.
 With native support for traditional IDE features(jump to definition, find references, etc) via IntelliSense and without the bloat of a full IDE, VS Code has [quickly gained traction][2020 code stats] among developers.
 VS Code has built-in support for almost everything a developer needs: IntelliSense, Build & Debug without leaving the IDE, Git awareness, and remote development container support.
 However, one thing VS Code doesn’t have is a Screen Time style report of your code time.
