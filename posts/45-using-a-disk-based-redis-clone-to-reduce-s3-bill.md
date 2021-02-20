@@ -1,7 +1,7 @@
 ---
 Title: Using a disk-based Redis clone to reduce S3 bill
 Date: 2021-02-19
-Image: https://wakatime.com/static/img/covers/vscode-status-bar.png
+Image: https://wakatime.com/static/img/blog/redis.png
 Description: Using SSDB to solve the Redis RAM limitation.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan

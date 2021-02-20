@@ -1,7 +1,7 @@
 ---
 Title: Latency of DigitalOcean Spaces vs AWS S3
 Date: 2021-02-20
-Image: https://wakatime.com/static/img/covers/vscode-status-bar.png
+Image: https://wakatime.com/static/img/blog/s3-vs-spaces-latency.png
 Description: Observations on reliability and latency differences between Amazon S3 and DigitalOcean Spaces object storage.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
