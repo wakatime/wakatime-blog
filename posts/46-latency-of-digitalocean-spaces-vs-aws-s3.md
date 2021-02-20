@@ -42,7 +42,7 @@ According to [AWS docs][s3 performance], this means we can read up to 5.5k files
 
 We’re now using S3 as our primary code stats database, with an [SSDB caching layer][blog post 45], and multiple Postgres databases on DigitalOcean block storage volumes.
 WakaTime code stats come in from the [open source plugins][plugins] to the [WakaTime API][api] and are temporarily stored in a Postgres database sharded at the application-layer by day.
-Multiple times per day, a background task runs on our RabbitMQ distributed task queue that moves code stats from Postgres into S3 and warming the SSDB cache at the same time.
+Multiple times per day, a background task runs on our RabbitMQ distributed task queue that moves code stats from Postgres into S3, warms the SSDB cache, then globally locks and drops the current shard table from Postgres.
 A similar task also runs each day to backup the code stats into DigitalOcean Spaces.
 Our backups in Spaces are [automatically versioned][spaces docs] by DigitalOcean.
 If new code stats come in for the same S3 file, the change is replicated and versioned in the Spaces backup.
