@@ -11,10 +11,10 @@ Tags: redis, ssdb, caching, databases, devops
 ---
 
 [Redis][redis] is an in-memory database with very high write and read speed, and a limitation that data sets can’t be larger than available RAM.
-By available RAM I mean 50% of the machine’s total available RAM, unless you disable Redis snapshotting and risk losing your data if the machine reboots.
-That’s because Redis keeps the entire database in RAM and only saves data to disk by [periodically forking][persistence] the Redis process and saving a snapshot of the database to disk.
-When a Linux process forks, you get two copies of the same process running causing the total RAM used by both those processes to double.
-If your data set ever grows larger than 50% of your available RAM, when Redis tries to fork and snapshot [it will fail][snapshot failure] and force your Redis instance into [read-only mode][read only mode].
+It’s like [memcached][memcached] but supports data structures instead of just strings as values.
+Redis is great for caching lookups to AWS S3 from an external server, which can speed up your S3 reads and save you money on [Outgoing Data Transfer costs][s3 pricing].
+However, having your entire data set limited to the size of available RAM on the machine means you can only cache a small fraction of your possible AWS S3 keys.
+Also with Redis, if snapshotting ever fails because you’ve used more RAM than available, your [snapshot will fail][snapshot failure] and force your Redis instance into [read-only mode][read only mode].
 This means your production Redis database might suddenly stop allowing writes until you restart it, yikes!😱
 
 ### Redis Cluster
@@ -65,8 +65,8 @@ To get started with your free code time insights today, [install the WakaTime pl
 
 
 [wakatime]: https://wakatime.com
+[memcached]: https://memcached.org/
 [redis]: https://redis.io/
-[persistence]: https://redis.io/topics/persistence
 [snapshot failure]: https://redis.io/topics/faq#background-saving-fails-with-a-fork-error-under-linux-even-if-i-have-a-lot-of-free-ram
 [read only mode]: https://redis.io/topics/faq#what-happens-if-redis-runs-out-of-memory
 [ssdb]: https://github.com/ideawu/ssdb
@@ -77,6 +77,7 @@ To get started with your free code time insights today, [install the WakaTime pl
 [twemproxy]: https://github.com/twitter/twemproxy
 [digitalocean]: https://www.digitalocean.com/products/droplets/
 [s3]: https://aws.amazon.com/s3/
+[s3 pricing]: https://aws.amazon.com/s3/pricing/
 [devops tag]: https://wakatime.com/blog/tag/devops
 [spaces]: https://www.digitalocean.com/products/spaces/
 [blog post 46]: https://wakatime.com/blog/46-latency-of-digitalocean-spaces-vs-aws-s3
