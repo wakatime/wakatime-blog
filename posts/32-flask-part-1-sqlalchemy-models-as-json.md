@@ -279,7 +279,7 @@ class BaseModel(db.Model):
                 if is_list:
                     valid_ids = []
                     query = getattr(self, rel)
-                    cls = self.__mapper__.relationships[rel].argument()
+                    cls = self.__mapper__.relationships[rel].entity.class_
                     for item in kwargs[rel]:
                         if (
                             "id" in item
