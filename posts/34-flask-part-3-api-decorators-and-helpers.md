@@ -367,6 +367,13 @@ def users():
 
 This provides resource-level access control not column/table level, but it has worked well for [WakaTime’s public api][wakatime api].
 
+### Schema Migrations with Alembic
+
+[Alembic][alembic] is a schema migration tool written by the author of SQLAlchemy.
+It automatically detects when you change your SQLAlchemy models, generating corresponding ALTER, CREATE TABLE, etc. statements in a versioned migration file.
+The versioned files use hashes instead of auto-incrementing integers, so your team won’t ever run into conflicts where two devs create different schema migrations with the same version number.
+I highly recommend using Alembic to manage your database schema changes with SQLAlchemy.
+
 ### Conclusion
 
 Hopefully these patterns and base methods will make creating APIs with Flask a breeze!
@@ -377,6 +384,7 @@ By the way, [WakaTime][wakatime] is built with Flask along with these patterns ;
 [wakatime api]: https://wakatime.com/api
 [flask-login]: http://flask-login.readthedocs.io/en/latest/
 [oauth gist]: https://gist.github.com/alanhamlett/f9c8d6414cdd81502442fb5631b41fd9
+[alembic]: https://alembic.sqlalchemy.org/en/latest/
 
 [part1]: https://wakatime.com/blog/32-flask-part-1-sqlalchemy-models-to-json
 [part2]: https://wakatime.com/blog/33-flask-part-2-building-a-restful-api
