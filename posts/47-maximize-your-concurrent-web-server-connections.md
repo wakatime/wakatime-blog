@@ -17,32 +17,41 @@ Before spending more money on servers, first make sure your web server process i
 
 ### Max open file descriptors (Kernel file-max)
 
-Each Linux kernel is compiled to allow a certain maximum open files (or sockets) per process.
+Each Linux kernel supports a certain maximum number of open files (or sockets) per process.
 From now on, we’ll call that `file-max`.
-[WakaTime][wakatime] uses [DigitalOcean][digitalocean] servers, and depending on the instance size each comes with a different file-max.
-To check the kernel’s file-max, run `cat /proc/sys/fs/file-max`.
+To check the kernel’s current file-max, run:
 
-For example, the $320/mo DigitalOcean instances have a file-max of `6,579,127`.
+    cat /proc/sys/fs/file-max
 
-    $ cat /proc/sys/fs/file-max
-    6579127
-
-<img src="https://wakatime.com/static/img/blog/digitalocean-medium-droplet.png" class="img-thumbnail" alt="DigitalOcean medium droplet size" style="width:90%" />
-
-While the $5/mo DigitalOcean instances only have a file-max of `94,198`:
+For example, the $5/mo DigitalOcean instances have a file-max of `9 Trillion`:
 
     $ cat /proc/sys/fs/file-max
-    94198
+    9223372036854775807
 
 <img src="https://wakatime.com/static/img/blog/digitalocean-small-droplet.png" class="img-thumbnail" alt="DigitalOcean small droplet size" style="width:90%" />
 
-That’s 94k concurrent connections per process, which is still plenty enough for most production web servers.
-If you’re using Node.js that’s your max, but if your web server runs multiple worker processes then multiply 94k by the number of processes to get your max connections.
-However, to actually use those 94k concurrent connections your web server process needs it’s ulimit increased.
+If your default file-max is too low, increase it by adding this line to your `/etc/sysctl.conf` file:
+
+    fs.file-max = 1000000
+
+Load the new file-max by running `sysctl -p` as root.
+Now your kernel’s file max should show 1M concurrent connections available:
+
+    $ cat /proc/sys/fs/file-max
+    1000000
+
+However, check the file-max of your current process and you see it’s much lower than the kernel file-max:
+
+    $ ulimit -Sn
+    1024
+
+If you’re using Node.js that’s a max of 1k concurrent connections, but if your web server runs multiple worker processes then multiply 1k by the number of processes to get your max connections.
+Either way, that’s not many concurrent connections for a production web server.
+To actually use those 9T concurrent connections, your web server process needs it’s ulimit increased.
 
 ### Ulimit (Process file-max)
 
-Your Linux kernel has a file-max of 94k, but let’s check your web server’s process file-max:
+Your Linux kernel has a file-max of 9T, but let’s check your web server’s process file-max:
 
     $ ps -aux | grep -m 1 nginx
     nginx    12785  0.1  0.1  62508 24372   nginx: worker process
@@ -55,24 +64,24 @@ Or in a one-liner:
     1024
 
 What’s that?
-Nginx can only handle 1k concurrent connections when the kernel supports 94k?
+Nginx can only handle 1k concurrent connections when the kernel supports 9T?
 
 That’s because we need to increase the file-max setting for the `nginx` user.
 To do that, add these lines to your `/etc/security/limits.conf` file:
 
 ```
-* soft nofile 94000
-* hard nofile 94000
+* soft nofile 1000000
+* hard nofile 1000000
 ```
 
-The `*` is for all users except the `root` user, and you can specify a username like `nginx soft nofile 94000`.
-Now your Nginx user has permission to open 94k connections, but it still won’t use those 94k connections.
+The `*` is for all users except the `root` user, and you can specify a username like `nginx soft nofile 1000000`.
+Now your Nginx user has permission to open 1 Million connections, but your Nginx process still won’t use those 1M connections.
 That’s because you also need to edit your systemd unit file for Nginx.
 
 ### Systemd file-max (LimitNOFILE)
 
-When running Nginx with [systemd][systemd], you’ll notice the Nginx processes aren’t showing the 94k file-max limit available.
-To fix that, add `LimitNOFILE=94000` to your `/etc/systemd/system/nginx.service` file under the `[Service]` block:
+When running Nginx with [systemd][systemd], you’ll notice the Nginx processes aren’t showing the 1M file-max limit available.
+To fix that, add `LimitNOFILE=1000000` to your `/etc/systemd/system/nginx.service` file under the `[Service]` block:
 
 ```
 [Unit]
@@ -88,21 +97,21 @@ ExecReload=/usr/sbin/nginx -g 'daemon on; master_process on;' -s reload
 ExecStop=-/sbin/start-stop-daemon --quiet --stop --retry QUIT/5 --pidfile /run/nginx.pid
 TimeoutStopSec=5
 KillMode=mixed
-LimitNOFILE=94000
+LimitNOFILE=1000000
 
 [Install]
 WantedBy=multi-user.target
 ```
 
-Run `systemctl daemon-reload` to apply the changes, and now your Nginx processes show 94k when you check their file-max limit:
+Run `systemctl daemon-reload` to apply the changes, and now your Nginx processes show 1M when you check their file-max limit:
 
     $ cat /proc/`ps -aux | grep -m 1 nginx | awk -F ' ' '{print $2}'`/limits | grep "open files" | awk -F ' ' '{print $4}'
-    94000
+    1000000
 
 ### Haproxy
 
 Other software, such as [haproxy][haproxy], set their own file-max ulimit.
-If you’ve increased the above limits and your haproxy child process still isn’t showing 94k then try adding `maxconn 94000` to your `haproxy.cfg` file.
+If you’ve increased the above limits and your haproxy child process still isn’t showing 1M then try adding `maxconn 1000000` to your `haproxy.cfg` file.
 We also switched from init.d to systemd for managing haproxy, since setting `LimitNOFILE` is super easy with systemd:
 
 ```
@@ -115,7 +124,7 @@ ExecReload=/bin/kill -USR2 $MAINPID
 Restart=always
 KillSignal=SIGTERM
 TimeoutStopSec=5
-LimitNOFILE=94000
+LimitNOFILE=1000000
 
 [Install]
 WantedBy=multi-user.target
