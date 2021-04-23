@@ -54,7 +54,7 @@ However, check the file-max of your current process and you see it’s much lowe
 
 If you’re using Node.js that’s a max of 1k concurrent connections, but if your web server runs multiple worker processes then multiply 1k by the number of processes to get your max connections.
 Either way, that’s not many concurrent connections for a production web server.
-To actually use those 1M concurrent connections, your web server process needs it’s ulimit increased.
+To actually use those 1M concurrent connections, your web server process needs its ulimit increased.
 
 ### Ulimit (Process file-max)
 
