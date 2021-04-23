@@ -14,6 +14,10 @@ Tags: haproxy, nginx, devops
 
 For production web servers, most people assume scaling means needing faster (and more expensive) hardware.
 Before spending more money on servers, first make sure your web server process is using the maximum available connections supported by your Linux kernel.
+This becomes really useful when your web server isn’t bottlenecked by RAM or CPU.
+For ex, when using [HAProxy to load balance Nginx web servers][load balancing blog post].
+HAProxy isn’t processing the request and uses almost no CPU, but it needs to handle a large amount of concurrent connections.
+Increasing the file-max is also beneficial for production Nginx, Apache, and even your Redis and Postgres database servers.
 
 ### Max open file descriptors (Kernel file-max)
 
@@ -29,6 +33,9 @@ For example, the $5/mo DigitalOcean instances have a file-max of `9 Trillion`:
     9223372036854775807
 
 <img src="https://wakatime.com/static/img/blog/digitalocean-small-droplet.png" class="img-thumbnail" alt="DigitalOcean small droplet size" style="width:90%" />
+
+You won’t ever be able to use those 9T concurrent connections.
+That’s because each open connection [uses around 1k RAM][file-max ram], and DigitalOcean doesn’t offer any instance with that much RAM.
 
 If your default file-max is too low, increase it by adding this line to your `/etc/sysctl.conf` file:
 
@@ -47,11 +54,11 @@ However, check the file-max of your current process and you see it’s much lowe
 
 If you’re using Node.js that’s a max of 1k concurrent connections, but if your web server runs multiple worker processes then multiply 1k by the number of processes to get your max connections.
 Either way, that’s not many concurrent connections for a production web server.
-To actually use those 9T concurrent connections, your web server process needs it’s ulimit increased.
+To actually use those 1M concurrent connections, your web server process needs it’s ulimit increased.
 
 ### Ulimit (Process file-max)
 
-Your Linux kernel has a file-max of 9T, but let’s check your web server’s process file-max:
+Your Linux kernel has a file-max of 1M, but let’s check your web server’s process file-max:
 
     $ ps -aux | grep -m 1 nginx
     nginx    12785  0.1  0.1  62508 24372   nginx: worker process
@@ -64,7 +71,7 @@ Or in a one-liner:
     1024
 
 What’s that?
-Nginx can only handle 1k concurrent connections when the kernel supports 9T?
+Nginx can only handle 1k concurrent connections when the kernel supports 1M?
 
 That’s because we need to increase the file-max setting for the `nginx` user.
 To do that, add these lines to your `/etc/security/limits.conf` file:
@@ -162,8 +169,10 @@ If you liked this post, also check out our previous post about a [disk-backed Re
 It removes the main limitation of Redis: your data set having to fit in available RAM.
 
 
+[load balancing blog post]: https://wakatime.com/blog/23-how-to-scale-ssl-with-haproxy-and-nginx
 [wakatime]: https://wakatime.com
 [digitalocean]: https://www.digitalocean.com/
+[file-max ram]: https://serverfault.com/questions/330795/what-are-the-ramifications-of-increasing-the-maximum-of-open-file-descriptors/330981#answer-330981:~:text=One%20file%20with%20associated%20inode%20and%20dcache%20is%20very%20roughly%201K.
 [systemd]: https://www.freedesktop.org/software/systemd/man/systemd.service.html
 [systemd nofile]: https://www.freedesktop.org/software/systemd/man/systemd.exec.html#LimitCPU=:~:text=LimitNOFILE%3D,-ulimit
 [haproxy]: https://cbonte.github.io/haproxy-dconv/2.0/configuration.html#maxconn
