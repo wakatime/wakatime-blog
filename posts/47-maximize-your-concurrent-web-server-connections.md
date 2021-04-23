@@ -27,7 +27,7 @@ To check the kernel’s current file-max, run:
 
     cat /proc/sys/fs/file-max
 
-For example, the $5/mo DigitalOcean instances have a file-max of `9 Trillion`:
+For example, the $5/mo DigitalOcean instances have a file-max of 9 Trillion:
 
     $ cat /proc/sys/fs/file-max
     9223372036854775807
