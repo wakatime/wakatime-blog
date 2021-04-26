@@ -178,4 +178,4 @@ It removes the main limitation of Redis: your data set having to fit in availabl
 [haproxy]: https://cbonte.github.io/haproxy-dconv/2.0/configuration.html#maxconn
 [sysctl notes]: https://bl.ocks.org/magnetikonline/2760f98f6bf654d5ad79
 [sysctl docs]: https://www.kernel.org/doc/Documentation/sysctl/net.txt
-[blog post 45]: https://wakatime.com/blog/45-using-a-disk-based-redis-clone-to-reduce-aws-s3-bill
+[blog post 45]: https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill
