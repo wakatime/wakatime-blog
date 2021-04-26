@@ -164,6 +164,7 @@ Add any changes to your `/etc/sysctl.conf` file then run `sysctl -p` to apply th
 
 ### Conclusion
 
+One final tool worth mentioning is [c1000k][c1000k], to check if your OS supports 1 million connections.
 Increasing your file-max limit unlocks the full potential of your web server.
 If you liked this post, also check out our previous post about a [disk-backed Redis compatible server called SSDB][blog post 45].
 It removes the main limitation of Redis: your data set having to fit in available RAM.
@@ -178,4 +179,5 @@ It removes the main limitation of Redis: your data set having to fit in availabl
 [haproxy]: https://cbonte.github.io/haproxy-dconv/2.0/configuration.html#maxconn
 [sysctl notes]: https://bl.ocks.org/magnetikonline/2760f98f6bf654d5ad79
 [sysctl docs]: https://www.kernel.org/doc/Documentation/sysctl/net.txt
+[c1000k]: https://github.com/ideawu/c1000k
 [blog post 45]: https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill
