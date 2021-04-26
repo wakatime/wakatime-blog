@@ -73,4 +73,4 @@ Get started with your free programming metrics today by [installing the open sou
 [plugins]: https://wakatime.com/plugins
 [api]: https://wakatime.com/api
 [devops tag]: https://wakatime.com/blog/tag/devops
-[blog post 45]: https://wakatime.com/blog/45-using-a-disk-based-redis-clone-to-reduce-aws-s3-bill
+[blog post 45]: https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill
