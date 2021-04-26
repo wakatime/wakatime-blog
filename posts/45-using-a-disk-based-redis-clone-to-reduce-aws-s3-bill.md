@@ -54,6 +54,7 @@ It uses [LevelDB][leveldb] (a key-value storage library by Google) behind the sc
 SSDB supports [replication][ssdb replication] built-in and clustering with [twemproxy][twemproxy].
 Most importantly, it stores your data set on disk using RAM for caching.
 Our SSDB data set is 500GB and does a good job of lowering the number of reads we make to S3.
+Remember to [increase the file-max][blog post 47] of your SSDB server to at least 10k, to prevent getting errors like `Too many open files` or `Connection reset by peer`.
 
 ### Conclusion
 
@@ -81,3 +82,4 @@ To get started with your free code time insights today, [install the WakaTime pl
 [devops tag]: https://wakatime.com/blog/tag/devops
 [spaces]: https://www.digitalocean.com/products/spaces/
 [blog post 46]: https://wakatime.com/blog/46-latency-of-digitalocean-spaces-vs-aws-s3
+[blog post 47]: https://wakatime.com/blog/47-maximize-your-concurrent-web-server-connections
