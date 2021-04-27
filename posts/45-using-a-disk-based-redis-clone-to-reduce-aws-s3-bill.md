@@ -55,6 +55,11 @@ SSDB supports [replication][ssdb replication] built-in and clustering with [twem
 Most importantly, it stores your data set on disk using RAM for caching.
 Our SSDB data set is 500GB and does a good job of lowering the number of reads we make to S3.
 Remember to [increase the file-max][blog post 47] of your SSDB server to at least 10k, to prevent getting errors like `Too many open files` or `Connection reset by peer`.
+Also, remember to periodically trigger garbage collection on your SSDB data files by running ssdb-cli compact with this crontab:
+
+    newline=$'\n' && ssdb-cli <<< "compact${newline}q"
+
+Or else you’ll see your SSDB disk usage [grow forever][ssdb compact] even after deleting keys.
 
 ### Conclusion
 
@@ -83,3 +88,4 @@ To get started with your free code time insights today, [install the WakaTime pl
 [spaces]: https://www.digitalocean.com/products/spaces/
 [blog post 46]: https://wakatime.com/blog/46-latency-of-digitalocean-spaces-vs-aws-s3
 [blog post 47]: https://wakatime.com/blog/47-maximize-your-concurrent-web-server-connections
+[ssdb compact]: https://github.com/ideawu/ssdb/issues/1363
