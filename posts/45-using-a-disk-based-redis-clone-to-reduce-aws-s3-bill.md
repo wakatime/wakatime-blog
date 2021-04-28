@@ -36,7 +36,7 @@ DigitalOcean’s S3 compatible object storage service ([Spaces][spaces]) is very
 
 Transferring data from S3 to DigitalOcean servers costs $0.09 per GB, because Amazon charges a higher price for outgoing data transfers vs internal transfers.
 Our monthly data transfer costs were $246.
-S3 also charges separately for every read/write/list operation performed.
+Also, S3 charges separately for every read/write/list operation performed.
 The request operations portion of our S3 bill was $549/mo.
 Using S3 as a database was becoming a significant portion of our monthly AWS bill.
 
