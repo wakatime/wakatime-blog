@@ -35,10 +35,15 @@ That’s because DigitalOcean servers come with dedicated attached SSDs, and ove
 DigitalOcean’s S3 compatible object storage service ([Spaces][spaces]) is very inexpensive, but we couldn’t use DigitalOcean Spaces for our primary database because it’s [much slower than S3][blog post 46].
 
 Transferring data from S3 to DigitalOcean servers costs $0.09 per GB, because Amazon charges a higher price for outgoing data transfers vs internal transfers.
+Our monthly data transfer costs were $246.
+S3 also charges separately for every read/write/list operation performed.
+The request operations portion of our S3 bill was $549/mo.
 Using S3 as a database was becoming a significant portion of our monthly AWS bill.
 
 <img src="https://wakatime.com/static/img/blog/s3-monthly-costs.png" class="img-thumbnail" alt="S3 monthly costs" style="width:90%" />
 
+Data storage in S3 is cheap, it’s the transfer and operations that get expensive.
+Also, S3 comes with built-in replication and reliability so we want to keep using S3 as our database.
 To reduce costs and improve performance, we tried caching S3 reads with Redis.
 However, with the cache size limited by RAM it barely made a dent in our reads from S3.
 The amount of RAM we would need to cache multiple terabytes of S3 data would easily cost more than our total AWS bill.
