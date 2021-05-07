@@ -14,6 +14,13 @@ Tags: haproxy, nginx, devops
 
 For production web servers, most people assume scaling means needing faster (and more expensive) hardware.
 Before spending more money on servers, first make sure your web server process is using the maximum available connections supported by your Linux kernel.
+There are 3 layers you need to check and configure:
+
+1. Kernel file-max
+2. Process file-max (ulimit)
+3. Systemd/Server config file-max (LimitNOFILE)
+
+Any one of these layers can limit the number of max connections your web server process is allowed.
 This becomes really useful when your web server isn’t bottlenecked by RAM or CPU.
 For ex, when using [HAProxy to load balance Nginx web servers][load balancing blog post].
 HAProxy isn’t processing the request and uses almost no CPU, but it needs to handle a large amount of concurrent connections.
@@ -88,6 +95,7 @@ That’s because you also need to edit your systemd unit file for Nginx.
 ### Systemd file-max (LimitNOFILE)
 
 When running Nginx with [systemd][systemd], you’ll notice the Nginx processes aren’t showing the 1M file-max limit available.
+That’s because a process can set it’s own ulimit, and Systemd defaults to a low limit.
 To fix that, add `LimitNOFILE=1000000` to your `/etc/systemd/system/nginx.service` file under the `[Service]` block:
 
 ```
@@ -117,7 +125,7 @@ Run `systemctl daemon-reload` to apply the changes, and now your Nginx processes
 
 ### Haproxy
 
-Other software, such as [haproxy][haproxy], set their own file-max ulimit.
+Other software, such as [haproxy][haproxy], sometimes set their own file-max ulimit.
 If you’ve increased the above limits and your haproxy child process still isn’t showing 1M then try adding `maxconn 1000000` to your `haproxy.cfg` file.
 We also switched from init.d to systemd for managing haproxy, since setting `LimitNOFILE` is super easy with systemd:
 
