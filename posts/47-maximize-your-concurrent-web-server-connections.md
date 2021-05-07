@@ -21,6 +21,7 @@ There are 3 layers you need to check and configure:
 3. Systemd/Server config file-max (LimitNOFILE)
 
 Any one of these layers can limit the number of max connections your web server process is allowed.
+
 This becomes really useful when your web server isn’t bottlenecked by RAM or CPU.
 For ex, when using [HAProxy to load balance Nginx web servers][load balancing blog post].
 HAProxy isn’t processing the request and uses almost no CPU, but it needs to handle a large amount of concurrent connections.
