@@ -1,5 +1,5 @@
 ---
-Title: Go Desperately Needs Nil Safe Pointers
+Title: Go Desperately Needs Nil Safe Types
 Date: 2021-06-10
 Image: https://wakatime.com/static/img/blog/go-nil-pointer-panic-issues.png
 Description: Ways the Go language could fix nil pointer runtime panics.
