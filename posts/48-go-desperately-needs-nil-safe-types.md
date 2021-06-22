@@ -28,7 +28,7 @@ However, we’re not machines so inevitably we won’t catch some of these until
 
 > The idea is really simple and is also used by Rust and C++: add a pointer type that can never be nil.
 
-Jelte compares Go to Rust, saying that Rust doesn’t have nil-able pointers.
+Jelte compares Go to Rust, saying that safe Rust doesn’t have nil-able pointers.
 
 However, I think comparing Go to Swift fits better because Go will never get rid of nil pointers.
 
