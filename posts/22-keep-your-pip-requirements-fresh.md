@@ -60,7 +60,7 @@ So you can use pur, then install the updates in separate steps.
 
 Use [pur][pur] today and keep your dependencies fresh!
 
-[kenneth-reitz-workflow]: http://www.kennethreitz.org/essays/a-better-pip-workflow
+[kenneth-reitz-workflow]: https://kenreitz.org/essays/2016/02/25/a-better-pip-workflow
 [pip-tools]: https://pypi.python.org/pypi/pip-tools
 [pur]: https://pypi.python.org/pypi/pur
 [pipenv]: https://pipenv-fork.readthedocs.io/en/latest/
