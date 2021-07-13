@@ -11,6 +11,7 @@ Tags: time tracking
 ---
 
 ![intro](https://wakatime.com/static/img/blog/computer-and-phone.jpg)
+*Image Credit: [Austin Distel](https://unsplash.com/photos/gUIJ0YszPig)*
 
 If you’re an independent contractor writing software, then this post is for you.
 
