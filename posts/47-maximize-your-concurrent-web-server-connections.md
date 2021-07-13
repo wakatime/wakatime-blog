@@ -10,7 +10,8 @@ Category: Engineering
 Tags: haproxy, nginx, devops
 ---
 
-<img src="https://wakatime.com/static/img/covers/rocket.jpg" alt="rocket" style="width:100%" />
+![rocket](https://wakatime.com/static/img/covers/rocket.jpg)
+*Image Credit: [Bill Jelen](https://unsplash.com/photos/NVWyN8GamCk)*
 
 For production web servers, most people assume scaling means needing faster (and more expensive) hardware.
 Before spending more money on servers, first make sure your web server process is using the maximum available connections supported by your Linux kernel.
