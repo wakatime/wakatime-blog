@@ -67,14 +67,7 @@ To actually use those 1M concurrent connections, your web server process needs i
 
 ### Ulimit (Process file-max)
 
-Your Linux kernel has a file-max of 1M, but let’s check your web server’s process file-max:
-
-    $ ps -aux | grep -m 1 nginx
-    nginx    12785  0.1  0.1  62508 24372   nginx: worker process
-    $ cat /proc/12785/limits | grep "open files"
-    1024
-
-Or in a one-liner:
+Your Linux kernel has a file-max of 1M, but let’s check your nginx web server’s process file-max:
 
     $ cat /proc/`ps -aux | grep -m 1 nginx | awk -F ' ' '{print $2}'`/limits | grep "open files" | awk -F ' ' '{print $4}'
     1024
