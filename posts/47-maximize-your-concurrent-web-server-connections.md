@@ -160,15 +160,30 @@ Then restart Postgres and check its file-max:
 
 ### Sysctl
 
-It’s also worth tweaking your kernel’s networking settings with sysctl, such as your max backlogged connections and tcp buffers.
-Check out Peter Mescalchin’s [collection of sysctl notes][sysctl notes] and the [sysctl docs][sysctl docs].
+Finally, after increasing your server's process file-max, you must also tweak your kernel’s TCP networking settings using sysctl:
+
+* `net.ipv4.tcp_max_syn_backlog` - max half-open connections which the client has not yet ACK'd
+* `net.core.somaxconn` - max backlogged connections which the client has ACK'd
+* `net.core.netdev_max_backlog` - max packets in receive queue
+
+The above 3 are the most important, but there’s more too:
+
+* `net.core.rmem_max`
+* `net.core.wmem_max`
+* `net.ipv4.tcp_rmem`
+* `net.ipv4.tcp_wmem`
+* `net.ipv4.tcp_tw_reuse`
+* `net.ipv4.ip_local_port_range`
+* `net.ipv4.tcp_max_tw_buckets`
+
+Check out [this Medium post][sysctl tips], Peter Mescalchin’s [collection of sysctl notes][sysctl notes], and the [sysctl docs][sysctl docs].
 Use `sysctl -a` to list all supported configs on your machine, and see their default values.
 Add any changes to your `/etc/sysctl.conf` file then run `sysctl -p` to apply them without needing a reboot.
 
 ### Conclusion
 
 One final tool worth mentioning is [c1000k][c1000k], to check if your OS supports 1 million connections.
-Increasing your file-max limit unlocks the full potential of your web server.
+Increasing your file-max limit, and probably a few sysctl kernel tweaks, will unlock the full potential of your web server.
 If you liked this post, also check out our previous post about a [disk-backed Redis compatible server called SSDB][blog post 45].
 It removes the main limitation of Redis: your data set having to fit in available RAM.
 
@@ -182,5 +197,6 @@ It removes the main limitation of Redis: your data set having to fit in availabl
 [haproxy]: https://cbonte.github.io/haproxy-dconv/2.0/configuration.html#maxconn
 [sysctl notes]: https://bl.ocks.org/magnetikonline/2760f98f6bf654d5ad79
 [sysctl docs]: https://www.kernel.org/doc/Documentation/sysctl/net.txt
+[sysctl tips]: https://medium.com/@pawilon/tuning-your-linux-kernel-and-haproxy-instance-for-high-loads-1a2105ea553e#edfd
 [c1000k]: https://github.com/ideawu/c1000k
 [blog post 45]: https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill
