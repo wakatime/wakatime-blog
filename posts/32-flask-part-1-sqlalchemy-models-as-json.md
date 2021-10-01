@@ -37,10 +37,11 @@ db = SQLAlchemy(app)
 class BaseModel(db.Model):
     __abstract__ = True
 
-    def to_dict(self, show=None, _hide=[], _path=None):
+    def to_dict(self, show=None, _hide=None, _path=None):
         """Return a dictionary representation of this model."""
 
         show = show or []
+        _hide = _hide or []
 
         hidden = self._hidden_fields if hasattr(self, "_hidden_fields") else []
         default = self._default_fields if hasattr(self, "_default_fields") else []
