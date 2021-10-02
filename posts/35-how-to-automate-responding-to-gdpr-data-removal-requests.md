@@ -24,12 +24,14 @@ Do you receive emails from your website users with the subject “Data Removal R
 These data removal request emails are sent on behalf of your users when they sign up for a third party “unsubscribe” tool.
 This tool works by scraping your emails for signup confirmations from different services providers.
 I’ll ignore the huge problem with giving a random tool full access to read your emails.
-Let’s focus on what happens when you, as a website operator, receive one of these automated data removal request emails.
+However what happens when you, as a website operator, receive one of these automated data removal request emails?
 
 If you’re like [WakaTime][wakatime], you’ve already provided a way for users to delete their account and all related data even before GDPR.
 However, you still have to manually read and reply to automated GDPR emails even if it’s just to point them to your data removal page.
 
 Let’s fix this by auto-responding to GDPR emails using Gmail Filters and Canned Responses!
+
+*Note: I’m not a lawyer, and it’s possibly safer to just never respond. Use at your own risk.*
 
 Here’s the email WakaTime auto-replies with after receiving a GDPR Data Removal request:
 
