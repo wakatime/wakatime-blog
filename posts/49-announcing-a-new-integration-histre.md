@@ -6,6 +6,7 @@ Description: The Histre integration is the latest addition to the WakaTime famil
 Author: Kirubakaran
 AuthorUrl: https://wakatime.com/@kirubakaran
 AuthorAvatar: https://wakatime.com/avatar/@kirubakaran
+Nofollow: false
 Category: New Features
 Tags: integrations
 ---
@@ -17,28 +18,25 @@ When you enable the [Histre integration][integration], the time you spend browsi
 
 Here are some features of Histre to improve your productivity:
 
-
-### [Take notes on any website][annotations]
+<h3><a rel="noopener" target="_blank" href="https://histre.com/features/annotate-websites/">Take notes on any website</a></h3>
 
 Have you ever bookmarked a website, only to have it get lost in the sea of bookmarks?
 Bookmarking with notes fixes this.
 For example, when I’m planning my next vacation destination, I take tons of notes about each location.
 Histre saves these notes along with the website, and makes them searchable so I can easily find bookmarks for a particular destination or topic.
 
-
-### [Highlight text on any website][highlights]
+<h3><a rel="noopener" target="_blank" href="https://histre.com/features/highlights/">Highlight text on any website</a></h3>
 
 Similar to notes, highlights are a way to bookmark websites while saving the important context of the page.
 As I read through docs and articles, I use Histre to highlight the important parts.
 Highlights are searchable, and make sharing sections of websites easy.
 
-### [Save and Restore Tabs][tabs]
+<h3><a rel="noopener" target="_blank" href="https://histre.com/features/save-restore-tabs/">Save and Restore Tabs</a></h3>
 
 If you’re like me and you keep tons of browser tabs open, you can easily save all your window’s tabs with Histre.
 Restore the tabs anytime, even on a different machine or a different browser.
 
-
-### [Hacker News integration][hn feature]
+<h3><a rel="noopener" target="_blank" href="https://histre.com/features/share-hackernews-upvotes/">Hacker News integration</a></h3>
 
 Histre “enhances” the [Hacker News website][hn] to show upvotes of people you follow.
 [Alan][alan], the founder of WakaTime, says this is his favorite feature of Histre.
