@@ -1,8 +1,8 @@
 ---
 Title: Product updates and new features 2021
 Date: 2021-10-12
-Image: https://wakatime.com/static/img/blog/histre-integration.jpg
-Description: Auto-tweet your daily coding goal, private leaderboard chats, and more new features.
+Image: https://wakatime.com/static/img/blog/public-profile-badge.jpg
+Description: Edit your time on dashboards, public profile badges, and more new features.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/gravatar/@alan
