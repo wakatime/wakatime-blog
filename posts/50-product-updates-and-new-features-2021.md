@@ -11,8 +11,8 @@ Category: New Features
 Tags:
 ---
 
-Hello!
-We have some new features to share:
+🚀 **We reached 300k users!** - Also, here’s some new WakaTime features.
+
 
 📊 **Edit your time on the dashboard** - Click on durations to edit the project, language, category, and branch.
 
