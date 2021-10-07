@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/gotdone.png
 Description: Link your workday to your timesheet with WakaTime + GotDone.
 Author: Timm Stokke
 AuthorUrl: https://wakatime.com/@t1mmen
-AuthorGravatar: https://wakatime.com/gravatar/d64fd627a838c7e9fe36ce13a5f18d22
+AuthorAvatar: https://wakatime.com/gravatar/d64fd627a838c7e9fe36ce13a5f18d22
 Category: New Features
 Tags: integrations
 ---

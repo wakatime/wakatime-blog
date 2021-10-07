@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/covers/falling-watch.jpg
 Description: Short Answer: When you're billing clients.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: Freelancing
 Tags: time tracking
 ---

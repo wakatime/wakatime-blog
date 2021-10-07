@@ -4,7 +4,7 @@ Date: 2014-10-13
 Image:
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: profiles
 ---

@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/s3-vs-spaces-latency.png
 Description: Observations on reliability and latency differences between Amazon S3 and DigitalOcean Spaces object storage.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: aws, s3, digitalocean, databases, devops
 ---

@@ -4,7 +4,7 @@ Date: 2014-03-18
 Image: https://wakatime.com/static/img/ScreenShots/Screen%20Shot%202013-10-26%20at%205.04.01%20PM.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: plugins, eclipse, java
 ---

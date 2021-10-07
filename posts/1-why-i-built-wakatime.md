@@ -3,7 +3,7 @@ Title: Why I Built WakaTime
 Date: 2014-03-03
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: startups
 ---

@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/go-nil-pointer-panic-issues.png
 Description: Ways the Go language could fix nil pointer runtime panics.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/avatar/@alan
 Category: Engineering
 Tags: go
 ---

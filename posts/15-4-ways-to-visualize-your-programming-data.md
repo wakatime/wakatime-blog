@@ -4,7 +4,7 @@ Date: 2015-06-09
 Image: https://wakatime.com/static/img/blog/keenio-weekdays.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: exporting
 ---

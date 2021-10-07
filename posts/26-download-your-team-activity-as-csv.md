@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/team-download-csv.png
 Description: You can now download your team coding activity as CSV.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: teams, exporting
 ---

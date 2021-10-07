@@ -4,7 +4,7 @@ Date: 2015-02-02
 Image: https://wakatime.com/static/img/blog/laravel-site.png
 Author: Mario Basic
 AuthorUrl: https://wakatime.com/@mabasic
-AuthorGravatar: https://wakatime.com/gravatar/c21c351355a4e7d63bddbd25ab53b757
+AuthorAvatar: https://wakatime.com/gravatar/c21c351355a4e7d63bddbd25ab53b757
 Category: Engineering
 Tags: laravel, php
 ---

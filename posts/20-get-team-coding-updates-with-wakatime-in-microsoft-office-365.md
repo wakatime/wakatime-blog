@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/office365-wakatime.png
 Description: WakaTime's notifications help everyone on your team to stay up-to-date with your latest coding activity.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: integrations
 ---

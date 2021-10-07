@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/goals-improved.png
 Description: Your programming goals just got an upgrade.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: goals
 ---

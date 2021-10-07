@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/ScreenShots/wakatime-laptop-1200x628.png
 Description: The WakaTime plugin for Vim just got a whole lot faster.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: plugins, vim
 ---

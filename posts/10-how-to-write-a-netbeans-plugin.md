@@ -4,7 +4,7 @@ Date: 2014-12-08
 Image: https://wakatime.com/static/img/blog/namespace-your-project.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: plugins, netbeans, howto, java
 ---

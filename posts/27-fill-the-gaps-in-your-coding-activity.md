@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/durations-with-files.png
 Description: Easily visualize your programming activity with this interactive chart.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: New Features
 Tags: dashboard
 ---

@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/pur.gif
 Description: Easily update your Python requirements.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: python
 ---

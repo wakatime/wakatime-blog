@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/editor-icons/xcode-128.png
 Description: Xcode 8 introduces Source Editor extensions, but that means all your current extensions will be disabled.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorGravatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/gravatar/@alan
 Category: Engineering
 Tags: plugins, xcode
 ---
