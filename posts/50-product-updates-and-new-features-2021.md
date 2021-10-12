@@ -16,7 +16,7 @@ Tags:
 
 📊 **Edit your time on the dashboard** - Click on durations to edit the project, language, category, and branch.
 
-<div style="position:relative;padding-bottom:62.17616580310881%;height:0;width:80%;"><iframe src="https://www.loom.com/embed/e6c00b6265be4dd0a69b931ae583aa26" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position:relative;padding-bottom:62.17616580310881%;height:0;width:80%;"><iframe src="https://www.loom.com/embed/14e9550f5c694a91853bc6dd3c581259" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br>
 
