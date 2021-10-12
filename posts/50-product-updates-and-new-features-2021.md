@@ -1,6 +1,6 @@
 ---
 Title: Product updates and new features 2021
-Date: 2021-10-12
+Date: 2021-10-11
 Image: https://wakatime.com/static/img/blog/public-profile-badge.jpg
 Description: Edit your time on dashboards, public profile badges, and more new features.
 Author: Alan Hamlett
@@ -20,7 +20,8 @@ Tags:
 
 <br>
 
-<img src="https://wakatime.com/static/img/blog/public-profile-badge-example.png" style="height:16px;margin-bottom:2px;" /> **Public profile badge** - Share the total time you coded since signing up for WakaTime with a public repo badge on your WakaTime profile. Click the badge on your profile to get it’s embded code for your personal website or GitHub profile, for ex: [my GitHub profile’s pinned README.md][alan github].
+🔰 **Public profile badge** - Share the total time you coded since signing up for WakaTime with a public repo badge on your WakaTime profile. Click the badge on your profile to get it’s embded code for your personal website or GitHub profile, for ex: [my GitHub profile’s pinned README.md][alan github].
+<img src="https://wakatime.com/static/img/blog/public-profile-badge-example.png" style="height:16px;margin-bottom:2px;" />
 
 <a href="https://wakatime.com/me" target="_blank"><img src="https://wakatime.com/static/img/blog/public-profile-badge.png" class="img-thumbnail" alt="public profile badge screenshot" style="width:80%" /></a>
 
