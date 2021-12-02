@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/project-total-all-time.png
 Description: Anonymous team dashboards, share weekly report emails, and total time logged in projects.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags:
 ---

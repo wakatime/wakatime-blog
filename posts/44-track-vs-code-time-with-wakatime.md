@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/covers/vscode-status-bar.png
 Description: Track your code time in VS Code with the open source WakaTime plugin.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: Insights
 Tags: vscode
 ---

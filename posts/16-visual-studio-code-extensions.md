@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/vscode-wakatime-release.png
 Description: If you haven't heard, Visual Studio Code is now open source on GitHub. Along with this announcement, Visual Studo Code now supports 3rd party extensions!
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: plugins, vscode
 ---

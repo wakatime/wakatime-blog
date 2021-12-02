@@ -4,7 +4,7 @@ Date: 2014-04-07
 Image: https://wakatime.com/static/img/ScreenShots/Screen Shot 2014-04-07 at 07.04.08 AM.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: dashboard
 ---

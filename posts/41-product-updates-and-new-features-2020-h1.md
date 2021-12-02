@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/private-leaderboard-chat.png
 Description: Auto-tweet your daily coding goal, private leaderboard chats, and more new features.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags:
 ---

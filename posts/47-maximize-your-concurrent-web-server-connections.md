@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/covers/rocket.jpg
 Description: A guide to increasing your max open file descriptors (ulimit -n) on Linux machines.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: Engineering
 Tags: haproxy, nginx, devops
 ---

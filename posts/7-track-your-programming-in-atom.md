@@ -4,7 +4,7 @@ Date: 2014-09-06
 Image: https://wakatime.com/static/img/editor-icons/atom-128.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: plugins, atom, javascript
 ---

@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/coda-wakatime.png
 Description: Get metrics about your programming automatically generated from your Coda usage!
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: plugins, coda
 ---

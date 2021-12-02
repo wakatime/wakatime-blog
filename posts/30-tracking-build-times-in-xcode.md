@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/xcode-build-dark.png
 Description: Track the time you spend compiling builds in Xcode.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: xcode
 ---

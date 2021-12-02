@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/flask-plus-sqlalchemy.png
 Description: Decorator functions and base model methods for Flask APIs.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: Engineering
 Tags: flask, python, sqlalchemy
 ---

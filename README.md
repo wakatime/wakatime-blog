@@ -17,7 +17,7 @@ All blog post files must begin with [YAML Front Matter](http://jekyllrb.com/docs
 ### Optional Front Matter Variables
 
 * AuthorUrl - author absolute url
-* AuthorGravatar - author image absolute url
+* AuthorAvatar - author image absolute url
 * Tags - comma separated list of lowercased tags
 * Category - category for this post
 * Draft - prevents publishing when true

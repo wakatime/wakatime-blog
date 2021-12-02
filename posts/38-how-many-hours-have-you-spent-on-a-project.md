@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/project-total-all-time.png
 Description: The developer dashboard shows the total time you spent coding in a project using IDE plugins.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags:
 ---

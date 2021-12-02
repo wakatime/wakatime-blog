@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/covers/dumpster-fire-2020.png
 Description: Aggregate programming stats of all WakaTime users over 2020.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: Engineering
 Tags: year-end-report
 ---

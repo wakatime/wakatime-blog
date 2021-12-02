@@ -4,7 +4,7 @@ Date: 2014-09-15
 Image: https://wakatime.com/static/img/ScreenShots/leader-board_2014-09-15.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: leaderboards
 ---

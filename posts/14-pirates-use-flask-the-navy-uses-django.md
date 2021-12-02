@@ -4,7 +4,7 @@ Date: 2015-04-21
 Image: https://wakatime.com/static/img/blog/django-vs-flask-performance-insignificant.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: Engineering
 Tags: flask, django, python
 ---

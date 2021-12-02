@@ -4,7 +4,7 @@ Date: 2015-04-09
 Image: https://wakatime.com/static/img/editor-icons/textmate-128.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: plugins, textmate
 ---

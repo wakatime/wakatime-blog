@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/goals-share-view.png
 Description: Starting today, you can share your WakaTime goals with other users.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
-AuthorAvatar: https://wakatime.com/gravatar/@alan
+AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: goals
 ---
