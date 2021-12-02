@@ -5,7 +5,7 @@ Image: https://wakatime.com/static/img/blog/histre-integration.jpg
 Description: The Histre integration is the latest addition to the WakaTime family.
 Author: Kirubakaran
 AuthorUrl: https://wakatime.com/@kirubakaran
-AuthorAvatar: https://wakatime.com/avatar/@kirubakaran
+AuthorAvatar: https://wakatime.com/photo/@kirubakaran?s=420
 Nofollow: false
 Category: New Features
 Tags: integrations
