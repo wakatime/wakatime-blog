@@ -21,7 +21,7 @@ This post is an analysis of all those hours spent programming during 2021, and a
 ## New Features & Milestones
 
 ### 🇺🇸 Leaderboard Flags
-We added flags to the [leaderboard][leaderboard], to represent your country. Click a flag to see the ranks of devs only in that country.
+We added flags to the [leaderboard][leaderboard]. Click a flag to see the ranks of devs only in that country.
 
 ### 😎 Project Badges
 We already had [repo badges][repo badges], now we also have [project badges][project badges]. The difference is you don’t need to connect a repo to get a badge, but project badges only show your time coded instead of all repo contributors.
