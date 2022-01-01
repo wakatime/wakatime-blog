@@ -14,8 +14,8 @@ Happy New Year! Here's your WakaTime code stats for 2021.
 
 <img src="https://wakatime.com/static/img/covers/fireworks.jpg" class="img-thumbnail" alt="fireworks" style="width:90%" />
 
-In 2021, more than 300k developers spent a combined <TODO> million hours programming, tracked with WakaTime text editor plugins.
-The average person spent <TODO> minutes per day programming.
+In 2021, more than 300k developers spent a combined 39 million hours programming, tracked with WakaTime text editor plugins.
+The average person spent 48 minutes per day programming.
 This post is an analysis of all those hours spent programming during 2021, and a quick list of improvements and new features.
 
 ## New Features & Milestones
