@@ -80,6 +80,6 @@ These aggregated 2021 stats are [available as JSON][json], and also available fo
 [project badges]: https://wakatime.com/share/badges/projects
 [projects]: https://wakatime.com/projects
 [export]: https://wakatime.com/settings/account?export=true
-[invoicing]: https://wakatime.com/invoicing
+[invoicing]: https://wakatime.com/invoices
 [json]: https://wakatime.com/api/v1/stats/2021
 [2020 blog]: https://wakatime.com/blog/43-wakatime-2020-programming-stats
