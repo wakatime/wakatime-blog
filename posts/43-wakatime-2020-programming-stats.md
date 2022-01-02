@@ -72,7 +72,7 @@ See your personalized report for 2020 here:
   -moz-user-select: none;
   -ms-user-select: none;">View your personalized 2020 stats</a>
 
-These aggregated 2020 stats are [available as JSON][json], and also available for [previous years][2019 stats blog].
+These aggregated 2020 stats are [available as JSON][json], and also available for [previous years][year end report].
 
 
 [plugins]: https://wakatime.com/plugins
@@ -82,4 +82,4 @@ These aggregated 2020 stats are [available as JSON][json], and also available fo
 [teams]: https://wakatime.com/teams
 [about]: https://wakatime.com/about#timeline
 [json]: https://wakatime.com/api/v1/stats/2020
-[2019 stats blog]: https://wakatime.com/blog/40-wakatime-2019-programming-stats
+[year end report]: https://wakatime.com/blog/tag/yearendreport

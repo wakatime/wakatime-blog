@@ -72,7 +72,7 @@ See your personalized report for 2021 here:
   -moz-user-select: none;
   -ms-user-select: none;">View your personalized 2021 stats</a>
 
-These aggregated 2021 stats are [available as JSON][json], and also available for [previous years][2020 blog].
+These aggregated 2021 stats are [available as JSON][json], and also available for [previous years][year end report].
 
 
 [leaderboard]: https://wakatime.com/leaders
@@ -82,4 +82,4 @@ These aggregated 2021 stats are [available as JSON][json], and also available fo
 [export]: https://wakatime.com/settings/account?export=true
 [invoicing]: https://wakatime.com/invoices
 [json]: https://wakatime.com/api/v1/stats/2021
-[2020 blog]: https://wakatime.com/blog/43-wakatime-2020-programming-stats
+[year end report]: https://wakatime.com/blog/tag/yearendreport
