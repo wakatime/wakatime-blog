@@ -74,7 +74,7 @@ See your personalized report for 2021 here:
 
 These aggregated 2021 stats are [available as JSON][json], and also available for [previous years][year end report].
 
-**Edit: Thanks to [Maxim Milovanov][bugfix] for finding and fixing a bug in the chart images.
+*Edit: Thanks to [Maxim Milovanov][bugfix] for finding and fixing a bug in the chart images.*
 
 
 [leaderboard]: https://wakatime.com/leaders
