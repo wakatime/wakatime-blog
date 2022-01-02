@@ -74,6 +74,8 @@ See your personalized report for 2021 here:
 
 These aggregated 2021 stats are [available as JSON][json], and also available for [previous years][year end report].
 
+**Edit: Thanks to [Maxim Milovanov][bugfix] for finding and fixing a bug in the chart images.
+
 
 [leaderboard]: https://wakatime.com/leaders
 [repo badges]: https://wakatime.com/share/badges/repos
@@ -83,3 +85,4 @@ These aggregated 2021 stats are [available as JSON][json], and also available fo
 [invoicing]: https://wakatime.com/invoices
 [json]: https://wakatime.com/api/v1/stats/2021
 [year end report]: https://wakatime.com/blog/tag/yearendreport
+[bugfix]: https://github.com/wakatime/wakatime-blog/issues/12#issuecomment-1003753723
