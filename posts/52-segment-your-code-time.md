@@ -1,7 +1,7 @@
 ---
 Title: Segment Your Code Time
 Date: 2022-01-31
-Image: https://wakatime.com/static/img/blog/durations-by-machien.png
+Image: https://wakatime.com/static/img/blog/durations-by-machine.png
 Description: See the time you spend per language, computer, operating system, or compiling vs coding.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
