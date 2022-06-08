@@ -6,7 +6,7 @@ Description: See the time you spend per language, computer, operating system, or
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
-Category: New Featurs
+Category: New Features
 Tags: dashboard
 ---
 
