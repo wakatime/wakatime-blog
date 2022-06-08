@@ -16,7 +16,7 @@ Today GitHub [announced][github blog] it will archive Atom and all projects unde
 
 ## Why?
 
-Development on Atom [has][2020 stats] [been][2021 stats] [slowing][year end reports] for a while now.
+Development on Atom [has][2021 stats] [been][2020 stats] [slowing][year end reports] for a while now.
 We see the effects of that in unresolved bugs.
 For example, [atom/atom#25426][atom bug] which prevents installing plugins including [WakaTime][wakatime].
 The bottom line is other editors have become more popular and the void that Atom once filled has disappeared.
