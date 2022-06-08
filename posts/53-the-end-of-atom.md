@@ -27,8 +27,8 @@ You can continue using Atom until December 15, 2022 and some things may still wo
 We recommend [VS Code][vscode] since it will feel the most comfortable when making the transition from Atom.
 
 [github blog]: https://github.blog/2022-06-08-sunsetting-atom/
-[2021 stats]: https://wakatime.com/blog/51-wakatime-2021-programming-stats
-[2020 stats]: https://wakatime.com/blog/43-wakatime-2020-programming-stats
+[2021 stats]: https://wakatime.com/blog/51-wakatime-2021-programming-stats#top-editors
+[2020 stats]: https://wakatime.com/blog/43-wakatime-2020-programming-stats#top-editors
 [year end reports]: https://wakatime.com/blog/tag/yearendreport
 [atom bug]: https://github.com/atom/atom/issues/25426
 [editors]: https://wakatime.com/plugins

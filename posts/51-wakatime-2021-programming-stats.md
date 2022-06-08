@@ -38,12 +38,15 @@ You can now download a [project dashboard][projects] as csv or json.
 
 ## Programming stats for 2021
 
+<a name="top-languages"></a>
 #### Top languages for 2021, and their changes from last year
 <img src="https://wakatime.com/share/all-users-stats/2021-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
+<a name="top-editors"></a>
 #### Top editors for 2021
 <img src="https://wakatime.com/share/all-users-stats/2021-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
+<a name="top-os"></a>
 #### Top operating systems used
 <img src="https://wakatime.com/share/all-users-stats/2021-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
