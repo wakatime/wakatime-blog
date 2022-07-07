@@ -1,6 +1,6 @@
 ---
 Title: Custom Project Colors
-Date: 2022-07-07
+Date: 2022-07-06
 Image: https://wakatime.com/static/img/blog/project-colors.png
 Description: Set a custom color for your WakaTime projects.
 Author: Alan Hamlett
