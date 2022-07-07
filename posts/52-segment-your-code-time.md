@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
-Tags: dashboard
+Tags: dashboards
 ---
 
 <img src="https://wakatime.com/static/img/blog/durations-segmented.gif" class="img-responsive" alt="chart showing durations of code time in a day" />

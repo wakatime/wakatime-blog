@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
-Tags: dashboard
+Tags: dashboards
 ---
 
 The newest chart on the [WakaTime Dashboard][dashboard] shows the time you were coding with detailed accuracy.
