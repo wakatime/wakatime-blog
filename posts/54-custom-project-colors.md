@@ -18,9 +18,14 @@ This consistent color coding will make it easier to organize and recognize your 
 <img src="https://wakatime.com/static/img/blog/project-colors.png" class="img-responsive" alt="project colors screenshot" />
 
 [Project colors][projects] support all HEX color codes, except for the reserved colors white and black.
-That’s 254 colors to choose from!
+That’s 254 colors to choose from for your projects!
 
 To customize a project’s color, use the settings dropdown on the right side of the [projects list](projects) or on a project’s dashboard.
+
+<div style="display:inline-block;width:100%;"><img src="https://wakatime.com/static/img/blog/project-colors-dropdown.png" class="img-responsive img-thumbnail col-xs-12 col-sm-8 col-md-4" alt="project colors dropdown screenshot" /></div>
+
+Now your WakaTime dashboards are more consistent, customizable, and colorful. ;)
+Happy Coding!
 
 
 [projects]: https://wakatime.com/projects
