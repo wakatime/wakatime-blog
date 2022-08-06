@@ -1,8 +1,8 @@
 ---
-Title: Insights
+Title: Code Insights
 Date: 2022-08-03
 Image: https://wakatime.com/static/img/blog/insights.png
-Description: Coding insights gathered from your WakaTime programming activity.
+Description: Answer questions about your coding activity.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
