@@ -21,7 +21,7 @@ Also in my opinion, splitting the code into [three separate GitHub repos][celery
 However, the main reason:
 **Celery delayed tasks don’t scale.**
 
-If you use Celery delayed tasks, as your website grows eventually you’ll start seeing this error message in your Celery worker logs:
+If you use Celery delayed tasks, as your website grows eventually you’ll start seeing this error message:
 
     QoS: Disabled: prefetch_count exceeds 65535
 
