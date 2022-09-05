@@ -18,8 +18,18 @@ During that time I’ve experienced [many critical bugs][celery issues], some st
 Celery used to be pretty good, but feature bloat made the project difficult to maintain.
 Also in my opinion, splitting the code into [three separate GitHub repos][celery changes] made the codebase hard to read.
 
+However, the main reason:
+**Celery delayed tasks don’t scale.**
+
+If you use Celery delayed, as your website traffic grows eventually you will start seeing this error message in your Celery worker logs:
+
+    QoS: Disabled: prefetch_count exceeds 65535
+
+When that happens the worker stops processing all tasks, not just delayed ones!
+As WakaTime grew, we started running into this bug more frequently.
+
 I tried [RQ][rq], [Huey][huey], and [TaskTiger][tasktiger], but they were missing features and processed tasks slower than Celery.
-A distributed task queue is indispensable for a website like WakaTime, and I was tired of running into edge-case bugs.
+A distributed task queue is indispensable for a website like WakaTime, and I was tired of running into bugs.
 For that reason, I decided to build the simplest distributed task queue possible while still providing all the features required by WakaTime.
 
 ## Introducing WakaQ
