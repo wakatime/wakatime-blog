@@ -37,6 +37,10 @@ It’s only 1,264 lines of code!
 It only took [one week][wakaq first commit] from the first line of code until fully replacing Celery at WakaTime.
 That says something about it’s simplicity.
 
+Each queue is implemented using a [Redis list][redis lists].
+Delayed tasks get their own queues implemented using [Redis sorted sets][redis sorted sets].
+Broadcast tasks share a single [Redis Pub/Sub queue][redis pubsub].
+
 ## WakaQ has all the necessary features
 
 * Queue priorities
@@ -80,6 +84,9 @@ Happy coding!
 [hard timeout]: https://github.com/wakatime/wakaq/blob/761d08f06d7d88941491e48d1cb524a1c35788ad/wakaq/worker.py#L370
 [max mem]: https://github.com/wakatime/wakaq/blob/a11d22b6a743e4fb0e220673085297bdc4aab710/wakaq/worker.py#L339
 [wakaq first commit]: https://github.com/wakatime/wakaq/commits/main?after=a11d22b6a743e4fb0e220673085297bdc4aab710+104&branch=main&qualified_name=refs%2Fheads%2Fmain
+[redis lists]: https://redis.io/docs/data-types/lists/
+[redis sorted sets]: https://redis.io/docs/data-types/sorted-sets/
+[redis pubsub]: https://redis.io/docs/manual/pubsub/
 [wakatime]: https://wakatime.com/
 [license]: https://github.com/wakatime/wakaq/blob/main/LICENSE
 [wakaq issues]: https://github.com/wakatime/wakaq/issues
