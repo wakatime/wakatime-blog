@@ -41,7 +41,7 @@ Use it to run code in the background so your website stays fast and snappy, and 
 
 It’s only 1,264 lines of code!
 
-    $ find . -name '*.py' -not -path "./migrations*" -not -path "./venv*" | xargs wc -l | grep " total" | awk '{print $1}' | numfmt --grouping
+    $ find . -name '*.py' -not -path "./venv*" | xargs wc -l | grep " total" | awk '{print $1}' | numfmt --grouping
     1,264
 
 It only took [one week][wakaq first commit] from the first line of code until fully replacing Celery at WakaTime.
