@@ -78,6 +78,7 @@ These aggregated 2022 stats are [available as JSON][json], and also available fo
 
 
 [plugins]: https://wakatime.com/plugins
+[insights]: https://wakatime.com/insights
 [insights blog]: https://wakatime.com/blog/55-code-insights
 [custom colors blog]: https://wakatime.com/blog/54-custom-project-colors
 [segment blog]: https://wakatime.com/blog/52-segment-your-code-time
