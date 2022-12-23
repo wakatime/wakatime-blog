@@ -21,7 +21,7 @@ This post is an analysis of all those hours spent programming during 2022, and a
 ## New Features & Milestones
 
 ### [📊 New insights dashboard][insights blog]
-We built a [whole new dashboard][insights] as a place for all your code insights.
+We built a [whole new dashboard][insights] for all your code insights.
 See which day of the week you code the most, a GitHub profile style chart of your coding, and other cool insights about the time you spend coding.
 
 ### [😎 Custom project colors][custom colors blog]
