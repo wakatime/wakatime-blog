@@ -1,7 +1,7 @@
 ---
 Title: WakaTime 2022 Programming Stats
 Date: 2023-01-01
-Image: https://wakatime.com/static/img/covers/fireworks.jpg
+Image: https://wakatime.com/static/img/blog/fireworks-colorado.jpg
 Description: Aggregate programming stats of all WakaTime users over 2022.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
@@ -12,7 +12,11 @@ Tags: year-end-report
 
 Happy New Year! Here's your WakaTime code stats for 2022.
 
-<img src="https://wakatime.com/static/img/covers/fireworks.jpg" class="img-thumbnail" alt="fireworks" style="width:90%" />
+<img src="https://wakatime.com/static/img/blog/fireworks-colorado.jpg" class="img-thumbnail" alt="fireworks" style="width:90%" />
+
+<div style="font-size:9px;text-align:right;width:90%;margin-top:-18px;margin-bottom:10px;">
+  Photo by <a href="https://unsplash.com/@jamie_fenn">Jamie Fenn</a> on <a href="https://unsplash.com/photos/PEVG_cqrIVo">Unsplash</a>
+</div>
 
 In 2022, more than 400k developers spent a combined [placeholder] hours programming, tracked with [WakaTime plugins][plugins].
 The average person spent [placeholder] minutes per day programming.
