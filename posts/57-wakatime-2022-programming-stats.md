@@ -20,24 +20,28 @@ Happy New Year! Here's your WakaTime code stats for 2022.
 
 In 2022, more than 400k developers spent a combined [placeholder] hours programming, tracked with [WakaTime plugins][plugins].
 The average person spent [placeholder] minutes per day programming.
-This post is an analysis of all those hours spent programming during 2022, and a quick list of improvements and new features.
+
+Each year we release a [personalized coding report][report] showing your accomplishments over the last year.
+We also include average trends for all WakaTime devs showing the most used languages, IDEs, and operating systems.
+These trends come from aggregating the WakaTime personal dashboard metrics when a developer installs one of our [IDE plugins][plugins].
+But first, a quick list of new features released in 2022.
 
 ## New Features & Milestones
 
-### [📊 New insights dashboard][insights blog]
+### [📊 insights dashboard][insights blog]
 We built a [whole new dashboard][insights] for all your code insights.
-See which day of the week you code the most, a GitHub profile style chart of your coding, and other cool insights about the time you spend coding.
+See which weekday you code the most over the last year, your daily average code time, and more cool insights about the time you spend coding.
+
+### [👩🏼‍💻 GitHub-style activity table][profile]
+Add a GitHub-style activity chart to your public profile, showing the frequency of your code time over the last year.
 
 ### [😎 Custom project colors][custom colors blog]
-Choose a custom color for each of your projects.
+Set custom colors for your projects.
 All HEX color codes are supported, except for the reserved colors white and black.
 That’s over 16 million custom colors for your projects!
 
 ### [⚖️ Segment your code time][segment blog]
-See the time of day you were coding, compiling, or in meetings.
-
-### [👩🏼‍💻 Better public profiles][profile]
-Add your last year’s code stats to your public profile in a GitHub-style activity chart.
+See your time spent coding vs. attending meetings, or the time you spent coding at home vs. work.
 
 ## Programming stats for 2022
 
@@ -78,7 +82,7 @@ See your personalized report for 2022 here:
   -moz-user-select: none;
   -ms-user-select: none;">View your personalized 2022 stats</a>
 
-These aggregated 2022 stats are [available as JSON][json], and also available for [previous years][year end report].
+These aggregated 2022 stats are [available as JSON][json], and also available for [previous years][tag].
 
 
 [plugins]: https://wakatime.com/plugins
@@ -88,6 +92,7 @@ These aggregated 2022 stats are [available as JSON][json], and also available fo
 [segment blog]: https://wakatime.com/blog/52-segment-your-code-time
 [profile]: https://wakatime.com/me
 
+[report]: https://wakatime.com/a-look-back-at-2022
 [json]: https://wakatime.com/api/v1/stats/2022
-[year end report]: https://wakatime.com/blog/tag/yearendreport
+[tag]: https://wakatime.com/blog/tag/yearendreport
 [bugfix]: https://github.com/wakatime/wakatime-blog/issues/12#issuecomment-1003753723
