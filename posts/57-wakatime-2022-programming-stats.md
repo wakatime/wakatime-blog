@@ -14,7 +14,7 @@ Happy New Year! Here's your WakaTime code stats for 2022.
 
 <img src="https://wakatime.com/static/img/blog/fireworks-colorado.jpg" class="img-thumbnail" alt="fireworks" style="width:90%" />
 
-<div style="font-size:9px;text-align:right;width:90%;margin-top:-18px;margin-bottom:10px;">
+<div style="font-size:10px;text-align:right;width:90%;margin-top:-18px;margin-bottom:10px;">
   Photo by <a href="https://unsplash.com/@jamie_fenn">Jamie Fenn</a> on <a href="https://unsplash.com/photos/PEVG_cqrIVo">Unsplash</a>
 </div>
 
