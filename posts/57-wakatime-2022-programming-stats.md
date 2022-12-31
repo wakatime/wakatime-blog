@@ -28,7 +28,7 @@ But first, a quick list of new features released in 2022.
 
 ## New Features & Milestones
 
-### [📊 insights dashboard][insights blog]
+### [📊 Insights dashboard][insights blog]
 We built a [whole new dashboard][insights] for all your code insights.
 See which weekday you code the most over the last year, your daily average code time, and more cool insights about the time you spend coding.
 
@@ -37,7 +37,7 @@ Add a GitHub-style activity chart to your public profile, showing the frequency 
 
 ### [😎 Custom project colors][custom colors blog]
 Set custom colors for your projects.
-All HEX color codes are supported, except for the reserved colors white and black.
+All HEX color codes are supported, except for the reserved colors black and white.
 That’s over 16 million custom colors for your projects!
 
 ### [⚖️ Segment your code time][segment blog]
@@ -46,7 +46,7 @@ See your time spent coding vs. attending meetings, or the time you spent coding 
 ## Programming stats for 2022
 
 <a name="top-languages"></a>
-#### Top languages for 2022, and their changes from last year
+#### Top languages for 2022
 <img src="https://wakatime.com/share/all-users-stats/2022-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
 <a name="top-editors"></a>
