@@ -10,7 +10,7 @@ Category: Engineering
 Tags: year-end-report
 ---
 
-Happy New Year! Here's your WakaTime code stats for 2022.
+Happy New Year!
 
 <img src="https://wakatime.com/static/img/blog/fireworks-colorado.jpg" class="img-thumbnail" alt="fireworks" style="width:90%" />
 
