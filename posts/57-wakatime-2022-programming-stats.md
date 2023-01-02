@@ -1,6 +1,6 @@
 ---
 Title: WakaTime 2022 Programming Stats
-Date: 2023-01-01
+Date: 2023-01-03
 Image: https://wakatime.com/static/img/blog/fireworks-colorado.jpg
 Description: Aggregate programming stats of all WakaTime users over 2022.
 Author: Alan Hamlett
