@@ -46,14 +46,17 @@ See your time spent coding vs. attending meetings, or the time you spent coding 
 ## Programming stats for 2022
 
 <a name="top-languages"></a>
+
 #### Top languages for 2022
 <img src="https://wakatime.com/share/all-users-stats/2022-languages.png" class="img-thumbnail" alt="top languages" style="width:90%" />
 
 <a name="top-editors"></a>
+
 #### Top editors for 2022
 <img src="https://wakatime.com/share/all-users-stats/2022-editors.png" class="img-thumbnail" alt="top editors" style="width:90%" />
 
 <a name="top-os"></a>
+
 #### Top operating systems used
 <img src="https://wakatime.com/share/all-users-stats/2022-operating_systems.png" class="img-thumbnail" alt="top operating systems" style="width:90%" />
 
