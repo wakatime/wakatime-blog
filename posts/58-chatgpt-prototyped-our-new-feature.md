@@ -12,7 +12,7 @@ Tags: chatgpt
 
 ### Intro
 
-I’m naturally a skeptic about OpenAI and ChatGPT, probably because I still think of machine learning as simple supervised learning with markov models.
+I’m naturally a skeptic about OpenAI and ChatGPT, probably because I still think of AI as simple supervised machine learning with markov models.
 That’s why it’s taken me a few months to try out the new hotness, ChatGPT.
 For my first try, I decided to see if it could prototype a new feature:
 
