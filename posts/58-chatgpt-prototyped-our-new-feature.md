@@ -2,7 +2,7 @@
 Title: ChatGPT Prototyped Our New Feature
 Date: 2023-01-24
 Image: https://wakatime.com/static/img/blog/files-bubble-chart.png
-Description: How we used ChatGPT to prototype our latest website feature.
+Description: How we used ChatGPT to save time building our latest website feature.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
