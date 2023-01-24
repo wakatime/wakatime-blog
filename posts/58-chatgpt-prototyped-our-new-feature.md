@@ -37,6 +37,8 @@ This experience has proven to be a game changer for the team and they look forwa
 
 <img src="https://wakatime.com/static/img/blog/openai-bubble-chart-2023-01-24.png" class="img-thumbnail" alt="chatgpt conversation" style="width:100%" />
 
+### Results
+
 Here’s the final code ChatGPT produced, and it works!
 
 <img src="https://wakatime.com/static/img/blog/openai-bubble-chart-prototype.png" class="img-thumbnail" alt="chatgpt conversation" style="width:60%" />
