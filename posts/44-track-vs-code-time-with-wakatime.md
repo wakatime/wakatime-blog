@@ -6,7 +6,7 @@ Description: Track your code time in VS Code with the open source WakaTime plugi
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
-Category: Insights
+Category: New Features
 Tags: vscode
 ---
 
