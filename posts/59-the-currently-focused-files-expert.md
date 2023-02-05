@@ -1,5 +1,5 @@
 ---
-Title: The Currently Focused File’s Expert
+Title: The Currently Focused File's Expert
 Date: 2023-02-05
 Image: https://wakatime.com/static/img/ScreenShots/org-file-expert-status-bar-screenshot.png
 Description: See the person who spent the most time in a file, in the IDE’s status bar.
