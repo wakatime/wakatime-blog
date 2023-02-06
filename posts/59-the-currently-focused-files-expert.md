@@ -25,10 +25,11 @@ This feature will also help in fostering a collaborative environment, where team
 We understand that your devs’ time is valuable, and we want to make their experience as smooth and efficient as possible.
 This new feature is just one of many ways we are working to improve the developer experience and make coding that much easier.
 
-We hope you enjoy this new feature and would love to hear your feedback.
+This feature was built as a direct result of feedback from one of our users, [Paul Preibisch][paul].
+Thank you Paul!
 
-However, if you prefer to disable it just add `status_bar_team = false` to your `~/.wakatime.cfg` file.
+We hope you enjoy it, however if you prefer to disable the file experts in your status bar just add `status_bar_team = false` to your `~/.wakatime.cfg` file.
 
 Happy coding!
 
-[teams]: https://wakatime.com/teams
+[paul]: https://wakatime.com/@be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2
