@@ -1,7 +1,7 @@
 ---
 Title: GitHub adds WakaTime as Secret Scanning Partner
 Date: 2023-02-10
-Image: https://wakatime.com/static/img/blog/leaky-faucet.jgp
+Image: https://wakatime.com/static/img/blog/leaky-faucet.jpg
 Description: GitHub now notifies WakaTime of any leaked access tokens found in public repositories so they can be revoked.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
