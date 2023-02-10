@@ -23,7 +23,7 @@ GitHub secret scanning protects users by searching repositories for secret token
 By identifying and flagging these secrets, GitHub helps prevent data leaks and fraud.
 
 GitHub will forward access tokens found in public repositories to WakaTime, who will immediately revoke the leaked token and email the token’s owner with instructions on next steps.
-You can read more information about WakaTime tokens [here][auth docs], and view the original announcement on GitHub’s [Changelog Blog][gh blog].
+You can read more information about WakaTime tokens [here][auth docs], and view the original announcement on the [GitHub Blog][gh blog].
 
 [auth docs]: https://wakatime.com/developers/#authentication
 [gh blog]: https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner/
