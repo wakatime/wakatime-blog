@@ -1,5 +1,5 @@
 ---
-Title: Create PDF Invoices from your WakaTime code stats
+Title: Create Invoices from your WakaTime code stats
 Date: 2023-02-26
 Image: https://wakatime.com/static/img/blog/invoicing.png
 Description: Generate pdf invoices from your code stats.
