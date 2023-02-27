@@ -35,13 +35,13 @@ The WakaTime team couldn't be happier with the results and are now looking for n
 They were impressed by the AI's ability to understand their needs and provide a working solution in such a short amount of time.
 This experience has proven to be a game changer for the team and they look forward to more opportunities to work with ChatGPT in the future.
 
-<img src="https://wakatime.com/static/img/blog/openai-bubble-chart-2023-01-24.png" class="img-thumbnail" alt="chatgpt conversation" style="width:100%" />
+<a href="https://wakatime.com/static/img/blog/openai-bubble-chart-2023-01-24.png"><img src="https://wakatime.com/static/img/blog/openai-bubble-chart-2023-01-24.png" class="img-thumbnail" alt="chatgpt conversation" style="width:100%" /></a>
 
 ### Results
 
 Here’s the final code ChatGPT produced, and it works!
 
-<img src="https://wakatime.com/static/img/blog/openai-bubble-chart-prototype.png" class="img-thumbnail" alt="chatgpt conversation" style="width:60%" />
+<img src="https://wakatime.com/static/img/blog/openai-bubble-chart-prototype.png" class="img-thumbnail" alt="output from running the code" style="width:60%" />
 
     <!DOCTYPE html>
     <html>
