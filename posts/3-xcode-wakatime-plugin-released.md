@@ -1,7 +1,7 @@
 ---
 Title: Xcode WakaTime Plugin Released
 Date: 2014-03-13
-Image: https://wakatime.com/static/img/editor-icons/xcode-128.png
+Image: https://wakatime.com/static/img/blog/xcode.png
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
