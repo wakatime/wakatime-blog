@@ -13,12 +13,14 @@ Tags: plugins, xcode
 Ever since Apple [disabled plugins][disabled] in Xcode, we’ve been looking for a way to still show your code stats for Xcode without a plugin.
 Now, we’re happy to announce a native Mac app that adds back support for Xcode code stats!
 
-[WakaTime for Mac][repo] runs in your system tray and uses Apple's accessibility features to watch for changes Xcode.
+[WakaTime for Mac][repo] runs in your system tray and uses Apple's accessibility features to watch for typing in Xcode.
+The time you spend coding in Xcode is now displayed on your [WakaTime Dashboard][dashboard] again.
 
 Today we [released][releases] the first working beta version.
 
 Give it a try, and let us know what you think!
 
 [disabled]: https://wakatime.com/blog/25-xcode-8-will-disable-all-your-plugins
+[dashboard]: https://wakatime.com/
 [repo]: https://github.com/wakatime/macos-wakatime
 [releases]: https://github.com/wakatime/macos-wakatime/releases
