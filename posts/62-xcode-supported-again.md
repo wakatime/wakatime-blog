@@ -20,5 +20,5 @@ Today we [released][releases] the first working beta version.
 Give it a try, and let us know what you think!
 
 [disabled]: https://wakatime.com/blog/25-xcode-8-will-disable-all-your-plugins
-[repo]: https://github.com/wakatime/xcode-wakatime
-[releases]: https://github.com/wakatime/xcode-wakatime/releases
+[repo]: https://github.com/wakatime/macos-wakatime
+[releases]: https://github.com/wakatime/macos-wakatime/releases
