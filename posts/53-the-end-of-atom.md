@@ -26,6 +26,9 @@ The bottom line is other editors have become more popular and the void that Atom
 You can continue using Atom until December 15, 2022 and some things may still work, but consider switching as soon as possible to another [supported editor][editors].
 We recommend [VS Code][vscode] since it will feel the most comfortable when making the transition from Atom.
 
+Edit: [Pulsar](https://pulsar-edit.dev/) is an active community maintained fork of Atom that works with the WakaTime plugin.
+
+
 [github blog]: https://github.blog/2022-06-08-sunsetting-atom/
 [2021 stats]: https://wakatime.com/blog/51-wakatime-2021-programming-stats#top-editors
 [2020 stats]: https://wakatime.com/blog/43-wakatime-2020-programming-stats#top-editors
