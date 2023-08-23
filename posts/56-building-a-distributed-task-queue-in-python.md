@@ -67,8 +67,7 @@ Those are easy to add in your application’s task code, and you probably want t
 
 ## WakaQ is ready to use
 
-[WakaQ][wakaq] is still a new project, so use at your own risk.
-WakaQ currently powers all background tasks in prod for the [WakaTime][wakatime] website, including but not limited to:
+[WakaQ][wakaq] currently powers all background tasks in prod for the [WakaTime][wakatime] website, including but not limited to:
 
 * sending code stats email reports
 * renewing our LetsEncrypt SSL certs
