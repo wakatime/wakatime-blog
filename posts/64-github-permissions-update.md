@@ -15,8 +15,7 @@ We’ve improved the security of our [GitHub integration][integrations] by migra
 ## Why GitHub Apps?
 
 Ever since the GitHub released [GitHub Apps][apps release], [many][sentry] [companies][code climate] have transitioned from OAuth to GitHub Apps.
-`GitHub Apps` is the term for GitHub’s new OAuth client implementation... it’s GitHub’s re-write of their API’s OAuth authentication flow.
-It’s still just OAuth behind the scenes.
+`GitHub Apps` is the term for GitHub’s new OAuth client implementation... it’s GitHub’s re-write of their API’s OAuth authentication flow, but it’s still just OAuth behind the scenes.
 The main reason to use GitHub Apps is fine-grained permissions.
 
 When using GitHub’s API without GitHub Apps, the permission scopes are way too broad.
