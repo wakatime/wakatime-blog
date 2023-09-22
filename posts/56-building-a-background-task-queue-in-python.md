@@ -1,8 +1,8 @@
 ---
-Title: Building a Distributed Task Queue in Python
+Title: Building a Background Task Queue in Python
 Date: 2022-09-05
 Image: https://wakatime.com/static/img/blog/light-queue.png
-Description: How I wrote my own background distributed task queue to replace Celery at WakaTime.
+Description: How I wrote my own background task queue to replace Celery at WakaTime.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
@@ -29,12 +29,12 @@ When that happens the worker stops processing all tasks, not just delayed ones!
 As WakaTime grew, we started running into this bug more frequently.
 
 I tried [RQ][rq], [Huey][huey], and [TaskTiger][tasktiger], but they were missing features and processed tasks slower than Celery.
-A distributed task queue is indispensable for a website like WakaTime, and I was tired of running into bugs.
-For that reason, I decided to build the simplest distributed task queue possible while still providing all the features required by WakaTime.
+A background task queue is indispensable for a website like WakaTime, and I was tired of running into bugs.
+For that reason, I decided to build the simplest background task queue possible while still providing all the features required by WakaTime.
 
 ## Introducing WakaQ
 
-[WakaQ][wakaq] is a new Python distributed task queue.
+[WakaQ][wakaq] is a new Python background task queue.
 Use it to run code in the background so your website stays fast and snappy, and your users stay happy.
 
 ## WakaQ is simple
