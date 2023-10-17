@@ -6,7 +6,7 @@ Description: We’ve improved the security of our GitHub integration.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
-Category: Engineering
+Category: New Features
 Tags: integrations, github
 ---
 

@@ -6,7 +6,7 @@ Description: GitHub now notifies WakaTime of any leaked access tokens found in p
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
-Category: Engineering
+Category: New Features
 Tags: github, secret-scanning
 ---
 
