@@ -33,10 +33,12 @@ Read latency was more important for us.
 We notice consistently faster(lower) reads from S3 compared to Spaces.
 Reading from S3 takes around 200ms per object, while reading from Spaces takes around 300ms.
 We also noticed a higher rate of failures when reading from Spaces vs S3.
-For Spaces we set our [boto3 max retries][max retries] to 5, but we didn’t even need retries for S3.
+Spaces rate limits your requests much more than S3.
+The S3 rate limit [(5,500+ requests per second)][s3 rate limit] gives you many times more requests per second than DigitalOcean Spaces [(500 request per second)][spaces rate limit].
 
 We start each file path prefix with a random string generated per user, to prevent one user’s reads from bottlenecking reads of other users.
 According to [AWS docs][s3 performance], this means we can read up to 5.5k files per second per user from S3.
+With Spaces, we can only read 500 files per second total across all users.
 
 ### WakaTime’s Infra
 
@@ -65,11 +67,12 @@ Get started with your free programming metrics today by [installing the open sou
 [aws]: https://aws.amazon.com/
 [s3]: https://aws.amazon.com/s3/
 [s3 pricing]: https://aws.amazon.com/s3/pricing/
+[s3 rate limit]: https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance-design-patterns.html
+[s3 performance]: https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance.html
 [spaces]: https://www.digitalocean.com/products/spaces/
 [spaces pricing]: https://www.digitalocean.com/pricing/#spaces-object-storage
-[s3 performance]: https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance.html
+[spaces rate limit]: https://docs.digitalocean.com/products/spaces/details/limits/
 [spaces docs]: https://developers.digitalocean.com/documentation/spaces/
-[max retries]: https://stackoverflow.com/a/48568320/1290627
 [plugins]: https://wakatime.com/plugins
 [api]: https://wakatime.com/api
 [devops tag]: https://wakatime.com/blog/tag/devops
