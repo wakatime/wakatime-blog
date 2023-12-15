@@ -6,7 +6,7 @@ Description: Aggregate programming stats of all WakaTime users over 2020.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
-Category: Engineering
+Category: Yearly Code Stats
 Tags: year-end-report
 ---
 

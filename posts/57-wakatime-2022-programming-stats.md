@@ -6,7 +6,7 @@ Description: Aggregate programming stats of all WakaTime users over 2022.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
-Category: Engineering
+Category: Yearly Code Stats
 Tags: year-end-report
 ---
 
@@ -98,4 +98,3 @@ These aggregated 2022 stats are [available as JSON][json], and also available fo
 [report]: https://wakatime.com/a-look-back-at-2022
 [json]: https://wakatime.com/api/v1/stats/2022
 [tag]: https://wakatime.com/blog/tag/yearendreport
-[bugfix]: https://github.com/wakatime/wakatime-blog/issues/12#issuecomment-1003753723
