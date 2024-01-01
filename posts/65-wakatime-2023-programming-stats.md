@@ -1,7 +1,7 @@
 ---
 Title: WakaTime 2023 Programming Stats
 Date: 2024-01-01
-Image: https://wakatime.com/static/img/blog/classical-wohnung-wien.jpg
+Image: https://wakatime.com/share/all-users-stats/2023-languages.png
 Description: Aggregate programming stats of all WakaTime users over 2023.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
