@@ -1,7 +1,7 @@
 ---
 Title: WakaTime 2023 Programming Stats
-Date: 2024-01-02
-Image: https://wakatime.com/static/img/blog/fireworks-colorado.jpg
+Date: 2024-01-01
+Image: https://wakatime.com/static/img/blog/classical-wohnung-wien.jpg
 Description: Aggregate programming stats of all WakaTime users over 2023.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
@@ -18,8 +18,8 @@ Happy New Year!
   Photo by <a href="https://wakatime.com/@alan">Alan Hamlett</a>
 </div>
 
-In 2023, more than 500k developers spent a combined **placeholder** million hours programming, tracked with [WakaTime plugins][plugins].
-The average person spent **placeholder** minutes per day programming.
+In 2023, more than 500k developers spent a combined 51 million hours programming, tracked with [WakaTime plugins][plugins].
+The average person spent 48 minutes per day programming.
 
 Each year we release a [personalized coding report][report] showing your accomplishments over the last year.
 We also include average trends for all WakaTime devs showing the most used languages, IDEs, and operating systems.
