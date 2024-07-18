@@ -1,7 +1,7 @@
 ---
 Title: Case Study: Enhancing Developer Productivity
 Date: 2024-07-18
-Image: https://wakatime.com/static/img/blog/pencil-chart.jpg
+Image: https://wakatime.com/static/img/blog/eurisko.jpg
 Description: Eurisko adopted WakaTime to gain a comprehensive overview of how devs spend their time.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
@@ -10,13 +10,13 @@ Category: New Features
 Tags: case-study
 ---
 
-<img src="https://wakatime.com/static/img/blog/pencil-chart.jpg" class="img-thumbnail" alt="chart of pencils" title="chart of pencils" style="width:100%" />
+<img src="https://wakatime.com/static/img/blog/eurisko.jpg" class="img-thumbnail" alt="Eurisko office" title="Eurisko office" style="width:100%" />
 
 Meet Theresia, a lead developer at Eurisko.
 
 <img src="https://wakatime.com/static/img/testimonials/theresia-altabib.jpg" class="img-thumbnail" alt="Theresia Al-Tabib" title="Theresia Al-Tabib" />
 
-Eurisko is a large software development company with multiple departments, including game development, web development, and mobile apps.
+[Eurisko](https://eurisko.net/) is a large software development company with multiple departments, including game development, web development, and mobile apps.
 Theresia is a scrum master at Eurisko, so she has a broad overview of the company’s workflows.
 WakaTime has been a crucial tool for tracking and optimizing developers’ time at Eurisko, helping them improve productivity and manage their dev teams.
 
