@@ -8,7 +8,6 @@ AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
 Tags: case-study
-Draft: true
 ---
 
 <img src="https://wakatime.com/static/img/blog/pencil-chart.jpg" class="img-thumbnail" alt="chart of pencils" title="chart of pencils" style="width:100%" />
