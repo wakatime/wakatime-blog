@@ -12,8 +12,6 @@ Tags: case-study
 
 <img src="https://wakatime.com/static/img/blog/pencil-chart.jpg" class="img-thumbnail" alt="chart of pencils" title="chart of pencils" style="width:100%" />
 
-## Introduction
-
 Meet Theresia, a lead developer at Eurisko.
 
 <img src="https://wakatime.com/static/img/testimonials/theresia-altabib.jpg" class="img-thumbnail" alt="Theresia Al-Tabib" title="Theresia Al-Tabib" />
