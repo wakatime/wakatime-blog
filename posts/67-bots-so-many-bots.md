@@ -60,10 +60,14 @@ This user signed up 140 days ago, commented 173 times and upvoted 246 launches.
 Notice how the bot comments at regular intervals and the chart looks boxy instead of smooth?
 
 However, this wasn’t enough to detect bot accounts alone.
-I assigned each user a risk score based on many different criteria, like account activity duration, upvote patterns over time, and content of comments.
+I assigned each user a risk score based on many different criteria, like account activity duration, upvote patterns over time, number of upvotes shared with other bots, and content of comments.
 Did you know ChatGPT generated comments have a higher frequency of words like `game-changer`?
 Bot comments also contained characters not easily typeable, like [em-dash][emdash], or the product’s name verbatim even when it’s very long or contains characters like `™` in the name.
 They also commonly included the name and bio word for word from a real person’s LinkedIn profile, but those people said they never created any ProductHunt account.
+Clustering works to an extent, but many bot accounts are thrown away after used so the bots might only share one similar vote out of their many random votes.
+I ran some clustering, but only on small data sets because [cupy][cupy] and [cudf][cudf] haven’t implemented the necessary methods to run on GPUs.
+If someone has more experience with this, clustering might improve bot detection.
+
 In the end, I detected over 60% of user signups to be automated bot accounts.
 That’s a conservative number, because I didn’t detect all the bots.
 It would be a lot easier for ProductHunt themselves to detect bot activity more accurately using insider data.
@@ -129,3 +133,5 @@ Also check out my attempt to make this better with [wonderful.dev](https://wonde
 [hacker news]: https://news.ycombinator.com/
 [discussion]: https://news.ycombinator.com/item?id=41708837
 [emdash]: https://en.wikipedia.org/wiki/Dash#Em_dash
+[cupy]: https://github.com/cupy/cupy
+[cudf]: https://github.com/rapidsai/cudf
