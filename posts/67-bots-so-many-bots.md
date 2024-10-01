@@ -36,7 +36,7 @@ Based on all the emails I receive offering votes for money, some people must be 
 
 ## The data
 
-To analyze upvotes, I found a dump of all ProductHunt users, launches, upvotes, and comments.
+To analyze upvotes, I found a publicly available list of all ProductHunt users, launches, upvotes, and comments.
 ProductHunt has over 1 million user sign ups, over 300 thousand launches, 2.5 million comments, and 20 million upvotes.
 Each launch also came with the daily rank, which is the rank of the launch after 24 hours from midnight PDT when each new launch day starts.
 
