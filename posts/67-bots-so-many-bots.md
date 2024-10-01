@@ -120,6 +120,8 @@ Either way, I’ve spent too much time on this already so that will have to wait
 
 Join the discussion on [HN](https://news.ycombinator.com/item?id=41708837).
 
+Also check out my attempt to make this better with [wonderful.dev](https://wonderful.dev/features), with my profile at [wonderful.dev/alan](https://wonderful.dev/alan).
+
 [producthunt]: https://www.producthunt.com/
 [hacker news]: https://news.ycombinator.com/
 [emdash]: https://en.wikipedia.org/wiki/Dash#Em_dash
