@@ -32,6 +32,7 @@ Can you spot the bots?
 Now we see that it’s a waste of time for people launching on ProductHunt to reply to comments.
 Is launching on ProductHunt even worth it?
 If so many bots are commenting, they must be upvoting too right?
+Based on all the emails I receive offering votes for money, some people must be purchasing upvotes.
 
 ## The data
 
