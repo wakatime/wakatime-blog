@@ -64,7 +64,7 @@ I assigned each user a risk score based on many different criteria, like account
 Did you know ChatGPT generated comments have a higher frequency of words like `game-changer`?
 Bot comments also contained characters not easily typeable, like [em-dash][emdash], or the product’s name verbatim even when it’s very long or contains characters like `™` in the name.
 They also commonly included the name and bio word for word from a real person’s LinkedIn profile, but those people said they never created any ProductHunt account.
-Clustering works to an extent, but many bot accounts are thrown away after used so the bots might only share one similar vote out of their many random votes.
+Clustering works to an extent, but many bot accounts are thrown away after used so the bots only share one similar vote out of their many random votes.
 I ran some clustering, but only on small data sets because [cupy][cupy] and [cudf][cudf] haven’t implemented the necessary methods to run on GPUs.
 If someone has more experience with this, clustering might improve bot detection.
 
