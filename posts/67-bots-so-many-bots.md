@@ -117,6 +117,8 @@ I wanted to create a list of launches without the bot votes, to see if the top l
 However, I don’t want to call out launches that didn’t really pay for votes but just happen to have many upvotes from bots, and I don’t want more publicity for the launches that did pay.
 Either way, I’ve spent too much time on this already so that will have to wait for a possible future blog post.
 
+Join the discussion on [HN](https://news.ycombinator.com/item?id=41708837).
+
 [producthunt]: https://www.producthunt.com/
 [hacker news]: https://news.ycombinator.com/
 [emdash]: https://en.wikipedia.org/wiki/Dash#Em_dash
