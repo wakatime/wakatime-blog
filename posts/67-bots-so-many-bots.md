@@ -39,6 +39,9 @@ Based on all the emails I receive offering votes for money, some people must be 
 To analyze upvotes, I found a publicly available list of all ProductHunt users, launches, upvotes, and comments.
 ProductHunt has over 1 million user sign ups, over 300 thousand launches, 2.5 million comments, and 20 million upvotes.
 Each product also has a daily rank, which is the score after 24 hours from midnight PDT when each new launch day starts.
+First place is daily rank `1`.
+I didn’t check what the lowest rank was, but some products have `null` rank.
+Maybe those were deleted, flagged, or never launched.
 
 ## Detecting bot accounts
 
@@ -59,7 +62,7 @@ Notice how the bot comments at regular intervals and the chart looks boxy instea
 However, this wasn’t enough to detect bot accounts alone.
 I assigned each user a risk score based on many different criteria, like account activity duration, upvote patterns over time, and content of comments.
 Did you know ChatGPT generated comments have a higher frequency of words like `game-changer`?
-Bot comments also contained characters not easily typeable, like [em-dash][emdash].
+Bot comments also contained characters not easily typeable, like [em-dash][emdash], or the product’s name verbatim even when it’s very long or contains characters like `™` in the name.
 They also commonly included the name and bio word for word from a real person’s LinkedIn profile, but those people said they never created any ProductHunt account.
 In the end, I detected over 60% of user signups to be automated bot accounts.
 That’s a conservative number, because I didn’t detect all the bots.
@@ -118,10 +121,11 @@ I wanted to create a list of launches without the bot votes, to see if the top l
 However, I don’t want to call out launches that didn’t really pay for votes but just happen to have many upvotes from bots, and I don’t want more publicity for the launches that did pay.
 Either way, I’ve spent too much time on this already so that will have to wait for a possible future blog post.
 
-Join the discussion on [HN](https://news.ycombinator.com/item?id=41708837).
+Join the discussion on [HN][discussion].
 
 Also check out my attempt to make this better with [wonderful.dev](https://wonderful.dev/features), with my profile at [wonderful.dev/alan](https://wonderful.dev/alan).
 
 [producthunt]: https://www.producthunt.com/
 [hacker news]: https://news.ycombinator.com/
+[discussion]: https://news.ycombinator.com/item?id=41708837
 [emdash]: https://en.wikipedia.org/wiki/Dash#Em_dash
