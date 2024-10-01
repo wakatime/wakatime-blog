@@ -103,7 +103,7 @@ First place launches get featured in the daily and weekly ProductHunt newsletter
 
 Looks like 15% bot votes is a safe amount to get your product in first place for the day.
 Anything over 60% bot votes doesn’t seem to make it to first place for some reason.
-Here’s the same chart limited to launches after 2020, showing bots are getting more launches featured lately.
+Here’s the same chart limited to launches after 2020, showing bots are accounting for more of the upvotes in top posts lately.
 
 <img src="https://wakatime.com/static/img/blog/ph/Posts in First Place by Bot Votes since 2020.png" class="img-thumbnail" alt="Launches in first place by number of bot votes since 2020" title="Launches in first place by number of bot votes since 2020" style="width:80%" />
 
