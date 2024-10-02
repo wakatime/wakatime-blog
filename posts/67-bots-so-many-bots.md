@@ -143,7 +143,7 @@ Join the discussion on [HN][discussion].
 
 Also check out my attempt to make this better with [wonderful.dev](https://wonderful.dev/features), with my profile at [wonderful.dev/alan](https://wonderful.dev/alan).
 
-*Thanks to [Artim Manin](https://www.linkedin.com/in/artemmanin) for helping with his data science expertise.
+*Thanks to [Artem Manin](https://www.linkedin.com/in/artemmanin) for helping with his data science expertise.
 
 [producthunt]: https://www.producthunt.com/
 [hacker news]: https://news.ycombinator.com/
