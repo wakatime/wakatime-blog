@@ -119,6 +119,19 @@ Launches paying for upvotes probably aren’t high quality products, so they oft
 
 <img src="https://wakatime.com/static/img/blog/ph/Posts in Top 5 by Bot Votes since 2020.png" class="img-thumbnail" alt="Launches in top 5 by number of bot votes since 2020" title="Launches in top 5 by number of bot votes since 2020" style="width:80%" />
 
+## Worth it?
+
+Is launching on ProductHunt worth it?
+Even though most comments and upvotes are bots, there’s probably still some real humans using ProductHunt... maybe.
+If you pay the bots and get featured in the newsletter, my guess is more real humans will see your product.
+
+Some people think it gives you backlink SEO juice, but it doesn’t.
+For Google to count a backlink, the `a` link element pointing to your product must not have `rel="nofollow"`.
+If you inspect the ProductHunt website, you’ll see the link to your product contains `nofollo` meaning search engines won’t count it as a backlink.
+Maybe other aggregator sites will pick up your launch and link with `dofollow`, but ProductHunt itself does not count as a backlink.
+
+Overall, in my opinion it’s still worth launching on ProductHunt however I wouldn’t spend more than a few minutes preparing the launch and definitely don’t waste time replying to comments.
+
 ## Final Thoughts
 
 I wanted to create a list of launches without the bot votes, to see if the top launch of the day changes with the bot votes are removed.
