@@ -2,7 +2,7 @@
 Title: Bots, so many Bots
 Date: 2024-10-01
 Image: https://wakatime.com/static/img/blog/ph/Bot vs Real Signups (Line Chart).png
-Description: ProductHunt’s engagement is now mostly bots
+Description: Is Product Hunt worth it? Dive into the data to find out.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
