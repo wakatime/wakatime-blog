@@ -126,8 +126,9 @@ Even though most comments and upvotes are bots, there’s probably still some re
 If you pay the bots and get featured in the newsletter, my guess is more real humans will see your product.
 
 Some people think it gives you backlink SEO juice, but it doesn’t.
-For Google to count a backlink, the `a` link element pointing to your product must not have `rel="nofollow"`.
+For Google to count a backlink, the `a` link element pointing to your product must be `dofollow`.
 If you inspect the ProductHunt website, you’ll see the link to your product contains `nofollow` meaning search engines won’t count it as a backlink.
+If you only input one link in your product it’s actually a `button` element using JavaScript to open your product page, not even a real link.
 Maybe other aggregator sites will pick up your launch and link with `dofollow`, but ProductHunt itself does not count as a backlink.
 
 Overall, in my opinion it’s still worth launching on ProductHunt however I wouldn’t spend more than a few minutes preparing the launch and definitely don’t waste time replying to comments.
