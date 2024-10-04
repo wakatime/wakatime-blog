@@ -141,6 +141,8 @@ Either way, I’ve spent too much time on this already so that will have to wait
 
 Join the discussion on [HN][discussion].
 
+Buy a [ME GOOD LLM tee-shirt](https://www.redbubble.com/shop/ap/165310485).
+
 Also check out my attempt to make this better with [wonderful.dev](https://wonderful.dev/features), with my profile at [wonderful.dev/alan](https://wonderful.dev/alan).
 
 *Thanks to [Artem Manin](https://www.linkedin.com/in/artemmanin) for helping with his data science expertise.*
