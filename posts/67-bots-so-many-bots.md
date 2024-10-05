@@ -32,7 +32,7 @@ Can you spot the bots?
 Now we see that it’s a waste of time for people launching on ProductHunt to reply to comments.
 Is launching on ProductHunt even worth it?
 If so many bots are commenting, they must be upvoting too right?
-Based on all the emails I receive offering votes for money, some people must be purchasing upvotes.
+Based on all the emails I receive offering [votes for money][reddit example 1], some people must be purchasing upvotes.
 
 ## The data
 
@@ -125,11 +125,13 @@ Is launching on ProductHunt worth it?
 Even though most comments and upvotes are bots, there’s probably still some real humans using ProductHunt... maybe.
 If you pay the bots and get featured in the newsletter, my guess is more real humans will see your product.
 
-Some people think it gives you backlink SEO juice, but it doesn’t.
+[Some people](reddit example 2) think it gives you backlink SEO juice, but it doesn’t.
 For Google to count a backlink, the `a` link element pointing to your product must not contain [nofollow][nofollow].
 If you inspect the ProductHunt website, you’ll see the link to your product contains `nofollow` meaning search engines won’t count it as a backlink.
 If you only input one link in your product it’s actually a `button` element using JavaScript to open your product page, not even a real link.
 Maybe other aggregator sites will pick up your launch and link, but ProductHunt itself does not count as a backlink.
+
+The only people who care about being #1 on ProductHunt are investors, so if you’re talking to investors it might help to have that badge on your launch.
 
 Overall, in my opinion it’s still worth launching on ProductHunt however I wouldn’t spend more than a few minutes preparing the launch and definitely don’t waste time replying to comments.
 
@@ -154,3 +156,5 @@ Also check out my attempt to make this better with [wonderful.dev](https://wonde
 [cupy]: https://github.com/cupy/cupy
 [cudf]: https://github.com/rapidsai/cudf
 [nofollow]: https://en.wikipedia.org/wiki/Nofollow
+[reddit example 1]: https://www.reddit.com/r/SaaS/comments/1dyxpft/producthunt_is_fake/
+[reddit example 2]: https://www.reddit.com/r/Entrepreneur/comments/1bj826w/zero_paying_users_after_being_1_on_product_hunt/
