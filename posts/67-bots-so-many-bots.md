@@ -132,7 +132,7 @@ If you inspect the ProductHunt website, you’ll see the link to your product co
 If you only input one link in your product it’s actually a `button` element using JavaScript to open your product page, not even a real link.
 Maybe other aggregator sites will pick up your launch and link, but ProductHunt itself does not count as a backlink.
 
-The only people who care about being #1 on ProductHunt are investors, so if you’re talking to investors it might help to have that badge on your launch.
+One group who does care about being #1 on ProductHunt are investors, so if you’re talking to investors it might help to have that badge on your launch.
 
 Overall, in my opinion it’s still worth launching on ProductHunt however I wouldn’t spend more than a few minutes preparing the launch and definitely don’t waste time replying to comments.
 
