@@ -15,7 +15,7 @@ Happy New Year!
 <img src="https://wakatime.com/static/img/blog/classical-wohnung-wien.jpg" class="img-thumbnail" alt="classical house vienna jugend herrenvilla" title="classical vienna jugend herrenvilla located at Peter-Jordan-Straße 23, 1190 Wien" style="width:90%" />
 
 <div style="font-size:10px;text-align:right;width:90%;margin-top:-18px;margin-bottom:10px;">
-  Photo by <a href="https://wakatime.com/@alan">Alan Hamlett</a>
+  Photo by <a href="https://unsplash.com/photos/a-large-white-building-surrounded-by-trees-and-bushes-nOZ-9pmZ7yw">Alan Hamlett</a>
 </div>
 
 In 2023, more than 500k developers spent a combined 51 million hours programming, tracked with [WakaTime plugins][plugins].
