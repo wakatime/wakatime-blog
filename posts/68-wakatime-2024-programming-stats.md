@@ -45,7 +45,7 @@ Now you can manually add tracked time from your project’s dashboard.
 
 ## Programming stats for 2024
 
-This year we surveyed our users asking for job descriptions, so you’ll notice extra charts showing the breakdown of top languages, editors, and operating systems by job titles.
+This year we started surveying our users asking for job descriptions, so you’ll notice extra charts showing the breakdown by job titles below each main chart.
 
 <img src="https://wakatime.com/share/job-titles/2024.png" class="img-thumbnail" alt="job titles" style="width:60%" />
 
