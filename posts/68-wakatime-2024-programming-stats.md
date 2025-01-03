@@ -20,13 +20,14 @@ Happy New Year!
 
 In 2024, more than 500k developers spent a combined 59 million hours programming, tracked with [WakaTime plugins][plugins].
 The average person spent 51 minutes per day programming, a slight increase from [last year][last year blog].
-We also release a [personalized coding report][report] tailored to your data.
-This year I was excited find out my personal top language changed from `Python` to `TypeScript`, because my new project [wonderful.dev][wonderful.dev] uses the T3 stack [Next.js][nextjs], [Drizzle ORM][drizzle], [tRPC][trpc], [TailwindCSS][tailwindcss], and TypeScript.
 
 Each year we release a [personalized coding report][report] showing your accomplishments over the last year.
+This year I was excited find out my personal top language changed from `Python` to `TypeScript`, because my new project [wonderful.dev][wonderful.dev] uses the T3 stack [Next.js][nextjs], [Drizzle ORM][drizzle], [tRPC][trpc], [TailwindCSS][tailwindcss], and TypeScript.
+
 We also include average trends for all WakaTime devs showing the most used languages, IDEs, and operating systems.
 These trends come from aggregating the WakaTime personal dashboard metrics when a developer installs one of our [IDE plugins][plugins].
-But first, a quick list of new features released in 2024.
+We can find new trends among software engineers using this data, for example this year a [new AI-powered editor][editors section] is gaining momentum: `Cursor`.
+There’s more exciting data below… but first, a quick list of new features released in 2024.
 
 ## New Features & Milestones
 
@@ -105,6 +106,7 @@ These aggregated 2024 stats are [available as JSON][json], and also available fo
 [drizzle]: https://orm.drizzle.team/
 [trpc]: https://trpc.io/
 [tailwindcss]: https://tailwindcss.com/
+[editors section]: https://wakatime.com/blog/68-wakatime-2024-programming-stats#top-editors
 
 [report]: https://wakatime.com/a-look-back-at-2024
 [json]: https://wakatime.com/api/v1/stats/2024
