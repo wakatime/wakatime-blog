@@ -23,10 +23,6 @@ The average person spent 51 minutes per day programming, a slight increase from 
 We also release a [personalized coding report][report] tailored to your data.
 This year I was excited find out my personal top language changed from `Python` to `TypeScript`, because my new project [wonderful.dev][wonderful.dev] uses the T3 stack [Next.js][nextjs], [Drizzle ORM][drizzle], [tRPC][trpc], [TailwindCSS][tailwindcss], and TypeScript.
 
-This year we surveyed our users asking for job descriptions, so you’ll notice extra charts showing the breakdown by job titles.
-
-<img src="https://wakatime.com/share/job-titles/2024.png" class="img-thumbnail" alt="job titles" style="width:60%" />
-
 Each year we release a [personalized coding report][report] showing your accomplishments over the last year.
 We also include average trends for all WakaTime devs showing the most used languages, IDEs, and operating systems.
 These trends come from aggregating the WakaTime personal dashboard metrics when a developer installs one of our [IDE plugins][plugins].
@@ -47,6 +43,10 @@ Ever wanted to add some missing time to your dashboard?
 Now you can manually add tracked time from your project’s dashboard.
 
 ## Programming stats for 2024
+
+This year we surveyed our users asking for job descriptions, so you’ll notice extra charts showing the breakdown of top languages, editors, and operating systems by job titles.
+
+<img src="https://wakatime.com/share/job-titles/2024.png" class="img-thumbnail" alt="job titles" style="width:60%" />
 
 <a name="top-languages"></a>
 
