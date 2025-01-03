@@ -22,7 +22,7 @@ In 2024, more than 500k developers spent a combined 59 million hours programming
 The average person spent 51 minutes per day programming, a slight increase from [last year][last year blog].
 
 Each year we release a [personalized coding report][report] showing your accomplishments over the last year.
-This year I was excited find out my personal top language changed from `Python` to `TypeScript`, because my new project [wonderful.dev][wonderful.dev] uses the T3 stack [Next.js][nextjs], [Drizzle ORM][drizzle], [tRPC][trpc], [TailwindCSS][tailwindcss], and TypeScript.
+This year I was excited to find out my personal top language changed from `Python` to `TypeScript`, because my new project [wonderful.dev][wonderful.dev] uses the T3 stack [Next.js][nextjs], [Drizzle ORM][drizzle], [tRPC][trpc], [TailwindCSS][tailwindcss], and TypeScript.
 
 We also include average trends for all WakaTime devs showing the most used languages, IDEs, and operating systems.
 These trends come from aggregating the WakaTime personal dashboard metrics when a developer installs one of our [IDE plugins][plugins].
