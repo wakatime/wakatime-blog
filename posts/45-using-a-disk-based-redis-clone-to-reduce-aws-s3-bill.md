@@ -10,6 +10,8 @@ Category: Engineering
 Tags: redis, ssdb, caching, databases, devops
 ---
 
+**Update 2024:** We now use [Apache Kvrocks](https://github.com/apache/kvrocks) because [ideawu](https://github.com/ideawu) has vanished leaving SSDB unmaintaineed.
+
 [Redis][redis] is an in-memory database with very high write and read speed, and a limitation that data sets can’t be larger than available RAM.
 It’s like [memcached][memcached] but supports data structures instead of just strings as values.
 Redis is great for caching lookups to AWS S3 from an external server, which can speed up your S3 reads and save you money on [Outgoing Data Transfer costs][s3 pricing].
