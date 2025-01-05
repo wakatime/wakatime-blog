@@ -35,7 +35,7 @@ There’s more exciting data below… but first, a quick list of new features re
 Claim your dev profile at [wonderful.dev/yourname][wonderful.dev] and connect with interesting companies.
 
 <div>
-  <a href="https://www.loom.com/share/98702e2c34cd417394c9b84f6a6daabf">
+  <a href="https://youtu.be/4RLp4Nbmd_o">
     <img style="max-width:400px;" src="https://wakatime.com/static/img/blog/intro-to-wonderfuldev.gif">
   </a>
 </div>
