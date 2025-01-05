@@ -34,6 +34,12 @@ There’s more exciting data below… but first, a quick list of new features re
 ### [🚀 We’re launching wonderful.dev!][wonderful.dev]
 Claim your dev profile at [wonderful.dev/yourname][wonderful.dev] and connect with interesting companies.
 
+<div>
+  <a href="https://www.loom.com/share/98702e2c34cd417394c9b84f6a6daabf">
+    <img style="max-width:400px;" src="https://wakatime.com/static/img/blog/intro-to-wonderfuldev.gif">
+  </a>
+</div>
+
 ### [💻 Windows Desktop App][win]
 We’ve released a native Windows app that tracks your time in any app.
 The Windows app lives in your system tray, and works by tracking the focused window title.
