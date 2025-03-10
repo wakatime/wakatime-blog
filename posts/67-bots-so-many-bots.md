@@ -126,7 +126,7 @@ Is launching on ProductHunt worth it?
 Even though most comments and upvotes are bots, there’s probably still some real humans using ProductHunt... maybe.
 If you pay the bots and get featured in the newsletter, my guess is more real humans will see your product.
 
-[Some people](reddit example 2) think it gives you backlink SEO juice, but it doesn’t.
+[Some people][reddit example 2] think it gives you backlink SEO juice, but it doesn’t.
 For Google to count a backlink, the `a` link element pointing to your product must not contain [nofollow][nofollow].
 If you inspect the ProductHunt website, you’ll see the link to your product contains `nofollow` meaning search engines won’t count it as a backlink.
 If you only input one link in your product it’s actually a `button` element using JavaScript to open your product page, not even a real link.
