@@ -1,6 +1,6 @@
 ---
-Title: Get ready for your yearly code stats
-Date: 2025-12-01
+Title: Get ready for your yearly wrapped code stats
+Date: 2025-12-05
 Image: https://wakatime.com/static/img/blog/tech-backpack.jpg
 Description: Measure adoption and usage of Copilot & Cursor within your teams.
 Author: Alan Hamlett
@@ -10,11 +10,10 @@ Category: New Features
 Tags: ai
 ---
 
-Hello from WakaTime!
+Get ready for your yearly 2025 wrapped code stats.
 
 <a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/tech-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:90%" /></a>
 
-Get ready for your yearly 2025 code stats.
 We release the yearly stats [every January][previous blogs] after New Years, to make sure we include your work up to the last second including any holiday coding.
 
 ### What’s new
