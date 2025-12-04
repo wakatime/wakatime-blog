@@ -1,6 +1,6 @@
 ---
 Title: Get ready for your yearly wrapped code stats
-Date: 2025-12-05
+Date: 2025-12-07
 Image: https://wakatime.com/static/img/blog/tech-backpack.jpg
 Description: Measure adoption and usage of Copilot & Cursor within your teams.
 Author: Alan Hamlett
@@ -68,13 +68,15 @@ We teamed up with a designer in Prague to create the ultimate backpack for devs,
 A good backpack looks stylish, organizes your gear, and provides quick access to each device.
 Here’s why the Berliner backpack is the best tech bag:
 
-- laptop pouch separate from main compartment
+- side-access laptop separate from main compartment
 
-- 3 exterior security pockets
+- quick access exterior pocket
+
+- hidden security pocket
 
 - extra laptop/ipad pouch inside
 
-- removable mini-bag for necessities - store your main bag overhead keeping the essentials with you
+- detachable train-bag for necessities - store your main bag overhead keeping the essentials with you
 
 - roll top for expandable storage
 
