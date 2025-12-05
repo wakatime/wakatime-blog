@@ -70,7 +70,7 @@ Here’s why the Berliner backpack is the best tech bag:
 
 - side-access laptop separate from main compartment
 
-- quick access exterior pocket, with enough room for a [5 year airtag][airtag].
+- quick access exterior pocket, with enough room for a [5 year airtag][airtag]
 
 - hidden security pocket
 
