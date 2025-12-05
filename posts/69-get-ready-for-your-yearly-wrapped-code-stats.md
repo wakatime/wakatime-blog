@@ -70,7 +70,7 @@ Here’s why the Berliner backpack is the best tech bag:
 
 - side-access laptop separate from main compartment
 
-- quick access exterior pocket
+- quick access exterior pocket, with enough room for a [5 year airtag][airtag].
 
 - hidden security pocket
 
@@ -89,3 +89,4 @@ After more than a year of prototyping, feedback, and real world testing meet the
 [previous blogs]: https://wakatime.com/blog/tag/yearendreport
 [client filters]: https://wakatime.com/invoicing
 [berliner]: https://www.cargowerk.com/bags/p/berliner-daily-tech-backpack
+[airtag]: https://www.amazon.com/dp/B0F4ZSGYT9
