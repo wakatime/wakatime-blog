@@ -63,7 +63,7 @@ This means easier billing, clearer reporting, and fewer spreadsheets.
 
 We teamed up with a designer in Prague to create the ultimate backpack for devs, designers, and techies:
 
-<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/tech-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:90%" /></a>
+<div style="position:relative;margin-top:30px;margin-bottom:30px;padding-bottom:57.23370429252782%;height:0;"><iframe src="https://www.loom.com/embed/f44a652bf10348a38367f2333d9bce93" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 A good backpack looks stylish, organizes your gear, and provides quick access to each device.
 Here’s why the Berliner backpack is the best tech bag:
