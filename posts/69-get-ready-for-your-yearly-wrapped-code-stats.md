@@ -1,7 +1,7 @@
 ---
 Title: Get ready for your yearly wrapped code stats
 Date: 2025-12-07
-Image: https://wakatime.com/static/img/blog/tech-backpack.jpg
+Image: https://wakatime.com/static/img/blog/berliner-backpack.jpg
 Description: Measure adoption and usage of Copilot & Cursor within your teams.
 Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
@@ -61,7 +61,7 @@ This means easier billing, clearer reporting, and fewer spreadsheets.
 
 ### 👜 The Ultimate Tech Backpack
 
-<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/tech-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:90%" /></a>
+<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/berliner-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:90%" /></a>
 
 A good backpack looks stylish, organizes your gear, and provides quick access to each device.
 We teamed up with a designer in Prague to create the ultimate backpack for devs, designers, and techies.
