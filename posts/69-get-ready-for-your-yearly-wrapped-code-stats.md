@@ -73,7 +73,7 @@ Here’s why the Berliner backpack is the best tech bag:
 
 - exterior security pocket
 
-- interior hidden pocket with enough room for a [5 year][5 year airtag] or even [10 year][10 year airtag] airtag
+- interior hidden pocket with enough room for a [10 year airtag][10 year airtag] or [minimoto][minimoto]
 
 - extra laptop/ipad pouch inside
 
@@ -93,6 +93,6 @@ Preorder now, with delivery expected January 2025.
 [previous blogs]: https://wakatime.com/blog/tag/yearendreport
 [client filters]: https://wakatime.com/invoicing
 [berliner]: https://www.cargowerk.com/bags/p/berliner-daily-tech-travel-backpack
-[5 year airtag]: https://www.amazon.com/dp/B0F4ZSGYT9
+[minimoto]: https://monimoto.com/product/tracker-monimoto-9
 [10 year airtag]: https://www.amazon.com/dp/B0D1LHBZGL
 [cargowerk]: https://www.cargowerk.com/
