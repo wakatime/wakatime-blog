@@ -7,7 +7,7 @@ Author: Alan Hamlett
 AuthorUrl: https://wakatime.com/@alan
 AuthorAvatar: https://wakatime.com/photo/@alan?size=420
 Category: New Features
-Tags: ai
+Tags: ai, travel, backpack
 ---
 
 Get ready for your yearly 2025 wrapped code stats.
