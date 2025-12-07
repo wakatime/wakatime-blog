@@ -12,7 +12,7 @@ Tags: ai, travel, backpack
 
 Get ready for your yearly 2025 wrapped code stats.
 
-<div style="position:relative;margin-top:30px;margin-bottom:30px;padding-bottom:57.23370429252782%;height:0;"><iframe src="https://www.loom.com/embed/b4e59761519c4dff811d9874a29b5c43" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position:relative;margin-top:30px;margin-bottom:30px;padding-bottom:57.23370429252782%;height:0;"><iframe src="https://www.loom.com/embed/ffb3dee664604d388b2d8f9f22ddea77" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 We release the yearly stats [every January][previous blogs] after New Years, to make sure we include your work up to the last second including any holiday coding.
 
@@ -61,17 +61,19 @@ This means easier billing, clearer reporting, and fewer spreadsheets.
 
 ### 👜 The Ultimate Tech Backpack
 
-<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/berliner-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:70%" /></a>
+<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-travel-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/berliner-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:70%" /></a>
 
 A good backpack looks stylish, organizes your gear, and provides quick access to each device.
-We teamed up with a [designer in Prague][cargowerk] to create the ultimate backpack for devs, designers, and techies.
+We’ve teamed up with a [designer in Prague][cargowerk] to create the ultimate backpack for devs, designers, and techies.
 Here’s why the Berliner backpack is the best tech bag:
 
-- side-access laptop separate from main compartment
+- side-access laptop, separate from main compartment
 
-- quick access exterior pocket, with enough room for a [5 year airtag][airtag]
+- quick access exterior pocket
 
-- hidden security pocket
+- exterior security pocket
+
+- interior hidden pocket with enough room for a [5 year][5 year airtag] or even [10 year][10 year airtag] airtag
 
 - extra laptop/ipad pouch inside
 
@@ -79,7 +81,10 @@ Here’s why the Berliner backpack is the best tech bag:
 
 - roll top for expandable storage
 
+- cargo net or optional elastic netting for sweater or jacket
+
 After more than a year of prototyping, feedback, and real world testing meet the [Berliner backpack][berliner].
+Preorder now, with delivery expected January 2025.
 
 
 [claude plugin]: https://wakatime.com/claude-code
@@ -87,6 +92,7 @@ After more than a year of prototyping, feedback, and real world testing meet the
 [plugins]: https://wakatime.com/plugins
 [previous blogs]: https://wakatime.com/blog/tag/yearendreport
 [client filters]: https://wakatime.com/invoicing
-[berliner]: https://www.cargowerk.com/bags/p/berliner-daily-tech-backpack
-[airtag]: https://www.amazon.com/dp/B0F4ZSGYT9
+[berliner]: https://www.cargowerk.com/bags/p/berliner-daily-tech-travel-backpack
+[5 year airtag]: https://www.amazon.com/dp/B0F4ZSGYT9
+[10 year airtag]: https://www.amazon.com/dp/B0D1LHBZGL
 [cargowerk]: https://www.cargowerk.com/
