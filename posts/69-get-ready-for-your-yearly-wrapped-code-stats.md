@@ -11,9 +11,6 @@ Tags: ai, travel, backpack
 ---
 
 Get ready for your yearly 2025 wrapped code stats.
-
-<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-travel-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/berliner-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:70%" /></a>
-
 We release the yearly stats [every January][previous blogs] after New Years, to make sure we include your work up to the last second including any holiday coding.
 
 ### What’s new
@@ -85,6 +82,8 @@ Here’s why the Berliner backpack is the best tech bag:
 
 After more than a year of prototyping, feedback, and real world testing meet the [Berliner backpack][berliner].
 Preorder now, with delivery expected January 2025.
+
+<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-travel-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/berliner-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:70%" /></a>
 
 
 [claude plugin]: https://wakatime.com/claude-code
