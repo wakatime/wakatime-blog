@@ -12,7 +12,7 @@ Tags: ai, travel, backpack
 
 Get ready for your yearly 2025 wrapped code stats.
 
-<div style="position:relative;margin-top:30px;margin-bottom:30px;padding-bottom:57.23370429252782%;height:0;"><iframe src="https://www.loom.com/embed/ffb3dee664604d388b2d8f9f22ddea77" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-travel-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/berliner-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:70%" /></a>
 
 We release the yearly stats [every January][previous blogs] after New Years, to make sure we include your work up to the last second including any holiday coding.
 
@@ -61,7 +61,7 @@ This means easier billing, clearer reporting, and fewer spreadsheets.
 
 ### 👜 The Ultimate Tech Backpack
 
-<a href="https://www.cargowerk.com/bags/p/berliner-daily-tech-travel-backpack" target="_blank"><img src="https://wakatime.com/static/img/blog/berliner-backpack.jpg" class="img-thumbnail" alt="tech backpack" title="tech backpack" style="width:70%" /></a>
+<div style="position:relative;margin-top:30px;margin-bottom:30px;padding-bottom:57.23370429252782%;height:0;"><iframe src="https://www.loom.com/embed/ffb3dee664604d388b2d8f9f22ddea77" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 A good backpack looks stylish, organizes your gear, and provides quick access to each device.
 We’ve teamed up with a [designer in Prague][cargowerk] to create the ultimate backpack for devs, designers, and techies.
