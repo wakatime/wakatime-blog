@@ -21,14 +21,14 @@ Time trackers can be grouped into manual and automated categories:
 
 ## Automated time trackers
 
-### [WakaTime][wakatime] - A time tracker for software engineers, using open source IDE plugins
+### [WakaTime][wakatime] - A time tracker for developers, using open source IDE plugins
 
 WakaTime is a dashboard for developers and dev teams, using IDE plugins to automate time tracking.
-Since it’s built for programmers, it automatically detects your projects and works seamlessly with the tools you’re already using.
-Make sure to increase the default [Timeout preference][timeout] so you’re not under-reporting your actual work time.
+Since it’s built for programmers, it automatically detects your projects, feature branch, and programming languages.
 WakaTime also measures how many lines of code you generate using AI, giving an AI vs Human breakdown for your projects.
+Make sure to increase the default [Keystroke timeout preference][timeout] so you’re not under-reporting your actual work time.
 
-### [ActivityWatch][activitywatch] - An app that automatically tracks how you spend time on your device
+### [ActivityWatch][activitywatch] - An app that automatically tracks how you spend time on your computer
 
 Tracks active application and window title, with data stored locally on your computer.
 It’s not made specifically for devs, but if you don’t need team features then ActivityWatch is a good automatic time tracker to measure your productivity.
@@ -64,4 +64,4 @@ It's fully automatic and gives you all the insights a developer needs, for ex: t
 [freshbooks]: https://www.freshbooks.com/?utm_source=wakatime
 [upwork]: https://www.buzzfeednews.com/article/carolineodonovan/upwork-freelancers-work-diary-keystrokes-screenshot
 [wakatime]: https://wakatime.com/
-[timeout]: https://wakatime.com/blog/27-fill-the-gaps-in-your-coding-activity
+[timeout]: https://wakatime.com/faq#timeout
