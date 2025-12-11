@@ -19,6 +19,20 @@ Even if you do project-based invoicing, accurate time tracking is important for 
 
 Time trackers can be grouped into manual and automated categories:
 
+## Automated time trackers
+
+### [WakaTime][wakatime] - A time tracker for software engineers, using open source IDE plugins
+
+WakaTime is a dashboard for developers and dev teams, using IDE plugins to automate time tracking.
+Since it’s built for programmers, it automatically detects your projects and works seamlessly with the tools you’re already using.
+Make sure to increase the default [Timeout preference][timeout] so you’re not under-reporting your actual work time.
+WakaTime also measures how many lines of code you generate using AI, giving an AI vs Human breakdown for your projects.
+
+### [ActivityWatch][activitywatch] - An app that automatically tracks how you spend time on your device
+
+Tracks active application and window title, with data stored locally on your computer.
+It’s not made specifically for devs, but if you don’t need team features then ActivityWatch is a good automatic time tracker to measure your productivity.
+
 ## Manual time trackers
 
 ### [Toggl][toggl] - A simple time tracker with stopwatch app for many platforms
@@ -30,20 +44,11 @@ Its simplicity and support for multiple platforms has made it the leader in gene
 
 Use this if you have a lot of clients where sending invoices and collecting payments is taking up a lot of your time.
 
-## Automated time trackers
-
 ### [Upwork][upwork] - A freelancer platform with a screenshot desktop app
 
 If you’re just starting out and need to find work, Upwork can be a good place to find new clients.
 However, their time tracking app takes screenshots of your desktop every 10 minutes.
 Not everyone is comfortable with that level of monitoring.
-
-### [WakaTime][wakatime] - A time tracker for software engineers, with open source IDE plugins
-
-WakaTime is a dashboard for developers, using IDE plugins to automate time tracking.
-Since it’s built for programmers, it automatically detects your projects and works seamlessly with the tools you’re already using.
-Just make sure to increase the default [Timeout preference][timeout] so you’re not under-reporting your actual work time.
-You can also time track as a team.
 
 ## The Winner?
 
@@ -54,6 +59,7 @@ If you’re a programmer, [WakaTime][wakatime] is the best time tracker.
 It's fully automatic and gives you all the insights a developer needs, for ex: time tracking per commit, file, or project.
 
 
+[activitywatch]: https://activitywatch.net/
 [toggl]: https://www.toggl.com/?utm_source=wakatime
 [freshbooks]: https://www.freshbooks.com/?utm_source=wakatime
 [upwork]: https://www.buzzfeednews.com/article/carolineodonovan/upwork-freelancers-work-diary-keystrokes-screenshot
