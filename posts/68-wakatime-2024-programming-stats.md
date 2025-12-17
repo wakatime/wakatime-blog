@@ -1,6 +1,6 @@
 ---
 Title: WakaTime 2024 Programming Stats
-Date: 2024-12-03
+Date: 2025-01-04
 Image: https://wakatime.com/share/all-users-stats/2024-languages.png
 Description: Aggregate programming stats of all WakaTime users over 2024.
 Author: Alan Hamlett
