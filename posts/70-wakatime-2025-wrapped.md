@@ -26,7 +26,6 @@ Each year we release a [personalized coding report][report] showing your accompl
 We also include average trends for all WakaTime devs showing the most used languages, IDEs, and operating systems.
 These trends come from aggregating the WakaTime personal dashboard metrics when a developer installs one of our [IDE plugins][plugins].
 We can find new trends among software engineers using this data, for example this year a [new AI-powered editor][editors section] is gaining momentum: ❮placeholder❯.
-There’s more exciting data below… but first, a quick list of new features released in 2025.
 
 ## New Features & Milestones
 
