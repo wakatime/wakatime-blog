@@ -18,14 +18,20 @@ Happy New Year!
   Photo by <a href="https://unsplash.com/photos/yGf2UFf1qvM">Alan Hamlett</a>
 </div>
 
-In 2025, more than 500k developers spent a combined ❮placeholder❯ million hours programming, tracked with [WakaTime plugins][plugins].
-The average person spent ❮placeholder❯ minutes per day programming, a ❮placeholder❯ from [last year][last year blog].
+In 2025, more than 500k developers spent a combined 61 million hours programming, tracked with [WakaTime plugins][plugins].
+The average person spent 51 minutes per day programming, almost the same as [last year][last year blog] but about 30 seconds more on average.
 
 Each year we release a [personalized coding report][report] showing your accomplishments over the last year.
 
 We also include average trends for all WakaTime devs showing the most used languages, IDEs, and operating systems.
 These trends come from aggregating the WakaTime personal dashboard metrics when a developer installs one of our [IDE plugins][plugins].
-We can find new trends among software engineers using this data, for example this year a [new AI-powered editor][editors section] is gaining momentum: ❮placeholder❯.
+We can find new trends among software engineers using this data, for example this year:
+
+* devs are using [AI-integrated IDEs][editors section] more - 50% VS Code, 14% Cursor, Windsurf, Trae, and Claude Code all increasing
+* IDEs without AI tooling are decreasing in usage
+* Python took 2nd place pushing JavaScript into 3rd
+* TypeScript is still the most used language
+* Vim is dead, long live Neovim
 
 ## New Features & Milestones
 
