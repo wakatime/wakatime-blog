@@ -1,6 +1,6 @@
 ---
 Title: WakaTime 2025 Wrapped
-Date: 2026-01-03
+Date: 2026-01-02
 Image: https://wakatime.com/share/all-users-stats/2025-languages.png
 Description: Aggregate programming stats of all WakaTime users over 2025.
 Author: Alan Hamlett
